@@ -1,0 +1,15 @@
+
+# Archivos originales de D'ark
+samples/dark/
+extracted/
+rebuilt/
+samples/dialogues.bin
+samples/example.bin
+
+# ImHex portable
+imhex-1.38.1-Windows-Portable-x86_64/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
