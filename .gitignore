@@ -13,3 +13,7 @@ imhex-1.38.1-Windows-Portable-x86_64/
 __pycache__/
 *.pyc
 .venv/
+
+# ndc
+*.ndc
+ndcmsg.txt
