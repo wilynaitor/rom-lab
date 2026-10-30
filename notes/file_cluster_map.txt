@@ -1,0 +1,1310 @@
+AKUNO.DA1 | 3311 bytes
+  Cluster 19 -> LBA 28 hasta 28
+  Cluster 20 -> LBA 29 hasta 29
+  Cluster 21 -> LBA 30 hasta 30
+  Cluster 22 -> LBA 31 hasta 31
+
+ASSASSIN.M | 348 bytes
+  Cluster 70 -> LBA 79 hasta 79
+
+BIGHIME.DA1 | 11619 bytes
+  Cluster 7 -> LBA 16 hasta 16
+  Cluster 8 -> LBA 17 hasta 17
+  Cluster 9 -> LBA 18 hasta 18
+  Cluster 10 -> LBA 19 hasta 19
+  Cluster 11 -> LBA 20 hasta 20
+  Cluster 12 -> LBA 21 hasta 21
+  Cluster 13 -> LBA 22 hasta 22
+  Cluster 14 -> LBA 23 hasta 23
+  Cluster 15 -> LBA 24 hasta 24
+  Cluster 16 -> LBA 25 hasta 25
+  Cluster 17 -> LBA 26 hasta 26
+  Cluster 18 -> LBA 27 hasta 27
+
+FLANNEL.M | 3165 bytes
+  Cluster 35 -> LBA 44 hasta 44
+  Cluster 36 -> LBA 45 hasta 45
+  Cluster 37 -> LBA 46 hasta 46
+  Cluster 38 -> LBA 47 hasta 47
+
+BS-012.DA1 | 5336 bytes
+  Cluster 23 -> LBA 32 hasta 32
+  Cluster 24 -> LBA 33 hasta 33
+  Cluster 25 -> LBA 34 hasta 34
+  Cluster 26 -> LBA 35 hasta 35
+  Cluster 27 -> LBA 36 hasta 36
+  Cluster 28 -> LBA 37 hasta 37
+
+BS-013.DA1 | 4114 bytes
+  Cluster 2 -> LBA 11 hasta 11
+  Cluster 3 -> LBA 12 hasta 12
+  Cluster 4 -> LBA 13 hasta 13
+  Cluster 5 -> LBA 14 hasta 14
+  Cluster 6 -> LBA 15 hasta 15
+
+BS-014.DA1 | 2795 bytes
+  Cluster 87 -> LBA 96 hasta 96
+  Cluster 88 -> LBA 97 hasta 97
+  Cluster 89 -> LBA 98 hasta 98
+
+BS-015.DA1 | 4295 bytes
+  Cluster 55 -> LBA 64 hasta 64
+  Cluster 56 -> LBA 65 hasta 65
+  Cluster 57 -> LBA 66 hasta 66
+  Cluster 58 -> LBA 67 hasta 67
+  Cluster 59 -> LBA 68 hasta 68
+
+BS-016.DA1 | 6140 bytes
+  Cluster 29 -> LBA 38 hasta 38
+  Cluster 30 -> LBA 39 hasta 39
+  Cluster 31 -> LBA 40 hasta 40
+  Cluster 32 -> LBA 41 hasta 41
+  Cluster 33 -> LBA 42 hasta 42
+  Cluster 34 -> LBA 43 hasta 43
+
+BS-017.DA1 | 6053 bytes
+  Cluster 39 -> LBA 48 hasta 48
+  Cluster 40 -> LBA 49 hasta 49
+  Cluster 41 -> LBA 50 hasta 50
+  Cluster 42 -> LBA 51 hasta 51
+  Cluster 43 -> LBA 52 hasta 52
+  Cluster 44 -> LBA 53 hasta 53
+
+BS-017B.DA1 | 2602 bytes
+  Cluster 90 -> LBA 99 hasta 99
+  Cluster 91 -> LBA 100 hasta 100
+  Cluster 92 -> LBA 101 hasta 101
+
+BS-018.DA1 | 5565 bytes
+  Cluster 45 -> LBA 54 hasta 54
+  Cluster 46 -> LBA 55 hasta 55
+  Cluster 47 -> LBA 56 hasta 56
+  Cluster 48 -> LBA 57 hasta 57
+  Cluster 49 -> LBA 58 hasta 58
+  Cluster 50 -> LBA 59 hasta 59
+
+BS-019.DA1 | 3980 bytes
+  Cluster 51 -> LBA 60 hasta 60
+  Cluster 52 -> LBA 61 hasta 61
+  Cluster 53 -> LBA 62 hasta 62
+  Cluster 54 -> LBA 63 hasta 63
+
+BS-020.DA1 | 4362 bytes
+  Cluster 60 -> LBA 69 hasta 69
+  Cluster 61 -> LBA 70 hasta 70
+  Cluster 62 -> LBA 71 hasta 71
+  Cluster 63 -> LBA 72 hasta 72
+  Cluster 64 -> LBA 73 hasta 73
+
+BS-021.DA1 | 4547 bytes
+  Cluster 65 -> LBA 74 hasta 74
+  Cluster 66 -> LBA 75 hasta 75
+  Cluster 67 -> LBA 76 hasta 76
+  Cluster 68 -> LBA 77 hasta 77
+  Cluster 69 -> LBA 78 hasta 78
+
+BTL08.M | 2631 bytes
+  Cluster 93 -> LBA 102 hasta 102
+  Cluster 94 -> LBA 103 hasta 103
+  Cluster 95 -> LBA 104 hasta 104
+
+BTL29.M | 539 bytes
+  Cluster 102 -> LBA 111 hasta 111
+
+BTL30.M | 1877 bytes
+  Cluster 85 -> LBA 94 hasta 94
+  Cluster 86 -> LBA 95 hasta 95
+
+BTL32.M | 1755 bytes
+  Cluster 100 -> LBA 109 hasta 109
+  Cluster 101 -> LBA 110 hasta 110
+
+BTL39.M | 1403 bytes
+  Cluster 225 -> LBA 234 hasta 234
+  Cluster 226 -> LBA 235 hasta 235
+
+BUHIN.G | 13568 bytes
+  Cluster 71 -> LBA 80 hasta 80
+  Cluster 72 -> LBA 81 hasta 81
+  Cluster 73 -> LBA 82 hasta 82
+  Cluster 74 -> LBA 83 hasta 83
+  Cluster 75 -> LBA 84 hasta 84
+  Cluster 76 -> LBA 85 hasta 85
+  Cluster 77 -> LBA 86 hasta 86
+  Cluster 78 -> LBA 87 hasta 87
+  Cluster 79 -> LBA 88 hasta 88
+  Cluster 80 -> LBA 89 hasta 89
+  Cluster 81 -> LBA 90 hasta 90
+  Cluster 82 -> LBA 91 hasta 91
+  Cluster 83 -> LBA 92 hasta 92
+  Cluster 84 -> LBA 93 hasta 93
+
+BURN.M | 254 bytes
+  Cluster 306 -> LBA 315 hasta 315
+
+CONFIG.SYS | 41 bytes
+  Cluster 307 -> LBA 316 hasta 316
+
+CR.M | 627 bytes
+  Cluster 308 -> LBA 317 hasta 317
+
+D.BAT | 17 bytes
+  Cluster 309 -> LBA 318 hasta 318
+
+DA_ARMOR.M | 765 bytes
+  Cluster 310 -> LBA 319 hasta 319
+
+DULLDEEK.DA1 | 557 bytes
+  Cluster 369 -> LBA 378 hasta 378
+
+EAREA.DA1 | 556 bytes
+  Cluster 370 -> LBA 379 hasta 379
+
+EV02.M | 816 bytes
+  Cluster 371 -> LBA 380 hasta 380
+
+EV05.M | 1830 bytes
+  Cluster 227 -> LBA 236 hasta 236
+  Cluster 228 -> LBA 237 hasta 237
+
+FIG03.M | 2081 bytes
+  Cluster 97 -> LBA 106 hasta 106
+  Cluster 98 -> LBA 107 hasta 107
+  Cluster 99 -> LBA 108 hasta 108
+
+GAME.EXE | 126278 bytes
+  Cluster 103 -> LBA 112 hasta 112
+  Cluster 104 -> LBA 113 hasta 113
+  Cluster 105 -> LBA 114 hasta 114
+  Cluster 106 -> LBA 115 hasta 115
+  Cluster 107 -> LBA 116 hasta 116
+  Cluster 108 -> LBA 117 hasta 117
+  Cluster 109 -> LBA 118 hasta 118
+  Cluster 110 -> LBA 119 hasta 119
+  Cluster 111 -> LBA 120 hasta 120
+  Cluster 112 -> LBA 121 hasta 121
+  Cluster 113 -> LBA 122 hasta 122
+  Cluster 114 -> LBA 123 hasta 123
+  Cluster 115 -> LBA 124 hasta 124
+  Cluster 116 -> LBA 125 hasta 125
+  Cluster 117 -> LBA 126 hasta 126
+  Cluster 118 -> LBA 127 hasta 127
+  Cluster 119 -> LBA 128 hasta 128
+  Cluster 120 -> LBA 129 hasta 129
+  Cluster 121 -> LBA 130 hasta 130
+  Cluster 122 -> LBA 131 hasta 131
+  Cluster 123 -> LBA 132 hasta 132
+  Cluster 124 -> LBA 133 hasta 133
+  Cluster 125 -> LBA 134 hasta 134
+  Cluster 126 -> LBA 135 hasta 135
+  Cluster 127 -> LBA 136 hasta 136
+  Cluster 128 -> LBA 137 hasta 137
+  Cluster 129 -> LBA 138 hasta 138
+  Cluster 130 -> LBA 139 hasta 139
+  Cluster 131 -> LBA 140 hasta 140
+  Cluster 132 -> LBA 141 hasta 141
+  Cluster 133 -> LBA 142 hasta 142
+  Cluster 134 -> LBA 143 hasta 143
+  Cluster 135 -> LBA 144 hasta 144
+  Cluster 136 -> LBA 145 hasta 145
+  Cluster 137 -> LBA 146 hasta 146
+  Cluster 138 -> LBA 147 hasta 147
+  Cluster 139 -> LBA 148 hasta 148
+  Cluster 140 -> LBA 149 hasta 149
+  Cluster 141 -> LBA 150 hasta 150
+  Cluster 142 -> LBA 151 hasta 151
+  Cluster 143 -> LBA 152 hasta 152
+  Cluster 144 -> LBA 153 hasta 153
+  Cluster 145 -> LBA 154 hasta 154
+  Cluster 146 -> LBA 155 hasta 155
+  Cluster 147 -> LBA 156 hasta 156
+  Cluster 148 -> LBA 157 hasta 157
+  Cluster 149 -> LBA 158 hasta 158
+  Cluster 150 -> LBA 159 hasta 159
+  Cluster 151 -> LBA 160 hasta 160
+  Cluster 152 -> LBA 161 hasta 161
+  Cluster 153 -> LBA 162 hasta 162
+  Cluster 154 -> LBA 163 hasta 163
+  Cluster 155 -> LBA 164 hasta 164
+  Cluster 156 -> LBA 165 hasta 165
+  Cluster 157 -> LBA 166 hasta 166
+  Cluster 158 -> LBA 167 hasta 167
+  Cluster 159 -> LBA 168 hasta 168
+  Cluster 160 -> LBA 169 hasta 169
+  Cluster 161 -> LBA 170 hasta 170
+  Cluster 162 -> LBA 171 hasta 171
+  Cluster 163 -> LBA 172 hasta 172
+  Cluster 164 -> LBA 173 hasta 173
+  Cluster 165 -> LBA 174 hasta 174
+  Cluster 166 -> LBA 175 hasta 175
+  Cluster 167 -> LBA 176 hasta 176
+  Cluster 168 -> LBA 177 hasta 177
+  Cluster 169 -> LBA 178 hasta 178
+  Cluster 170 -> LBA 179 hasta 179
+  Cluster 171 -> LBA 180 hasta 180
+  Cluster 172 -> LBA 181 hasta 181
+  Cluster 173 -> LBA 182 hasta 182
+  Cluster 174 -> LBA 183 hasta 183
+  Cluster 175 -> LBA 184 hasta 184
+  Cluster 176 -> LBA 185 hasta 185
+  Cluster 177 -> LBA 186 hasta 186
+  Cluster 178 -> LBA 187 hasta 187
+  Cluster 179 -> LBA 188 hasta 188
+  Cluster 180 -> LBA 189 hasta 189
+  Cluster 181 -> LBA 190 hasta 190
+  Cluster 182 -> LBA 191 hasta 191
+  Cluster 183 -> LBA 192 hasta 192
+  Cluster 184 -> LBA 193 hasta 193
+  Cluster 185 -> LBA 194 hasta 194
+  Cluster 186 -> LBA 195 hasta 195
+  Cluster 187 -> LBA 196 hasta 196
+  Cluster 188 -> LBA 197 hasta 197
+  Cluster 189 -> LBA 198 hasta 198
+  Cluster 190 -> LBA 199 hasta 199
+  Cluster 191 -> LBA 200 hasta 200
+  Cluster 192 -> LBA 201 hasta 201
+  Cluster 193 -> LBA 202 hasta 202
+  Cluster 194 -> LBA 203 hasta 203
+  Cluster 195 -> LBA 204 hasta 204
+  Cluster 196 -> LBA 205 hasta 205
+  Cluster 197 -> LBA 206 hasta 206
+  Cluster 198 -> LBA 207 hasta 207
+  Cluster 199 -> LBA 208 hasta 208
+  Cluster 200 -> LBA 209 hasta 209
+  Cluster 201 -> LBA 210 hasta 210
+  Cluster 202 -> LBA 211 hasta 211
+  Cluster 203 -> LBA 212 hasta 212
+  Cluster 204 -> LBA 213 hasta 213
+  Cluster 205 -> LBA 214 hasta 214
+  Cluster 206 -> LBA 215 hasta 215
+  Cluster 207 -> LBA 216 hasta 216
+  Cluster 208 -> LBA 217 hasta 217
+  Cluster 209 -> LBA 218 hasta 218
+  Cluster 210 -> LBA 219 hasta 219
+  Cluster 211 -> LBA 220 hasta 220
+  Cluster 212 -> LBA 221 hasta 221
+  Cluster 213 -> LBA 222 hasta 222
+  Cluster 214 -> LBA 223 hasta 223
+  Cluster 215 -> LBA 224 hasta 224
+  Cluster 216 -> LBA 225 hasta 225
+  Cluster 217 -> LBA 226 hasta 226
+  Cluster 218 -> LBA 227 hasta 227
+  Cluster 219 -> LBA 228 hasta 228
+  Cluster 220 -> LBA 229 hasta 229
+  Cluster 221 -> LBA 230 hasta 230
+  Cluster 222 -> LBA 231 hasta 231
+  Cluster 223 -> LBA 232 hasta 232
+  Cluster 224 -> LBA 233 hasta 233
+  Cluster 535 -> LBA 544 hasta 544
+  Cluster 536 -> LBA 545 hasta 545
+
+GAMEN.DA1 | 28611 bytes
+  Cluster 471 -> LBA 480 hasta 480
+  Cluster 472 -> LBA 481 hasta 481
+  Cluster 473 -> LBA 482 hasta 482
+  Cluster 474 -> LBA 483 hasta 483
+  Cluster 475 -> LBA 484 hasta 484
+  Cluster 476 -> LBA 485 hasta 485
+  Cluster 477 -> LBA 486 hasta 486
+  Cluster 478 -> LBA 487 hasta 487
+  Cluster 479 -> LBA 488 hasta 488
+  Cluster 480 -> LBA 489 hasta 489
+  Cluster 481 -> LBA 490 hasta 490
+  Cluster 482 -> LBA 491 hasta 491
+  Cluster 483 -> LBA 492 hasta 492
+  Cluster 484 -> LBA 493 hasta 493
+  Cluster 485 -> LBA 494 hasta 494
+  Cluster 486 -> LBA 495 hasta 495
+  Cluster 487 -> LBA 496 hasta 496
+  Cluster 488 -> LBA 497 hasta 497
+  Cluster 489 -> LBA 498 hasta 498
+  Cluster 490 -> LBA 499 hasta 499
+  Cluster 491 -> LBA 500 hasta 500
+  Cluster 492 -> LBA 501 hasta 501
+  Cluster 493 -> LBA 502 hasta 502
+  Cluster 494 -> LBA 503 hasta 503
+  Cluster 495 -> LBA 504 hasta 504
+  Cluster 496 -> LBA 505 hasta 505
+  Cluster 497 -> LBA 506 hasta 506
+  Cluster 498 -> LBA 507 hasta 507
+
+HORU.M | 744 bytes
+  Cluster 372 -> LBA 381 hasta 381
+
+IO98.SYS | 8755 bytes
+  Cluster 503 -> LBA 512 hasta 512
+  Cluster 504 -> LBA 513 hasta 513
+  Cluster 505 -> LBA 514 hasta 514
+  Cluster 506 -> LBA 515 hasta 515
+  Cluster 507 -> LBA 516 hasta 516
+  Cluster 508 -> LBA 517 hasta 517
+  Cluster 509 -> LBA 518 hasta 518
+  Cluster 510 -> LBA 519 hasta 519
+  Cluster 511 -> LBA 520 hasta 520
+
+K1.EFC | 1085 bytes
+  Cluster 229 -> LBA 238 hasta 238
+  Cluster 230 -> LBA 239 hasta 239
+
+KABE1.X | 59388 bytes
+  Cluster 311 -> LBA 320 hasta 320
+  Cluster 312 -> LBA 321 hasta 321
+  Cluster 313 -> LBA 322 hasta 322
+  Cluster 314 -> LBA 323 hasta 323
+  Cluster 315 -> LBA 324 hasta 324
+  Cluster 316 -> LBA 325 hasta 325
+  Cluster 317 -> LBA 326 hasta 326
+  Cluster 318 -> LBA 327 hasta 327
+  Cluster 319 -> LBA 328 hasta 328
+  Cluster 320 -> LBA 329 hasta 329
+  Cluster 321 -> LBA 330 hasta 330
+  Cluster 322 -> LBA 331 hasta 331
+  Cluster 323 -> LBA 332 hasta 332
+  Cluster 324 -> LBA 333 hasta 333
+  Cluster 325 -> LBA 334 hasta 334
+  Cluster 326 -> LBA 335 hasta 335
+  Cluster 327 -> LBA 336 hasta 336
+  Cluster 328 -> LBA 337 hasta 337
+  Cluster 329 -> LBA 338 hasta 338
+  Cluster 330 -> LBA 339 hasta 339
+  Cluster 331 -> LBA 340 hasta 340
+  Cluster 332 -> LBA 341 hasta 341
+  Cluster 333 -> LBA 342 hasta 342
+  Cluster 334 -> LBA 343 hasta 343
+  Cluster 335 -> LBA 344 hasta 344
+  Cluster 336 -> LBA 345 hasta 345
+  Cluster 337 -> LBA 346 hasta 346
+  Cluster 338 -> LBA 347 hasta 347
+  Cluster 339 -> LBA 348 hasta 348
+  Cluster 340 -> LBA 349 hasta 349
+  Cluster 341 -> LBA 350 hasta 350
+  Cluster 342 -> LBA 351 hasta 351
+  Cluster 343 -> LBA 352 hasta 352
+  Cluster 344 -> LBA 353 hasta 353
+  Cluster 345 -> LBA 354 hasta 354
+  Cluster 346 -> LBA 355 hasta 355
+  Cluster 347 -> LBA 356 hasta 356
+  Cluster 348 -> LBA 357 hasta 357
+  Cluster 349 -> LBA 358 hasta 358
+  Cluster 350 -> LBA 359 hasta 359
+  Cluster 351 -> LBA 360 hasta 360
+  Cluster 352 -> LBA 361 hasta 361
+  Cluster 353 -> LBA 362 hasta 362
+  Cluster 354 -> LBA 363 hasta 363
+  Cluster 355 -> LBA 364 hasta 364
+  Cluster 356 -> LBA 365 hasta 365
+  Cluster 357 -> LBA 366 hasta 366
+  Cluster 358 -> LBA 367 hasta 367
+  Cluster 359 -> LBA 368 hasta 368
+  Cluster 360 -> LBA 369 hasta 369
+  Cluster 361 -> LBA 370 hasta 370
+  Cluster 362 -> LBA 371 hasta 371
+  Cluster 363 -> LBA 372 hasta 372
+  Cluster 364 -> LBA 373 hasta 373
+  Cluster 365 -> LBA 374 hasta 374
+  Cluster 366 -> LBA 375 hasta 375
+  Cluster 367 -> LBA 376 hasta 376
+  Cluster 368 -> LBA 377 hasta 377
+
+KABE2.X | 45203 bytes
+  Cluster 423 -> LBA 432 hasta 432
+  Cluster 424 -> LBA 433 hasta 433
+  Cluster 425 -> LBA 434 hasta 434
+  Cluster 426 -> LBA 435 hasta 435
+  Cluster 427 -> LBA 436 hasta 436
+  Cluster 428 -> LBA 437 hasta 437
+  Cluster 429 -> LBA 438 hasta 438
+  Cluster 430 -> LBA 439 hasta 439
+  Cluster 431 -> LBA 440 hasta 440
+  Cluster 432 -> LBA 441 hasta 441
+  Cluster 433 -> LBA 442 hasta 442
+  Cluster 434 -> LBA 443 hasta 443
+  Cluster 435 -> LBA 444 hasta 444
+  Cluster 436 -> LBA 445 hasta 445
+  Cluster 437 -> LBA 446 hasta 446
+  Cluster 438 -> LBA 447 hasta 447
+  Cluster 439 -> LBA 448 hasta 448
+  Cluster 440 -> LBA 449 hasta 449
+  Cluster 441 -> LBA 450 hasta 450
+  Cluster 442 -> LBA 451 hasta 451
+  Cluster 443 -> LBA 452 hasta 452
+  Cluster 444 -> LBA 453 hasta 453
+  Cluster 445 -> LBA 454 hasta 454
+  Cluster 446 -> LBA 455 hasta 455
+  Cluster 447 -> LBA 456 hasta 456
+  Cluster 448 -> LBA 457 hasta 457
+  Cluster 449 -> LBA 458 hasta 458
+  Cluster 450 -> LBA 459 hasta 459
+  Cluster 451 -> LBA 460 hasta 460
+  Cluster 452 -> LBA 461 hasta 461
+  Cluster 453 -> LBA 462 hasta 462
+  Cluster 454 -> LBA 463 hasta 463
+  Cluster 455 -> LBA 464 hasta 464
+  Cluster 456 -> LBA 465 hasta 465
+  Cluster 457 -> LBA 466 hasta 466
+  Cluster 458 -> LBA 467 hasta 467
+  Cluster 459 -> LBA 468 hasta 468
+  Cluster 460 -> LBA 469 hasta 469
+  Cluster 461 -> LBA 470 hasta 470
+  Cluster 462 -> LBA 471 hasta 471
+  Cluster 463 -> LBA 472 hasta 472
+  Cluster 464 -> LBA 473 hasta 473
+  Cluster 465 -> LBA 474 hasta 474
+  Cluster 466 -> LBA 475 hasta 475
+  Cluster 467 -> LBA 476 hasta 476
+
+KABE4.X | 76467 bytes
+  Cluster 231 -> LBA 240 hasta 240
+  Cluster 232 -> LBA 241 hasta 241
+  Cluster 233 -> LBA 242 hasta 242
+  Cluster 234 -> LBA 243 hasta 243
+  Cluster 235 -> LBA 244 hasta 244
+  Cluster 236 -> LBA 245 hasta 245
+  Cluster 237 -> LBA 246 hasta 246
+  Cluster 238 -> LBA 247 hasta 247
+  Cluster 239 -> LBA 248 hasta 248
+  Cluster 240 -> LBA 249 hasta 249
+  Cluster 241 -> LBA 250 hasta 250
+  Cluster 242 -> LBA 251 hasta 251
+  Cluster 243 -> LBA 252 hasta 252
+  Cluster 244 -> LBA 253 hasta 253
+  Cluster 245 -> LBA 254 hasta 254
+  Cluster 246 -> LBA 255 hasta 255
+  Cluster 247 -> LBA 256 hasta 256
+  Cluster 248 -> LBA 257 hasta 257
+  Cluster 249 -> LBA 258 hasta 258
+  Cluster 250 -> LBA 259 hasta 259
+  Cluster 251 -> LBA 260 hasta 260
+  Cluster 252 -> LBA 261 hasta 261
+  Cluster 253 -> LBA 262 hasta 262
+  Cluster 254 -> LBA 263 hasta 263
+  Cluster 255 -> LBA 264 hasta 264
+  Cluster 256 -> LBA 265 hasta 265
+  Cluster 257 -> LBA 266 hasta 266
+  Cluster 258 -> LBA 267 hasta 267
+  Cluster 259 -> LBA 268 hasta 268
+  Cluster 260 -> LBA 269 hasta 269
+  Cluster 261 -> LBA 270 hasta 270
+  Cluster 262 -> LBA 271 hasta 271
+  Cluster 263 -> LBA 272 hasta 272
+  Cluster 264 -> LBA 273 hasta 273
+  Cluster 265 -> LBA 274 hasta 274
+  Cluster 266 -> LBA 275 hasta 275
+  Cluster 267 -> LBA 276 hasta 276
+  Cluster 268 -> LBA 277 hasta 277
+  Cluster 269 -> LBA 278 hasta 278
+  Cluster 270 -> LBA 279 hasta 279
+  Cluster 271 -> LBA 280 hasta 280
+  Cluster 272 -> LBA 281 hasta 281
+  Cluster 273 -> LBA 282 hasta 282
+  Cluster 274 -> LBA 283 hasta 283
+  Cluster 275 -> LBA 284 hasta 284
+  Cluster 276 -> LBA 285 hasta 285
+  Cluster 277 -> LBA 286 hasta 286
+  Cluster 278 -> LBA 287 hasta 287
+  Cluster 279 -> LBA 288 hasta 288
+  Cluster 280 -> LBA 289 hasta 289
+  Cluster 281 -> LBA 290 hasta 290
+  Cluster 282 -> LBA 291 hasta 291
+  Cluster 283 -> LBA 292 hasta 292
+  Cluster 284 -> LBA 293 hasta 293
+  Cluster 285 -> LBA 294 hasta 294
+  Cluster 286 -> LBA 295 hasta 295
+  Cluster 287 -> LBA 296 hasta 296
+  Cluster 288 -> LBA 297 hasta 297
+  Cluster 289 -> LBA 298 hasta 298
+  Cluster 290 -> LBA 299 hasta 299
+  Cluster 291 -> LBA 300 hasta 300
+  Cluster 292 -> LBA 301 hasta 301
+  Cluster 293 -> LBA 302 hasta 302
+  Cluster 294 -> LBA 303 hasta 303
+  Cluster 295 -> LBA 304 hasta 304
+  Cluster 296 -> LBA 305 hasta 305
+  Cluster 297 -> LBA 306 hasta 306
+  Cluster 298 -> LBA 307 hasta 307
+  Cluster 299 -> LBA 308 hasta 308
+  Cluster 300 -> LBA 309 hasta 309
+  Cluster 301 -> LBA 310 hasta 310
+  Cluster 302 -> LBA 311 hasta 311
+  Cluster 303 -> LBA 312 hasta 312
+  Cluster 304 -> LBA 313 hasta 313
+  Cluster 305 -> LBA 314 hasta 314
+
+LEBOO.M | 522 bytes
+  Cluster 373 -> LBA 382 hasta 382
+
+LEDO.M | 853 bytes
+  Cluster 374 -> LBA 383 hasta 383
+
+LIVE_1.M | 625 bytes
+  Cluster 468 -> LBA 477 hasta 477
+
+LURA.DA1 | 506 bytes
+  Cluster 469 -> LBA 478 hasta 478
+
+MAP1.DA1 | 48630 bytes
+  Cluster 375 -> LBA 384 hasta 384
+  Cluster 376 -> LBA 385 hasta 385
+  Cluster 377 -> LBA 386 hasta 386
+  Cluster 378 -> LBA 387 hasta 387
+  Cluster 379 -> LBA 388 hasta 388
+  Cluster 380 -> LBA 389 hasta 389
+  Cluster 381 -> LBA 390 hasta 390
+  Cluster 382 -> LBA 391 hasta 391
+  Cluster 383 -> LBA 392 hasta 392
+  Cluster 384 -> LBA 393 hasta 393
+  Cluster 385 -> LBA 394 hasta 394
+  Cluster 386 -> LBA 395 hasta 395
+  Cluster 387 -> LBA 396 hasta 396
+  Cluster 388 -> LBA 397 hasta 397
+  Cluster 389 -> LBA 398 hasta 398
+  Cluster 390 -> LBA 399 hasta 399
+  Cluster 391 -> LBA 400 hasta 400
+  Cluster 392 -> LBA 401 hasta 401
+  Cluster 393 -> LBA 402 hasta 402
+  Cluster 394 -> LBA 403 hasta 403
+  Cluster 395 -> LBA 404 hasta 404
+  Cluster 396 -> LBA 405 hasta 405
+  Cluster 397 -> LBA 406 hasta 406
+  Cluster 398 -> LBA 407 hasta 407
+  Cluster 399 -> LBA 408 hasta 408
+  Cluster 400 -> LBA 409 hasta 409
+  Cluster 401 -> LBA 410 hasta 410
+  Cluster 402 -> LBA 411 hasta 411
+  Cluster 403 -> LBA 412 hasta 412
+  Cluster 404 -> LBA 413 hasta 413
+  Cluster 405 -> LBA 414 hasta 414
+  Cluster 406 -> LBA 415 hasta 415
+  Cluster 407 -> LBA 416 hasta 416
+  Cluster 408 -> LBA 417 hasta 417
+  Cluster 409 -> LBA 418 hasta 418
+  Cluster 410 -> LBA 419 hasta 419
+  Cluster 411 -> LBA 420 hasta 420
+  Cluster 412 -> LBA 421 hasta 421
+  Cluster 413 -> LBA 422 hasta 422
+  Cluster 414 -> LBA 423 hasta 423
+  Cluster 415 -> LBA 424 hasta 424
+  Cluster 416 -> LBA 425 hasta 425
+  Cluster 417 -> LBA 426 hasta 426
+  Cluster 418 -> LBA 427 hasta 427
+  Cluster 419 -> LBA 428 hasta 428
+  Cluster 420 -> LBA 429 hasta 429
+  Cluster 421 -> LBA 430 hasta 430
+  Cluster 422 -> LBA 431 hasta 431
+
+MAP1-1.DA1 | 201 bytes
+  Cluster 470 -> LBA 479 hasta 479
+
+MAP1-10.DA1 | 266 bytes
+  Cluster 499 -> LBA 508 hasta 508
+
+MAP1-11.DA1 | 275 bytes
+  Cluster 500 -> LBA 509 hasta 509
+
+MAP1-12.DA1 | 229 bytes
+  Cluster 501 -> LBA 510 hasta 510
+
+MAP1-13.DA1 | 286 bytes
+  Cluster 502 -> LBA 511 hasta 511
+
+MAP1-16.DA1 | 878 bytes
+  Cluster 514 -> LBA 523 hasta 523
+
+MAP1-17.DA1 | 214 bytes
+  Cluster 533 -> LBA 542 hasta 542
+
+MAP1-18.DA1 | 359 bytes
+  Cluster 534 -> LBA 543 hasta 543
+
+MAP1-19.DA1 | 578 bytes
+  Cluster 548 -> LBA 557 hasta 557
+
+MAP1-2.DA1 | 451 bytes
+  Cluster 549 -> LBA 558 hasta 558
+
+MAP1-20.DA1 | 590 bytes
+  Cluster 550 -> LBA 559 hasta 559
+
+MAP1-21.DA1 | 668 bytes
+  Cluster 566 -> LBA 575 hasta 575
+
+MAP1-22.DA1 | 508 bytes
+  Cluster 572 -> LBA 581 hasta 581
+
+MAP1-23.DA1 | 867 bytes
+  Cluster 583 -> LBA 592 hasta 592
+
+MAP1-24.DA1 | 242 bytes
+  Cluster 588 -> LBA 597 hasta 597
+
+MAP1-26.DA1 | 1205 bytes
+  Cluster 512 -> LBA 521 hasta 521
+  Cluster 513 -> LBA 522 hasta 522
+
+MAP1-3.DA1 | 465 bytes
+  Cluster 596 -> LBA 605 hasta 605
+
+MAP1-4.DA1 | 467 bytes
+  Cluster 597 -> LBA 606 hasta 606
+
+MAP1-5.DA1 | 394 bytes
+  Cluster 598 -> LBA 607 hasta 607
+
+MAP1-5A.DA1 | 282 bytes
+  Cluster 619 -> LBA 628 hasta 628
+
+MAP1-5B.DA1 | 759 bytes
+  Cluster 620 -> LBA 629 hasta 629
+
+MAP1-7.DA1 | 788 bytes
+  Cluster 621 -> LBA 630 hasta 630
+
+MAP1-8.DA1 | 221 bytes
+  Cluster 622 -> LBA 631 hasta 631
+
+MAP1-9.DA1 | 496 bytes
+  Cluster 623 -> LBA 632 hasta 632
+
+MAZE.DAT | 828 bytes
+  Cluster 994 -> LBA 1003 hasta 1003
+
+MEGDOS.SYS | 17528 bytes
+  Cluster 515 -> LBA 524 hasta 524
+  Cluster 516 -> LBA 525 hasta 525
+  Cluster 517 -> LBA 526 hasta 526
+  Cluster 518 -> LBA 527 hasta 527
+  Cluster 519 -> LBA 528 hasta 528
+  Cluster 520 -> LBA 529 hasta 529
+  Cluster 521 -> LBA 530 hasta 530
+  Cluster 522 -> LBA 531 hasta 531
+  Cluster 523 -> LBA 532 hasta 532
+  Cluster 524 -> LBA 533 hasta 533
+  Cluster 525 -> LBA 534 hasta 534
+  Cluster 526 -> LBA 535 hasta 535
+  Cluster 527 -> LBA 536 hasta 536
+  Cluster 528 -> LBA 537 hasta 537
+  Cluster 529 -> LBA 538 hasta 538
+  Cluster 530 -> LBA 539 hasta 539
+  Cluster 531 -> LBA 540 hasta 540
+  Cluster 532 -> LBA 541 hasta 541
+
+MON.DAT | 10025 bytes
+  Cluster 981 -> LBA 990 hasta 990
+  Cluster 983 -> LBA 992 hasta 992
+  Cluster 984 -> LBA 993 hasta 993
+  Cluster 985 -> LBA 994 hasta 994
+  Cluster 986 -> LBA 995 hasta 995
+  Cluster 989 -> LBA 998 hasta 998
+  Cluster 990 -> LBA 999 hasta 999
+  Cluster 991 -> LBA 1000 hasta 1000
+  Cluster 992 -> LBA 1001 hasta 1001
+  Cluster 993 -> LBA 1002 hasta 1002
+
+MS-008.DA1 | 3001 bytes
+  Cluster 545 -> LBA 554 hasta 554
+  Cluster 546 -> LBA 555 hasta 555
+  Cluster 547 -> LBA 556 hasta 556
+
+MS-012.DA1 | 5091 bytes
+  Cluster 551 -> LBA 560 hasta 560
+  Cluster 552 -> LBA 561 hasta 561
+  Cluster 553 -> LBA 562 hasta 562
+  Cluster 554 -> LBA 563 hasta 563
+  Cluster 555 -> LBA 564 hasta 564
+
+MS-013.DA1 | 4343 bytes
+  Cluster 556 -> LBA 565 hasta 565
+  Cluster 557 -> LBA 566 hasta 566
+  Cluster 558 -> LBA 567 hasta 567
+  Cluster 559 -> LBA 568 hasta 568
+  Cluster 560 -> LBA 569 hasta 569
+
+MS-013S.DA1 | 4158 bytes
+  Cluster 561 -> LBA 570 hasta 570
+  Cluster 562 -> LBA 571 hasta 571
+  Cluster 563 -> LBA 572 hasta 572
+  Cluster 564 -> LBA 573 hasta 573
+  Cluster 565 -> LBA 574 hasta 574
+
+MS-017.DA1 | 4963 bytes
+  Cluster 567 -> LBA 576 hasta 576
+  Cluster 568 -> LBA 577 hasta 577
+  Cluster 569 -> LBA 578 hasta 578
+  Cluster 570 -> LBA 579 hasta 579
+  Cluster 571 -> LBA 580 hasta 580
+
+MS-018.DA1 | 9470 bytes
+  Cluster 573 -> LBA 582 hasta 582
+  Cluster 574 -> LBA 583 hasta 583
+  Cluster 575 -> LBA 584 hasta 584
+  Cluster 576 -> LBA 585 hasta 585
+  Cluster 577 -> LBA 586 hasta 586
+  Cluster 578 -> LBA 587 hasta 587
+  Cluster 579 -> LBA 588 hasta 588
+  Cluster 580 -> LBA 589 hasta 589
+  Cluster 581 -> LBA 590 hasta 590
+  Cluster 582 -> LBA 591 hasta 591
+
+MS-020.DA1 | 3155 bytes
+  Cluster 584 -> LBA 593 hasta 593
+  Cluster 585 -> LBA 594 hasta 594
+  Cluster 586 -> LBA 595 hasta 595
+  Cluster 587 -> LBA 596 hasta 596
+
+MS-022.DA1 | 6182 bytes
+  Cluster 589 -> LBA 598 hasta 598
+  Cluster 590 -> LBA 599 hasta 599
+  Cluster 591 -> LBA 600 hasta 600
+  Cluster 592 -> LBA 601 hasta 601
+  Cluster 593 -> LBA 602 hasta 602
+  Cluster 594 -> LBA 603 hasta 603
+  Cluster 595 -> LBA 604 hasta 604
+
+MS-023.DA1 | 5274 bytes
+  Cluster 599 -> LBA 608 hasta 608
+  Cluster 600 -> LBA 609 hasta 609
+  Cluster 601 -> LBA 610 hasta 610
+  Cluster 602 -> LBA 611 hasta 611
+  Cluster 603 -> LBA 612 hasta 612
+  Cluster 604 -> LBA 613 hasta 613
+
+MS-024.DA1 | 4369 bytes
+  Cluster 605 -> LBA 614 hasta 614
+  Cluster 606 -> LBA 615 hasta 615
+  Cluster 607 -> LBA 616 hasta 616
+  Cluster 608 -> LBA 617 hasta 617
+  Cluster 609 -> LBA 618 hasta 618
+
+MS-025.DA1 | 3722 bytes
+  Cluster 615 -> LBA 624 hasta 624
+  Cluster 616 -> LBA 625 hasta 625
+  Cluster 617 -> LBA 626 hasta 626
+  Cluster 618 -> LBA 627 hasta 627
+
+MS-026.DA1 | 4744 bytes
+  Cluster 610 -> LBA 619 hasta 619
+  Cluster 611 -> LBA 620 hasta 620
+  Cluster 612 -> LBA 621 hasta 621
+  Cluster 613 -> LBA 622 hasta 622
+  Cluster 614 -> LBA 623 hasta 623
+
+MS-027.DA1 | 3667 bytes
+  Cluster 643 -> LBA 652 hasta 652
+  Cluster 644 -> LBA 653 hasta 653
+  Cluster 645 -> LBA 654 hasta 654
+  Cluster 646 -> LBA 655 hasta 655
+
+MS-027S.DA1 | 4379 bytes
+  Cluster 663 -> LBA 672 hasta 672
+  Cluster 664 -> LBA 673 hasta 673
+  Cluster 665 -> LBA 674 hasta 674
+  Cluster 666 -> LBA 675 hasta 675
+  Cluster 667 -> LBA 676 hasta 676
+
+MS-028.DA1 | 5744 bytes
+  Cluster 625 -> LBA 634 hasta 634
+  Cluster 626 -> LBA 635 hasta 635
+  Cluster 627 -> LBA 636 hasta 636
+  Cluster 628 -> LBA 637 hasta 637
+  Cluster 629 -> LBA 638 hasta 638
+  Cluster 630 -> LBA 639 hasta 639
+
+MS-029.DA1 | 4057 bytes
+  Cluster 659 -> LBA 668 hasta 668
+  Cluster 660 -> LBA 669 hasta 669
+  Cluster 661 -> LBA 670 hasta 670
+  Cluster 662 -> LBA 671 hasta 671
+
+MS-030.DA1 | 3393 bytes
+  Cluster 694 -> LBA 703 hasta 703
+  Cluster 695 -> LBA 704 hasta 704
+  Cluster 696 -> LBA 705 hasta 705
+  Cluster 697 -> LBA 706 hasta 706
+
+MS-031.DA1 | 3626 bytes
+  Cluster 721 -> LBA 730 hasta 730
+  Cluster 722 -> LBA 731 hasta 731
+  Cluster 723 -> LBA 732 hasta 732
+  Cluster 724 -> LBA 733 hasta 733
+
+MS-033.DA1 | 5270 bytes
+  Cluster 631 -> LBA 640 hasta 640
+  Cluster 632 -> LBA 641 hasta 641
+  Cluster 633 -> LBA 642 hasta 642
+  Cluster 634 -> LBA 643 hasta 643
+  Cluster 635 -> LBA 644 hasta 644
+  Cluster 636 -> LBA 645 hasta 645
+
+MS-034.DA1 | 3311 bytes
+  Cluster 725 -> LBA 734 hasta 734
+  Cluster 726 -> LBA 735 hasta 735
+  Cluster 727 -> LBA 736 hasta 736
+  Cluster 728 -> LBA 737 hasta 737
+
+MS-036.DA1 | 4579 bytes
+  Cluster 674 -> LBA 683 hasta 683
+  Cluster 675 -> LBA 684 hasta 684
+  Cluster 676 -> LBA 685 hasta 685
+  Cluster 677 -> LBA 686 hasta 686
+  Cluster 678 -> LBA 687 hasta 687
+
+MS-037.DA1 | 3359 bytes
+  Cluster 735 -> LBA 744 hasta 744
+  Cluster 736 -> LBA 745 hasta 745
+  Cluster 737 -> LBA 746 hasta 746
+  Cluster 738 -> LBA 747 hasta 747
+
+MS-042.DA1 | 4654 bytes
+  Cluster 679 -> LBA 688 hasta 688
+  Cluster 680 -> LBA 689 hasta 689
+  Cluster 681 -> LBA 690 hasta 690
+  Cluster 682 -> LBA 691 hasta 691
+  Cluster 683 -> LBA 692 hasta 692
+
+MS-042S.DA1 | 6048 bytes
+  Cluster 637 -> LBA 646 hasta 646
+  Cluster 638 -> LBA 647 hasta 647
+  Cluster 639 -> LBA 648 hasta 648
+  Cluster 640 -> LBA 649 hasta 649
+  Cluster 641 -> LBA 650 hasta 650
+  Cluster 642 -> LBA 651 hasta 651
+
+MS-043.DA1 | 4457 bytes
+  Cluster 684 -> LBA 693 hasta 693
+  Cluster 685 -> LBA 694 hasta 694
+  Cluster 686 -> LBA 695 hasta 695
+  Cluster 687 -> LBA 696 hasta 696
+  Cluster 688 -> LBA 697 hasta 697
+
+MS-044.DA1 | 3301 bytes
+  Cluster 739 -> LBA 748 hasta 748
+  Cluster 740 -> LBA 749 hasta 749
+  Cluster 741 -> LBA 750 hasta 750
+  Cluster 742 -> LBA 751 hasta 751
+
+MS-046.DA1 | 4303 bytes
+  Cluster 689 -> LBA 698 hasta 698
+  Cluster 690 -> LBA 699 hasta 699
+  Cluster 691 -> LBA 700 hasta 700
+  Cluster 692 -> LBA 701 hasta 701
+  Cluster 693 -> LBA 702 hasta 702
+
+MS-046S.DA1 | 4286 bytes
+  Cluster 698 -> LBA 707 hasta 707
+  Cluster 699 -> LBA 708 hasta 708
+  Cluster 700 -> LBA 709 hasta 709
+  Cluster 701 -> LBA 710 hasta 710
+  Cluster 702 -> LBA 711 hasta 711
+
+MS-050.DA1 | 4714 bytes
+  Cluster 703 -> LBA 712 hasta 712
+  Cluster 704 -> LBA 713 hasta 713
+  Cluster 705 -> LBA 714 hasta 714
+  Cluster 706 -> LBA 715 hasta 715
+  Cluster 707 -> LBA 716 hasta 716
+
+MS-054.DA1 | 5434 bytes
+  Cluster 647 -> LBA 656 hasta 656
+  Cluster 648 -> LBA 657 hasta 657
+  Cluster 649 -> LBA 658 hasta 658
+  Cluster 650 -> LBA 659 hasta 659
+  Cluster 651 -> LBA 660 hasta 660
+  Cluster 652 -> LBA 661 hasta 661
+
+MS-056.DA1 | 3509 bytes
+  Cluster 774 -> LBA 783 hasta 783
+  Cluster 775 -> LBA 784 hasta 784
+  Cluster 776 -> LBA 785 hasta 785
+  Cluster 777 -> LBA 786 hasta 786
+
+MS-056S.DA1 | 4369 bytes
+  Cluster 711 -> LBA 720 hasta 720
+  Cluster 712 -> LBA 721 hasta 721
+  Cluster 713 -> LBA 722 hasta 722
+  Cluster 714 -> LBA 723 hasta 723
+  Cluster 715 -> LBA 724 hasta 724
+
+MS-057.DA1 | 5209 bytes
+  Cluster 653 -> LBA 662 hasta 662
+  Cluster 654 -> LBA 663 hasta 663
+  Cluster 655 -> LBA 664 hasta 664
+  Cluster 656 -> LBA 665 hasta 665
+  Cluster 657 -> LBA 666 hasta 666
+  Cluster 658 -> LBA 667 hasta 667
+
+MS-058.DA1 | 3052 bytes
+  Cluster 708 -> LBA 717 hasta 717
+  Cluster 709 -> LBA 718 hasta 718
+  Cluster 710 -> LBA 719 hasta 719
+
+MS-059.DA1 | 5693 bytes
+  Cluster 668 -> LBA 677 hasta 677
+  Cluster 669 -> LBA 678 hasta 678
+  Cluster 670 -> LBA 679 hasta 679
+  Cluster 671 -> LBA 680 hasta 680
+  Cluster 672 -> LBA 681 hasta 681
+  Cluster 673 -> LBA 682 hasta 682
+
+MS-060.DA1 | 4789 bytes
+  Cluster 716 -> LBA 725 hasta 725
+  Cluster 717 -> LBA 726 hasta 726
+  Cluster 718 -> LBA 727 hasta 727
+  Cluster 719 -> LBA 728 hasta 728
+  Cluster 720 -> LBA 729 hasta 729
+
+MS-061.DA1 | 3636 bytes
+  Cluster 790 -> LBA 799 hasta 799
+  Cluster 791 -> LBA 800 hasta 800
+  Cluster 792 -> LBA 801 hasta 801
+  Cluster 793 -> LBA 802 hasta 802
+
+MS-062.DA1 | 4090 bytes
+  Cluster 803 -> LBA 812 hasta 812
+  Cluster 804 -> LBA 813 hasta 813
+  Cluster 805 -> LBA 814 hasta 814
+  Cluster 806 -> LBA 815 hasta 815
+
+MS-064.DA1 | 4088 bytes
+  Cluster 828 -> LBA 837 hasta 837
+  Cluster 829 -> LBA 838 hasta 838
+  Cluster 830 -> LBA 839 hasta 839
+  Cluster 831 -> LBA 840 hasta 840
+
+MS-064S.DA1 | 5191 bytes
+  Cluster 729 -> LBA 738 hasta 738
+  Cluster 730 -> LBA 739 hasta 739
+  Cluster 731 -> LBA 740 hasta 740
+  Cluster 732 -> LBA 741 hasta 741
+  Cluster 733 -> LBA 742 hasta 742
+  Cluster 734 -> LBA 743 hasta 743
+
+MS-065.DA1 | 2649 bytes
+  Cluster 820 -> LBA 829 hasta 829
+  Cluster 821 -> LBA 830 hasta 830
+  Cluster 822 -> LBA 831 hasta 831
+
+MS-066.DA1 | 5057 bytes
+  Cluster 749 -> LBA 758 hasta 758
+  Cluster 750 -> LBA 759 hasta 759
+  Cluster 751 -> LBA 760 hasta 760
+  Cluster 752 -> LBA 761 hasta 761
+  Cluster 753 -> LBA 762 hasta 762
+
+MS-067.DA1 | 3462 bytes
+  Cluster 848 -> LBA 857 hasta 857
+  Cluster 849 -> LBA 858 hasta 858
+  Cluster 850 -> LBA 859 hasta 859
+  Cluster 851 -> LBA 860 hasta 860
+
+MS-068.DA1 | 4658 bytes
+  Cluster 754 -> LBA 763 hasta 763
+  Cluster 755 -> LBA 764 hasta 764
+  Cluster 756 -> LBA 765 hasta 765
+  Cluster 757 -> LBA 766 hasta 766
+  Cluster 758 -> LBA 767 hasta 767
+
+MS-069.DA1 | 4656 bytes
+  Cluster 759 -> LBA 768 hasta 768
+  Cluster 760 -> LBA 769 hasta 769
+  Cluster 761 -> LBA 770 hasta 770
+  Cluster 762 -> LBA 771 hasta 771
+  Cluster 763 -> LBA 772 hasta 772
+
+MS-070.DA1 | 4703 bytes
+  Cluster 764 -> LBA 773 hasta 773
+  Cluster 765 -> LBA 774 hasta 774
+  Cluster 766 -> LBA 775 hasta 775
+  Cluster 767 -> LBA 776 hasta 776
+  Cluster 768 -> LBA 777 hasta 777
+
+MS-071.DA1 | 4748 bytes
+  Cluster 769 -> LBA 778 hasta 778
+  Cluster 770 -> LBA 779 hasta 779
+  Cluster 771 -> LBA 780 hasta 780
+  Cluster 772 -> LBA 781 hasta 781
+  Cluster 773 -> LBA 782 hasta 782
+
+MS-071S.DA1 | 5455 bytes
+  Cluster 743 -> LBA 752 hasta 752
+  Cluster 744 -> LBA 753 hasta 753
+  Cluster 745 -> LBA 754 hasta 754
+  Cluster 746 -> LBA 755 hasta 755
+  Cluster 747 -> LBA 756 hasta 756
+  Cluster 748 -> LBA 757 hasta 757
+
+MS-073.DA1 | 2459 bytes
+  Cluster 852 -> LBA 861 hasta 861
+  Cluster 853 -> LBA 862 hasta 862
+  Cluster 854 -> LBA 863 hasta 863
+
+MS-074.DA1 | 4060 bytes
+  Cluster 879 -> LBA 888 hasta 888
+  Cluster 880 -> LBA 889 hasta 889
+  Cluster 881 -> LBA 890 hasta 890
+  Cluster 882 -> LBA 891 hasta 891
+
+MS-075.DA1 | 6137 bytes
+  Cluster 778 -> LBA 787 hasta 787
+  Cluster 779 -> LBA 788 hasta 788
+  Cluster 780 -> LBA 789 hasta 789
+  Cluster 781 -> LBA 790 hasta 790
+  Cluster 782 -> LBA 791 hasta 791
+  Cluster 783 -> LBA 792 hasta 792
+
+MS-076.DA1 | 4242 bytes
+  Cluster 823 -> LBA 832 hasta 832
+  Cluster 824 -> LBA 833 hasta 833
+  Cluster 825 -> LBA 834 hasta 834
+  Cluster 826 -> LBA 835 hasta 835
+  Cluster 827 -> LBA 836 hasta 836
+
+MS-077.DA1 | 4908 bytes
+  Cluster 832 -> LBA 841 hasta 841
+  Cluster 833 -> LBA 842 hasta 842
+  Cluster 834 -> LBA 843 hasta 843
+  Cluster 835 -> LBA 844 hasta 844
+  Cluster 836 -> LBA 845 hasta 845
+
+MS-078.DA1 | 4823 bytes
+  Cluster 866 -> LBA 875 hasta 875
+  Cluster 867 -> LBA 876 hasta 876
+  Cluster 868 -> LBA 877 hasta 877
+  Cluster 869 -> LBA 878 hasta 878
+  Cluster 870 -> LBA 879 hasta 879
+
+MS-078S.DA1 | 5598 bytes
+  Cluster 784 -> LBA 793 hasta 793
+  Cluster 785 -> LBA 794 hasta 794
+  Cluster 786 -> LBA 795 hasta 795
+  Cluster 787 -> LBA 796 hasta 796
+  Cluster 788 -> LBA 797 hasta 797
+  Cluster 789 -> LBA 798 hasta 798
+
+MS-079.DA1 | 6008 bytes
+  Cluster 814 -> LBA 823 hasta 823
+  Cluster 815 -> LBA 824 hasta 824
+  Cluster 816 -> LBA 825 hasta 825
+  Cluster 817 -> LBA 826 hasta 826
+  Cluster 818 -> LBA 827 hasta 827
+  Cluster 819 -> LBA 828 hasta 828
+
+MS-080S.DA1 | 8304 bytes
+  Cluster 794 -> LBA 803 hasta 803
+  Cluster 795 -> LBA 804 hasta 804
+  Cluster 796 -> LBA 805 hasta 805
+  Cluster 797 -> LBA 806 hasta 806
+  Cluster 798 -> LBA 807 hasta 807
+  Cluster 799 -> LBA 808 hasta 808
+  Cluster 800 -> LBA 809 hasta 809
+  Cluster 801 -> LBA 810 hasta 810
+  Cluster 802 -> LBA 811 hasta 811
+
+MS-081S.DA1 | 6447 bytes
+  Cluster 807 -> LBA 816 hasta 816
+  Cluster 808 -> LBA 817 hasta 817
+  Cluster 809 -> LBA 818 hasta 818
+  Cluster 810 -> LBA 819 hasta 819
+  Cluster 811 -> LBA 820 hasta 820
+  Cluster 812 -> LBA 821 hasta 821
+  Cluster 813 -> LBA 822 hasta 822
+
+MS-082S.DA1 | 8009 bytes
+  Cluster 871 -> LBA 880 hasta 880
+  Cluster 872 -> LBA 881 hasta 881
+  Cluster 873 -> LBA 882 hasta 882
+  Cluster 874 -> LBA 883 hasta 883
+  Cluster 875 -> LBA 884 hasta 884
+  Cluster 876 -> LBA 885 hasta 885
+  Cluster 877 -> LBA 886 hasta 886
+  Cluster 878 -> LBA 887 hasta 887
+
+MS-083S.DA1 | 8707 bytes
+  Cluster 839 -> LBA 848 hasta 848
+  Cluster 840 -> LBA 849 hasta 849
+  Cluster 841 -> LBA 850 hasta 850
+  Cluster 842 -> LBA 851 hasta 851
+  Cluster 843 -> LBA 852 hasta 852
+  Cluster 844 -> LBA 853 hasta 853
+  Cluster 845 -> LBA 854 hasta 854
+  Cluster 846 -> LBA 855 hasta 855
+  Cluster 847 -> LBA 856 hasta 856
+
+MURDER.M | 339 bytes
+  Cluster 883 -> LBA 892 hasta 892
+
+PASS.DA1 | 1522 bytes
+  Cluster 837 -> LBA 846 hasta 846
+  Cluster 838 -> LBA 847 hasta 847
+
+PMD.COM | 10844 bytes
+  Cluster 855 -> LBA 864 hasta 864
+  Cluster 856 -> LBA 865 hasta 865
+  Cluster 857 -> LBA 866 hasta 866
+  Cluster 858 -> LBA 867 hasta 867
+  Cluster 859 -> LBA 868 hasta 868
+  Cluster 860 -> LBA 869 hasta 869
+  Cluster 861 -> LBA 870 hasta 870
+  Cluster 862 -> LBA 871 hasta 871
+  Cluster 863 -> LBA 872 hasta 872
+  Cluster 864 -> LBA 873 hasta 873
+  Cluster 865 -> LBA 874 hasta 874
+
+PRISONER.M | 541 bytes
+  Cluster 884 -> LBA 893 hasta 893
+
+RADISS.DA1 | 551 bytes
+  Cluster 885 -> LBA 894 hasta 894
+
+RAP.M | 713 bytes
+  Cluster 886 -> LBA 895 hasta 895
+
+SC04.M | 748 bytes
+  Cluster 918 -> LBA 927 hasta 927
+
+SC08.M | 460 bytes
+  Cluster 930 -> LBA 939 hasta 939
+
+SC12.M | 201 bytes
+  Cluster 931 -> LBA 940 hasta 940
+
+SC13_B.M | 301 bytes
+  Cluster 934 -> LBA 943 hasta 943
+
+SC14.M | 566 bytes
+  Cluster 935 -> LBA 944 hasta 944
+
+SC18_B.M | 167 bytes
+  Cluster 936 -> LBA 945 hasta 945
+
+SC20.M | 306 bytes
+  Cluster 937 -> LBA 946 hasta 946
+
+SC22.M | 339 bytes
+  Cluster 938 -> LBA 947 hasta 947
+
+SCIO.M | 575 bytes
+  Cluster 939 -> LBA 948 hasta 948
+
+SERIFU1.DAT | 8136 bytes
+  Cluster 887 -> LBA 896 hasta 896
+  Cluster 888 -> LBA 897 hasta 897
+  Cluster 889 -> LBA 898 hasta 898
+  Cluster 890 -> LBA 899 hasta 899
+  Cluster 891 -> LBA 900 hasta 900
+  Cluster 892 -> LBA 901 hasta 901
+  Cluster 893 -> LBA 902 hasta 902
+  Cluster 894 -> LBA 903 hasta 903
+
+SERIFU2.DAT | 7416 bytes
+  Cluster 895 -> LBA 904 hasta 904
+  Cluster 896 -> LBA 905 hasta 905
+  Cluster 897 -> LBA 906 hasta 906
+  Cluster 898 -> LBA 907 hasta 907
+  Cluster 899 -> LBA 908 hasta 908
+  Cluster 900 -> LBA 909 hasta 909
+  Cluster 901 -> LBA 910 hasta 910
+  Cluster 902 -> LBA 911 hasta 911
+
+SR04.M | 525 bytes
+  Cluster 940 -> LBA 949 hasta 949
+
+START.COM | 497 bytes
+  Cluster 941 -> LBA 950 hasta 950
+
+START.DA1 | 1008 bytes
+  Cluster 942 -> LBA 951 hasta 951
+
+STROLL.M | 3324 bytes
+  Cluster 919 -> LBA 928 hasta 928
+  Cluster 920 -> LBA 929 hasta 929
+  Cluster 921 -> LBA 930 hasta 930
+  Cluster 922 -> LBA 931 hasta 931
+
+T0.G | 4130 bytes
+  Cluster 903 -> LBA 912 hasta 912
+  Cluster 904 -> LBA 913 hasta 913
+  Cluster 905 -> LBA 914 hasta 914
+  Cluster 906 -> LBA 915 hasta 915
+  Cluster 907 -> LBA 916 hasta 916
+
+T1.G | 4329 bytes
+  Cluster 908 -> LBA 917 hasta 917
+  Cluster 909 -> LBA 918 hasta 918
+  Cluster 910 -> LBA 919 hasta 919
+  Cluster 911 -> LBA 920 hasta 920
+  Cluster 912 -> LBA 921 hasta 921
+
+T2.G | 3788 bytes
+  Cluster 923 -> LBA 932 hasta 932
+  Cluster 924 -> LBA 933 hasta 933
+  Cluster 925 -> LBA 934 hasta 934
+  Cluster 926 -> LBA 935 hasta 935
+
+T3.G | 4194 bytes
+  Cluster 913 -> LBA 922 hasta 922
+  Cluster 914 -> LBA 923 hasta 923
+  Cluster 915 -> LBA 924 hasta 924
+  Cluster 916 -> LBA 925 hasta 925
+  Cluster 917 -> LBA 926 hasta 926
+
+T4.G | 798 bytes
+  Cluster 943 -> LBA 952 hasta 952
+
+TI8.M | 2923 bytes
+  Cluster 927 -> LBA 936 hasta 936
+  Cluster 928 -> LBA 937 hasta 937
+  Cluster 929 -> LBA 938 hasta 938
+
+TNS03.M | 939 bytes
+  Cluster 944 -> LBA 953 hasta 953
+
+TNS04.M | 1091 bytes
+  Cluster 932 -> LBA 941 hasta 941
+  Cluster 933 -> LBA 942 hasta 942
+
+UC07.M | 325 bytes
+  Cluster 945 -> LBA 954 hasta 954
+
+VARM.M | 597 bytes
+  Cluster 946 -> LBA 955 hasta 955
+
+ZARSCH.DA1 | 597 bytes
+  Cluster 947 -> LBA 956 hasta 956
+
+ZER26.M | 857 bytes
+  Cluster 948 -> LBA 957 hasta 957
+
+ZER27.M | 182 bytes
+  Cluster 949 -> LBA 958 hasta 958
+
+HSP.DA1 | 11974 bytes
+  Cluster 967 -> LBA 976 hasta 976
+  Cluster 968 -> LBA 977 hasta 977
+  Cluster 969 -> LBA 978 hasta 978
+  Cluster 970 -> LBA 979 hasta 979
+  Cluster 971 -> LBA 980 hasta 980
+  Cluster 972 -> LBA 981 hasta 981
+  Cluster 973 -> LBA 982 hasta 982
+  Cluster 974 -> LBA 983 hasta 983
+  Cluster 975 -> LBA 984 hasta 984
+  Cluster 976 -> LBA 985 hasta 985
+  Cluster 977 -> LBA 986 hasta 986
+  Cluster 978 -> LBA 987 hasta 987
+
+MSC.DA1 | 14670 bytes
+  Cluster 951 -> LBA 960 hasta 960
+  Cluster 952 -> LBA 961 hasta 961
+  Cluster 953 -> LBA 962 hasta 962
+  Cluster 954 -> LBA 963 hasta 963
+  Cluster 955 -> LBA 964 hasta 964
+  Cluster 956 -> LBA 965 hasta 965
+  Cluster 957 -> LBA 966 hasta 966
+  Cluster 958 -> LBA 967 hasta 967
+  Cluster 959 -> LBA 968 hasta 968
+  Cluster 960 -> LBA 969 hasta 969
+  Cluster 961 -> LBA 970 hasta 970
+  Cluster 962 -> LBA 971 hasta 971
+  Cluster 963 -> LBA 972 hasta 972
+  Cluster 964 -> LBA 973 hasta 973
+  Cluster 965 -> LBA 974 hasta 974
+
