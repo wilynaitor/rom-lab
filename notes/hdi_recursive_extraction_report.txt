@@ -1,0 +1,19 @@
+INFORME DE EXTRACCIÓN RECURSIVA HDI
+Imagen: samples\rusty\rusty.hdi
+Tamaño de imagen: 10479616 bytes
+Volumen: 0x9400
+Tamaño de sector: 1024
+Sectores por cluster: 4
+Tamaño de cluster: 4096
+Clusters de datos: 2466
+Cluster máximo: 2467
+FAT1 y FAT2 idénticas: Sí
+Directorio de salida: extracted\hdi_recursive
+
+Archivos extraídos: 455
+Directorios creados: 2
+Clusters registrados: 1866
+Errores: 0
+
+DETALLE DE ERRORES
+Sin errores.

@@ -1,0 +1,4314 @@
+ANÁLISIS DE FIRMAS DE ARCHIVOS HDI
+Archivos analizados: 455
+Firmas iniciales distintas: 374
+
+GRUPOS DE FIRMAS
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+Cantidad: 15
+  R_A11.MGX
+  R_A32.MGX
+  R_A35.MGX
+  R_B11.MGX
+  R_B14.MGX
+  R_B15.MGX
+  R_B16A.MGX
+  R_B16B.MGX
+  R_B21A.MGX
+  R_B21B.MGX
+  R_B22.MGX
+  R_B23.MGX
+  R_B24.MGX
+  R_B31.MGX
+  R_B32_1.MGX
+
+Firma: 4C 5A 1A D4 00 00 00 DD 11 E3 F8 30 00 2D E7 F4
+Cantidad: 8
+  CLEAR1.TBL
+  CLEAR10.TBL
+  CLEAR2.TBL
+  CLEAR3.TBL
+  CLEAR5.TBL
+  CLEAR6.TBL
+  CLEAR7.TBL
+  CLEAR8.TBL
+
+Firma: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 1C 07
+Cantidad: 6
+  BG10C.DAT
+  BG2.DAT
+  BG3.DAT
+  BG6.DAT
+  BG7.DAT
+  BG8B.DAT
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 00
+Cantidad: 6
+  R_A21P_.MGX
+  R_A21PAL.MGX
+  R_A24.MGX
+  R_A26A.MGX
+  R_A33.MGX
+  R_B12.MGX
+
+Firma: 0D 0A 1A
+Cantidad: 4
+  DISK_A
+  DISK_B
+  DISK_C
+  SYS_DISK
+
+Firma: 4C 5A 1A C4 01 00 00 7D 25 E3 F8 20 00 1C 00 10
+Cantidad: 4
+  BOSS8_L.TBL
+  BOSS8_R.TBL
+  PAGE3_8L.TBL
+  PAGE3_8R.TBL
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 80 00 32
+Cantidad: 4
+  R_B33A.MGX
+  R_B33B.MGX
+  R_B33C.MGX
+  R_B33D.MGX
+
+Firma: 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D
+Cantidad: 3
+  TOOLS/EMUMB.DOC
+  TOOLS/VEM486.DOC
+  TOOLS/VEM486.HED
+
+Firma: 00 00 00 0A 00 01 02 03 08 04 06 0B 07 09 0D 09
+Cantidad: 2
+  BG1.RGB
+  BG4.RGB
+
+Firma: 00 00 00 0A 01 00 02 03 08 04 06 0B 08 09 0D 0A
+Cantidad: 2
+  BG2.RGB
+  BG6.RGB
+
+Firma: 4C 5A 1A 00 00 01 00 1E ED F5 3F FF FF FC F6 FF
+Cantidad: 2
+  BG1.DAT
+  LASBOSBG.DAT
+
+Firma: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 20 0B
+Cantidad: 2
+  BG5_1.DAT
+  BG8.DAT
+
+Firma: 4C 5A 1A 0A 02 00 00 FF 00 1A 00 7F 00 E9 00 FF
+Cantidad: 2
+  _VISUAL2.M
+  VISUAL2.M
+
+Firma: 4C 5A 1A 10 01 00 00 7D 16 E3 F8 30 00 29 00 10
+Cantidad: 2
+  PAGE3_4L.TBL
+  PAGE3_4R.TBL
+
+Firma: 4C 5A 1A 29 A9 00 00 FB 00 7F EC F0 FF 80 00 01
+Cantidad: 2
+  BOSS8_R.DAT
+  PAGE3_8R.DAT
+
+Firma: 4C 5A 1A 29 A9 00 00 FF 00 00 FE 00 00 01 FF 00
+Cantidad: 2
+  BOSS8_L.DAT
+  PAGE3_8L.DAT
+
+Firma: 4C 5A 1A 2C 00 00 00 DD 03 E3 F8 30 00 10 FB F0
+Cantidad: 2
+  BOSS3_L.TBL
+  BOSS3_R.TBL
+
+Firma: 4C 5A 1A 30 02 00 00 DD 2E E3 F8 30 00 0E E9 F2
+Cantidad: 2
+  PAGE3_5L.TBL
+  PAGE3_5R.TBL
+
+Firma: 4C 5A 1A 48 02 00 00 DD 30 E3 F8 40 00 2B E9 F2
+Cantidad: 2
+  PAGE3_3L.TBL
+  PAGE3_3R.TBL
+
+Firma: 4C 5A 1A 50 03 00 00 FF 00 1A 00 5A 00 91 00 CA
+Cantidad: 2
+  _VISUAL1.M2
+  VISUAL1.M2
+
+Firma: 4C 5A 1A 68 00 00 00 55 08 E3 F8 20 ED F4 0A F7
+Cantidad: 2
+  BOSS6_L.TBL
+  BOSS6_R.TBL
+
+Firma: 4C 5A 1A 68 00 00 00 DD 08 E3 F8 48 00 2E E9 F2
+Cantidad: 2
+  BOSS10_L.TBL
+  BOSS10_R.TBL
+
+Firma: 4C 5A 1A 77 0D 00 00 FF 00 1A 00 C5 02 3D 04 19
+Cantidad: 2
+  _VISUAL4.M2
+  VISUAL4.M2
+
+Firma: 4C 5A 1A 78 02 00 00 7D 34 E3 F8 20 00 1C 00 10
+Cantidad: 2
+  PAGE3_9L.TBL
+  PAGE3_9R.TBL
+
+Firma: 4C 5A 1A 7F 02 00 00 FF 00 1A 00 53 00 8A 00 C3
+Cantidad: 2
+  _VISUAL1.M
+  VISUAL1.M
+
+Firma: 4C 5A 1A 98 3F 00 00 6F 00 00 1F C0 EC F1 7F FF
+Cantidad: 2
+  CLEAR7.DAT
+  CLEAR8.DAT
+
+Firma: 4C 5A 1A 9C 02 00 00 7D 37 E3 F8 30 00 2D 00 10
+Cantidad: 2
+  PAGE3_2L.TBL
+  PAGE3_2R.TBL
+
+Firma: 4C 5A 1A A0 01 00 00 DD 22 E3 F8 40 00 27 E9 F2
+Cantidad: 2
+  PAGE3_1L.TBL
+  PAGE3_1R.TBL
+
+Firma: 4C 5A 1A A2 30 00 00 6F 00 00 1F C0 EC F1 7F FF
+Cantidad: 2
+  CLEAR10.DAT
+  CLEAR3.DAT
+
+Firma: 4C 5A 1A A4 00 00 00 7D 0D E3 F8 40 00 3E 00 10
+Cantidad: 2
+  BOSS11_L.TBL
+  BOSS11_R.TBL
+
+Firma: 4C 5A 1A B0 00 00 00 DD 0E E3 F8 40 00 39 E9 F2
+Cantidad: 2
+  BOSS4_L.TBL
+  BOSS4_R.TBL
+
+Firma: 4C 5A 1A C4 36 00 00 6F 00 00 1F C0 EC F1 7F FF
+Cantidad: 2
+  CLEAR5.DAT
+  CLEAR6.DAT
+
+Firma: 4C 5A 1A D0 01 00 00 5D 26 E3 F8 20 00 08 E9 F2
+Cantidad: 2
+  PAGE3_6L.TBL
+  PAGE3_6R.TBL
+
+Firma: 4C 5A 1A D0 0A 00 00 FF 00 1A 00 C1 02 37 04 07
+Cantidad: 2
+  _VISUAL4.M
+  VISUAL4.M
+
+Firma: 4C 5A 1A E0 00 00 00 7D 12 E3 F8 30 00 2D 00 10
+Cantidad: 2
+  BOSS2_L.TBL
+  BOSS2_R.TBL
+
+Firma: 4C 5A 1A E4 02 00 00 FF 00 1A 00 86 00 F0 00 06
+Cantidad: 2
+  _VISUAL2.M2
+  VISUAL2.M2
+
+Firma: 4C 5A 1A F4 01 00 00 DD 29 E3 F8 60 00 1F E9 F2
+Cantidad: 2
+  PAGE3_7L.TBL
+  PAGE3_7R.TBL
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 32
+Cantidad: 2
+  R_A21.MGX
+  R_A26.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 10 00 74
+Cantidad: 2
+  R_A31.MGX
+  R_A36.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 88 00 82
+Cantidad: 2
+  STAFF2.MGX
+  STAFF3.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 88 00 A8
+Cantidad: 2
+  STAFF1.MGX
+  STAFF6.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 00 00 00
+Cantidad: 2
+  R_B32_2.MGX
+  R_B34_1.MGX
+
+Firma: 4D 5A 48 00 34 00 5A 00 20 00 00 00 FF FF 00 00
+Cantidad: 2
+  DOS/AVGDRV.EXE
+  DOS/AVGDRV.SYS
+
+Firma: 4D 5A B0 01 5E 00 C5 00 40 00 00 00 FF FF 00 00
+Cantidad: 2
+  DOS/AVSDRV.EXE
+  DOS/AVSDRV.SYS
+
+Firma: FF FF FF FF 00 80 16 00 21 00 45 4D 55 4D 42 58
+Cantidad: 2
+  TOOLS/EMUMB386.SYS
+  TOOLS/EMUMBX.SYS
+
+Firma: FF FF FF FF 00 C8 B6 01 C1 01 20 20 20 20 20 20
+Cantidad: 2
+  TOOLS/CDDRV.SYS
+  TOOLS/CDSD.SYS
+
+Firma: FF FF FF FF 00 C8 D9 02 E4 02 43 44 5F 31 30 31
+Cantidad: 2
+  TOOLS/NECCD.SYS
+  TOOLS/NECCDD.SYS
+
+Firma: [vacía]
+Cantidad: 1
+  OP_DISK
+
+Firma: 00 00 00 0A 01 00 01 03 05 03 04 06 08 09 0B 0A
+Cantidad: 1
+  BG5_1.RGB
+
+Firma: 00 00 00 0A 01 00 01 03 05 04 05 07 07 08 0A 0A
+Cantidad: 1
+  BG8.RGB
+
+Firma: 00 00 00 0A 01 00 01 03 05 04 05 07 08 09 0B 0A
+Cantidad: 1
+  BG2N.RGB
+
+Firma: 00 00 00 0B 00 02 01 02 06 02 04 08 07 08 0C 09
+Cantidad: 1
+  BG10.RGB
+
+Firma: 00 00 00 0B 01 00 02 03 05 05 05 07 09 09 0B 0B
+Cantidad: 1
+  BG5_3.RGB
+
+Firma: 00 00 00 0B 01 00 02 03 06 04 06 09 07 09 0C 0A
+Cantidad: 1
+  BG3.RGB
+
+Firma: 00 00 00 0B 01 03 01 02 06 03 05 09 07 08 0B 09
+Cantidad: 1
+  LASBOSBG.RGB
+
+Firma: 00 00 00 0B 02 00 01 02 05 04 04 07 08 08 0B 0A
+Cantidad: 1
+  BG9.RGB
+
+Firma: 00 00 00 0C 03 00 01 02 07 04 04 09 06 07 0B 09
+Cantidad: 1
+  BG8B.RGB
+
+Firma: 00 00 00 0C 03 00 01 03 05 04 05 07 08 09 0B 0A
+Cantidad: 1
+  BG7.RGB
+
+Firma: 00 00 E1 35 5F 03 1C 31 71 06 09 24 B2 08 06 12
+Cantidad: 1
+  VOICES.PPT
+
+Firma: 0D 0A 0D 0A 0D 0A 0D 0A 20 20 20 20 20 20 20 20
+Cantidad: 1
+  TOOLS/QMOUSE.MAN
+
+Firma: 40 45 43 48 4F 20 4F 46 46 0D 0A 0D 0A 52 45 4D
+Cantidad: 1
+  AUTOEXEC.BAT
+
+Firma: 42 55 46 46 45 52 53 3D 38 0D 0A 73 68 65 6C 6C
+Cantidad: 1
+  CONFIG.SYS
+
+Firma: 4C 5A 1A 00 00 01 00 00 DC FF FF FF 11 0F 23 0F
+Cantidad: 1
+  BG2N.DAT
+
+Firma: 4C 5A 1A 00 00 01 00 05 FF EE F0 80 EB F0 F2 FF
+Cantidad: 1
+  BG4.DAT
+
+Firma: 4C 5A 1A 00 00 01 00 10 DC FF FF FF 11 0F 1C 07
+Cantidad: 1
+  BG5_3.DAT
+
+Firma: 4C 5A 1A 00 00 01 00 FD FF EE F0 80 00 00 01 80
+Cantidad: 1
+  BG9A.DAT
+
+Firma: 4C 5A 1A 00 00 01 00 FF DE 80 05 55 B8 F8 D0 3C
+Cantidad: 1
+  BG8D.DAT
+
+Firma: 4C 5A 1A 00 18 01 00 E1 FF EE FF 00 0F 12 0F 1C
+Cantidad: 1
+  BOSS6_M.DAT
+
+Firma: 4C 5A 1A 00 77 01 00 76 ED F3 7D F0 EB F6 03 FF
+Cantidad: 1
+  BOSS2_M.DAT
+
+Firma: 4C 5A 1A 03 29 00 00 FF 00 1A 00 27 03 E9 0B 30
+Cantidad: 1
+  ROUND4.M2
+
+Firma: 4C 5A 1A 04 1E 00 00 FF A0 00 18 00 78 01 02 03
+Cantidad: 1
+  BG8B.MAP
+
+Firma: 4C 5A 1A 04 1F 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS2_01.MAG
+
+Firma: 4C 5A 1A 04 2D 00 00 FF 3C 00 60 00 14 3E 0A 40
+Cantidad: 1
+  BG8.MAP
+
+Firma: 4C 5A 1A 04 4B 00 00 FF 50 00 78 00 0E F4 83 84
+Cantidad: 1
+  BG4.MAP
+
+Firma: 4C 5A 1A 04 4B 00 00 FF 90 01 18 00 16 36 16 16
+Cantidad: 1
+  BG1.MAP
+
+Firma: 4C 5A 1A 04 5A 00 00 FF E0 01 18 00 02 03 04 05
+Cantidad: 1
+  BG7.MAP
+
+Firma: 4C 5A 1A 04 78 00 00 5F A0 00 60 00 EF F2 F0 01
+Cantidad: 1
+  BG9A.MAP
+
+Firma: 4C 5A 1A 04 78 00 00 FF 40 01 30 00 F2 DB DB F1
+Cantidad: 1
+  BG3.MAP
+
+Firma: 4C 5A 1A 08 12 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS3_13.MAG
+
+Firma: 4C 5A 1A 08 25 00 00 EF 00 00 1F F0 ED F0 01 FF
+Cantidad: 1
+  PAGE3_4M.DAT
+
+Firma: 4C 5A 1A 0E 04 00 00 FF 00 1A 00 83 00 D9 00 6C
+Cantidad: 1
+  GAMEOVER.M2
+
+Firma: 4C 5A 1A 0E 1A 00 00 01 FF EE FF 00 0F 12 0F 24
+Cantidad: 1
+  PAGE3_7M.DAT
+
+Firma: 4C 5A 1A 10 01 00 00 D5 16 E3 F8 30 ED F0 08 EB
+Cantidad: 1
+  PAGE3_4M.TBL
+
+Firma: 4C 5A 1A 10 41 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS5_02.MAG
+
+Firma: 4C 5A 1A 11 1E 00 00 FF 00 1A 00 C9 02 EF 05 16
+Cantidad: 1
+  ENDING2.M2
+
+Firma: 4C 5A 1A 12 2A 00 00 DE ED F3 1F FF FF E0 EB F9
+Cantidad: 1
+  BOSS8_M.DAT
+
+Firma: 4C 5A 1A 14 2C 00 00 FF 78 00 2F 00 04 02 03 5D
+Cantidad: 1
+  BG2.MAP
+
+Firma: 4C 5A 1A 17 0D 00 00 FF 00 1A 00 FD 01 FC 02 09
+Cantidad: 1
+  _VISUAL5.M2
+
+Firma: 4C 5A 1A 18 2A 00 00 FF 00 1A 00 46 05 83 0A 04
+Cantidad: 1
+  ROUND1.M2
+
+Firma: 4C 5A 1A 19 12 00 00 0F 54 00 C5 11 DC FF 03 0F
+Cantidad: 1
+  CLEAR.PPS
+
+Firma: 4C 5A 1A 1A 02 00 00 FF 00 1A 00 62 00 88 00 B2
+Cantidad: 1
+  EYECATCH.M
+
+Firma: 4C 5A 1A 1A 19 00 00 E7 BC 00 10 DC FF E1 FA 21
+Cantidad: 1
+  RUSTY.FOT
+
+Firma: 4C 5A 1A 1A 31 00 00 6F 00 00 1F C0 EC F1 7F FF
+Cantidad: 1
+  CLEAR1.DAT
+
+Firma: 4C 5A 1A 1E 03 00 00 FF 00 1A 00 98 00 E2 00 2E
+Cantidad: 1
+  ROUND10B.M
+
+Firma: 4C 5A 1A 1E 1D 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS1_03.MAG
+
+Firma: 4C 5A 1A 1E 41 00 00 B6 ED F3 0F E0 ED F4 7F FC
+Cantidad: 1
+  BOSS10_L.DAT
+
+Firma: 4C 5A 1A 1E 41 00 00 B7 00 07 F0 E8 F4 3F FE E8
+Cantidad: 1
+  BOSS10_R.DAT
+
+Firma: 4C 5A 1A 1F 09 00 00 FF 00 1A 00 42 03 11 04 3F
+Cantidad: 1
+  ROUND3.M
+
+Firma: 4C 5A 1A 21 18 00 00 FF 00 1A 00 4E 03 7C 07 AC
+Cantidad: 1
+  ROUND5.M
+
+Firma: 4C 5A 1A 23 91 00 00 DE ED F5 01 01 08 08 ED F2
+Cantidad: 1
+  PAGE3_6R.DAT
+
+Firma: 4C 5A 1A 23 91 00 00 DE ED F5 10 10 80 80 ED F1
+Cantidad: 1
+  PAGE3_6L.DAT
+
+Firma: 4C 5A 1A 24 67 00 00 1F DC 00 3C 00 01 F2 FF 04
+Cantidad: 1
+  BG2N.MAP
+
+Firma: 4C 5A 1A 24 76 00 00 FF B4 00 54 00 37 38 39 37
+Cantidad: 1
+  BG5_1.MAP
+
+Firma: 4C 5A 1A 24 83 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED04.MAG
+
+Firma: 4C 5A 1A 26 7E 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED03.MAG
+
+Firma: 4C 5A 1A 27 41 00 00 FF 37 18 9B 33 AB 00 89 0C
+Cantidad: 1
+  ENEMY6.COM
+
+Firma: 4C 5A 1A 27 51 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  GIRL1A.MAG
+
+Firma: 4C 5A 1A 28 04 00 00 DD 58 E3 F8 30 00 2D E9 F2
+Cantidad: 1
+  PAGE0.TBL
+
+Firma: 4C 5A 1A 28 07 00 00 5D 98 E3 F8 20 00 10 E9 F2
+Cantidad: 1
+  BOSS6_M.TBL
+
+Firma: 4C 5A 1A 2B 04 00 00 FF 00 1A 00 9B 00 DF 00 74
+Cantidad: 1
+  VISUAL3.M
+
+Firma: 4C 5A 1A 2B 73 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MARRY.MAG
+
+Firma: 4C 5A 1A 2B F9 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MAP_U.MAG
+
+Firma: 4C 5A 1A 2C 00 00 00 DD 03 E3 F8 20 00 0E EB F0
+Cantidad: 1
+  BG5_2SPR.TBL
+
+Firma: 4C 5A 1A 2E 0D 00 00 FF 00 1A 00 FB 01 F8 02 03
+Cantidad: 1
+  MUSS.M2
+
+Firma: 4C 5A 1A 30 12 00 00 FF 00 1A 00 7B 02 E6 04 04
+Cantidad: 1
+  ENDING1.M2
+
+Firma: 4C 5A 1A 30 12 00 00 FF 0C 00 92 04 18 09 9E 0A
+Cantidad: 1
+  VS2.ANI
+
+Firma: 4C 5A 1A 30 2F 00 00 6F 00 00 11 38 EC F1 0F C0
+Cantidad: 1
+  BOSS2_L.DAT
+
+Firma: 4C 5A 1A 30 2F 00 00 6F 00 00 1C 88 EC F1 03 F0
+Cantidad: 1
+  BOSS2_R.DAT
+
+Firma: 4C 5A 1A 30 6A 00 00 FF 54 00 40 04 00 00 94 04
+Cantidad: 1
+  EC.PPS
+
+Firma: 4C 5A 1A 31 47 00 00 FF EB 00 56 57 55 1E 06 50
+Cantidad: 1
+  MGXLOAD.BIN
+
+Firma: 4C 5A 1A 32 22 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS6_01.MAG
+
+Firma: 4C 5A 1A 33 17 00 00 FF 00 1A 00 EB 07 B8 08 C2
+Cantidad: 1
+  ROUND6.M2
+
+Firma: 4C 5A 1A 33 17 00 00 FF 00 1A 00 FE 01 BA 03 4E
+Cantidad: 1
+  ROUND8.M2
+
+Firma: 4C 5A 1A 34 01 00 00 5D 19 E3 F8 60 00 40 E9 F2
+Cantidad: 1
+  BOSS2_M.TBL
+
+Firma: 4C 5A 1A 37 19 00 00 FF 00 1A 00 A9 03 58 05 24
+Cantidad: 1
+  MU02.M2
+
+Firma: 4C 5A 1A 37 50 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  GIRL2A.MAG
+
+Firma: 4C 5A 1A 38 00 00 00 5D 04 E3 F8 20 00 2D E9 F2
+Cantidad: 1
+  CURSOL.TBL
+
+Firma: 4C 5A 1A 39 04 00 00 FF 00 1A 00 9D 00 E3 00 7A
+Cantidad: 1
+  _VISUAL3.M
+
+Firma: 4C 5A 1A 3A 1D 00 00 FF 00 1A 00 34 05 71 0A 3A
+Cantidad: 1
+  ROUND1.M
+
+Firma: 4C 5A 1A 3A 76 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED08.MAG
+
+Firma: 4C 5A 1A 3B 13 00 00 FF 00 1A 00 9A 03 3D 05 06
+Cantidad: 1
+  MU02.M
+
+Firma: 4C 5A 1A 3D 57 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  TITLE.MAG
+
+Firma: 4C 5A 1A 3E 17 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS4_01.MAG
+
+Firma: 4C 5A 1A 3E 46 00 00 FF 70 00 7B 00 86 00 91 00
+Cantidad: 1
+  VISUAL.COM
+
+Firma: 4C 5A 1A 3E BC 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS1_00.MAG
+
+Firma: 4C 5A 1A 40 01 00 00 5D 1A E3 F8 60 00 30 E9 F2
+Cantidad: 1
+  BOSS3_M.TBL
+
+Firma: 4C 5A 1A 41 55 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  GIRL3A.MAG
+
+Firma: 4C 5A 1A 42 85 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED06.MAG
+
+Firma: 4C 5A 1A 44 10 00 00 BF 14 00 68 00 3D 3E F2 FF
+Cantidad: 1
+  BG9C.MAP
+
+Firma: 4C 5A 1A 44 65 00 00 FF 78 00 6C 00 8C 8D 8E CA
+Cantidad: 1
+  BG5_3.MAP
+
+Firma: 4C 5A 1A 45 11 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  CMASK0.MAG
+
+Firma: 4C 5A 1A 45 12 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MASK8.MAG
+
+Firma: 4C 5A 1A 47 50 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  GIRL6A.MAG
+
+Firma: 4C 5A 1A 4A 24 00 00 01 FF EE FF 00 0F 12 0F 24
+Cantidad: 1
+  PAGE3_3M.DAT
+
+Firma: 4C 5A 1A 4C 44 00 00 FF 37 18 11 35 AB 00 89 0C
+Cantidad: 1
+  ENEMY4.COM
+
+Firma: 4C 5A 1A 4F 32 01 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MAP_D.MAG
+
+Firma: 4C 5A 1A 50 82 00 00 EC DC FF F7 F6 3F E0 F7 F2
+Cantidad: 1
+  KIME.DAT
+
+Firma: 4C 5A 1A 50 AF 00 00 B5 FF EE F2 C0 ED F2 7F E0
+Cantidad: 1
+  PAGE3_8M.DAT
+
+Firma: 4C 5A 1A 51 1E 00 00 FF E9 08 79 09 FD 05 4D 0A
+Cantidad: 1
+  STORY6.COM
+
+Firma: 4C 5A 1A 54 04 00 00 FF 00 1A 00 A5 00 F4 00 47
+Cantidad: 1
+  ROUND10B.M2
+
+Firma: 4C 5A 1A 54 19 00 00 FF 1E 00 6C 00 2E 2E 2E 1B
+Cantidad: 1
+  BG5_2.MAP
+
+Firma: 4C 5A 1A 55 A5 00 00 6F 00 00 11 38 EC F1 0F C0
+Cantidad: 1
+  PAGE3_2L.DAT
+
+Firma: 4C 5A 1A 55 A5 00 00 6F 00 00 1C 88 EC F1 03 F0
+Cantidad: 1
+  PAGE3_2R.DAT
+
+Firma: 4C 5A 1A 56 03 00 00 FF 00 1A 00 63 00 AD 00 28
+Cantidad: 1
+  ALLCLEAR.M
+
+Firma: 4C 5A 1A 57 46 00 00 FF 37 18 67 38 AB 00 89 0C
+Cantidad: 1
+  ENEMY5.COM
+
+Firma: 4C 5A 1A 58 11 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS1_02.MAG
+
+Firma: 4C 5A 1A 58 14 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS3_14.MAG
+
+Firma: 4C 5A 1A 5A 03 00 00 FF 00 1A 00 69 00 94 00 BE
+Cantidad: 1
+  EYECATCH.M2
+
+Firma: 4C 5A 1A 5C B7 00 00 DA ED F0 08 EB F3 04 0C EB
+Cantidad: 1
+  PAGE3_1R.DAT
+
+Firma: 4C 5A 1A 5C B7 00 00 DA ED F1 10 EB F4 30 20 ED
+Cantidad: 1
+  PAGE3_1L.DAT
+
+Firma: 4C 5A 1A 5C CB 00 00 76 ED F1 1F E0 ED F2 03 FF
+Cantidad: 1
+  PAGE3_3L.DAT
+
+Firma: 4C 5A 1A 5C CB 00 00 EF 00 00 07 F8 EA F3 1F FF
+Cantidad: 1
+  PAGE3_3R.DAT
+
+Firma: 4C 5A 1A 5D 49 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  GIRL8A.MAG
+
+Firma: 4C 5A 1A 60 04 00 00 DE ED F5 01 01 08 08 ED F2
+Cantidad: 1
+  BOSS6_R.DAT
+
+Firma: 4C 5A 1A 60 04 00 00 DE ED F5 10 10 80 80 ED F1
+Cantidad: 1
+  BOSS6_L.DAT
+
+Firma: 4C 5A 1A 60 09 00 00 DA ED F1 78 ED F1 01 C0 ED
+Cantidad: 1
+  BOSS3_L.DAT
+
+Firma: 4C 5A 1A 60 09 00 00 DB 00 1E EA F2 03 80 EB F1
+Cantidad: 1
+  BOSS3_R.DAT
+
+Firma: 4C 5A 1A 61 08 00 00 FF 00 1A 00 D0 00 68 01 24
+Cantidad: 1
+  ROUND9.M2
+
+Firma: 4C 5A 1A 61 0D 00 00 FF 00 1A 00 41 03 10 04 3F
+Cantidad: 1
+  ROUND3.M2
+
+Firma: 4C 5A 1A 62 45 00 00 FF 37 18 E3 36 AB 00 89 0C
+Cantidad: 1
+  ENEMY1.COM
+
+Firma: 4C 5A 1A 64 01 00 00 7D 1D E3 F8 28 00 20 00 08
+Cantidad: 1
+  PAGE1.TBL
+
+Firma: 4C 5A 1A 64 72 01 00 FB 00 02 E7 F5 40 00 00 01
+Cantidad: 1
+  BOSS3_M.DAT
+
+Firma: 4C 5A 1A 65 28 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MASK3.MAG
+
+Firma: 4C 5A 1A 66 0F 00 00 FF 00 1A 00 06 04 6B 06 69
+Cantidad: 1
+  BOSS.M
+
+Firma: 4C 5A 1A 66 0F 00 00 FF 00 1A 00 B5 05 96 06 C7
+Cantidad: 1
+  ROUND5_2.M2
+
+Firma: 4C 5A 1A 67 29 00 00 FF EA 0A F1 0B 0D 06 4C 0F
+Cantidad: 1
+  STORY10.COM
+
+Firma: 4C 5A 1A 67 7B 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  SONTYO.MAG
+
+Firma: 4C 5A 1A 68 4B 00 00 FF 22 00 A8 03 2E 07 34 0E
+Cantidad: 1
+  VS4.ANI
+
+Firma: 4C 5A 1A 68 97 00 00 FF 2A 00 F0 03 B6 07 7C 0B
+Cantidad: 1
+  VSENDING.ANI
+
+Firma: 4C 5A 1A 69 3A 00 00 FF 37 18 51 32 AB 00 89 0C
+Cantidad: 1
+  ENEMY7.COM
+
+Firma: 4C 5A 1A 6A 79 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED05.MAG
+
+Firma: 4C 5A 1A 6A 88 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS3_3.MAG
+
+Firma: 4C 5A 1A 6C 02 00 00 5D 33 E3 F8 20 00 10 E9 F2
+Cantidad: 1
+  PAGE3_5M.TBL
+
+Firma: 4C 5A 1A 6C F2 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS2_00.MAG
+
+Firma: 4C 5A 1A 6E 8C 00 00 77 01 FF E0 EB F0 0F FF FC
+Cantidad: 1
+  PAGE3_5R.DAT
+
+Firma: 4C 5A 1A 6E 8C 00 00 EE ED F0 07 FF 80 ED F0 3F
+Cantidad: 1
+  PAGE3_5L.DAT
+
+Firma: 4C 5A 1A 6E E6 00 00 E1 FF EE FF 00 0F 12 0F 1C
+Cantidad: 1
+  PAGE3_6M.DAT
+
+Firma: 4C 5A 1A 70 01 00 00 DD 1E E3 F8 08 00 05 E9 F2
+Cantidad: 1
+  LASTBOSS.TBL
+
+Firma: 4C 5A 1A 70 0B 00 00 FF 0C 00 B2 02 58 05 FE 07
+Cantidad: 1
+  VS6.ANI
+
+Firma: 4C 5A 1A 70 42 00 00 FF 37 18 B9 37 AB 00 89 0C
+Cantidad: 1
+  ENEMY8.COM
+
+Firma: 4C 5A 1A 72 03 00 00 FF 00 1A 00 83 00 D7 00 68
+Cantidad: 1
+  GAMEOVER.M
+
+Firma: 4C 5A 1A 74 00 00 00 5D 09 E3 F8 30 00 18 E9 F2
+Cantidad: 1
+  PAGE3_9M.TBL
+
+Firma: 4C 5A 1A 74 00 00 00 7D 09 E3 F8 40 01 10 00 20
+Cantidad: 1
+  PAGE3_3M.TBL
+
+Firma: 4C 5A 1A 74 08 00 00 DF 2D 00 18 00 D8 F2 FF D8
+Cantidad: 1
+  BG10C.MAP
+
+Firma: 4C 5A 1A 74 29 00 00 FF 23 08 AC 08 D9 05 4D 09
+Cantidad: 1
+  STORY4.COM
+
+Firma: 4C 5A 1A 74 86 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED02.MAG
+
+Firma: 4C 5A 1A 76 0D 00 00 FF 00 1A 00 27 07 02 09 D4
+Cantidad: 1
+  BOSS2.M
+
+Firma: 4C 5A 1A 79 0B 00 00 FF 00 1A 00 10 05 ED 05 1A
+Cantidad: 1
+  ROUND5_2.M
+
+Firma: 4C 5A 1A 79 6C 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  GIRL5A.MAG
+
+Firma: 4C 5A 1A 7A 20 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS2_02.MAG
+
+Firma: 4C 5A 1A 7B 10 00 00 FF 00 1A 00 5C 04 EE 06 1D
+Cantidad: 1
+  LASTBOSS.M
+
+Firma: 4C 5A 1A 7C 07 00 00 5D 9F E3 F8 20 00 10 E9 F2
+Cantidad: 1
+  PAGE3_6M.TBL
+
+Firma: 4C 5A 1A 7E 05 00 00 FF 00 1A 00 A4 00 EA 00 81
+Cantidad: 1
+  VISUAL3.M2
+
+Firma: 4C 5A 1A 7F 29 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MASK4.MAG
+
+Firma: 4C 5A 1A 80 00 00 00 DD 0A E3 F8 60 00 10 E7 F4
+Cantidad: 1
+  PAGE3_7M.TBL
+
+Firma: 4C 5A 1A 80 16 00 00 BF 0F F0 1F F8 1F 7C F2 F3
+Cantidad: 1
+  FONT.DAT
+
+Firma: 4C 5A 1A 80 37 00 00 FF 18 00 9E 07 24 0F AA 16
+Cantidad: 1
+  VS5.ANI
+
+Firma: 4C 5A 1A 80 57 00 00 D7 00 00 70 EB F2 F8 EC F1
+Cantidad: 1
+  PAGE3_4L.DAT
+
+Firma: 4C 5A 1A 80 57 00 00 FA ED F0 0E EC F2 1F 00 00
+Cantidad: 1
+  PAGE3_4R.DAT
+
+Firma: 4C 5A 1A 80 BB 00 00 FF 18 7E FF 7E 18 10 78 FC
+Cantidad: 1
+  LASTBOSS.DAT
+
+Firma: 4C 5A 1A 82 09 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS3_12.MAG
+
+Firma: 4C 5A 1A 82 83 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS3_10.MAG
+
+Firma: 4C 5A 1A 84 07 00 00 FF 50 00 0C 00 15 8B 95 19
+Cantidad: 1
+  BG10B.MAP
+
+Firma: 4C 5A 1A 84 53 00 00 5F 1F FF FF FF 3F EF F0 7F
+Cantidad: 1
+  PAGE3_2M.DAT
+
+Firma: 4C 5A 1A 85 28 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MASK6.MAG
+
+Firma: 4C 5A 1A 87 34 00 00 FF E6 07 6E 08 F3 05 9E 09
+Cantidad: 1
+  STORY1.COM
+
+Firma: 4C 5A 1A 88 01 00 00 55 20 E3 FA 10 E9 F2 14 EB
+Cantidad: 1
+  BOSS10_M.TBL
+
+Firma: 4C 5A 1A 88 7C 00 00 FF 5A 00 A0 02 E6 04 2C 07
+Cantidad: 1
+  VS1.ANI
+
+Firma: 4C 5A 1A 8A 0F 00 00 FF 00 1A 00 F5 01 AC 03 40
+Cantidad: 1
+  ROUND8.M
+
+Firma: 4C 5A 1A 8B 05 00 00 FF 00 1A 00 C9 00 5F 01 19
+Cantidad: 1
+  ROUND9.M
+
+Firma: 4C 5A 1A 8C 06 00 00 5D 8B E3 F8 20 00 10 E9 F2
+Cantidad: 1
+  BG5_3SPR.TBL
+
+Firma: 4C 5A 1A 8C 10 00 00 FF 00 1A 00 FC 06 C9 07 D3
+Cantidad: 1
+  ROUND6.M
+
+Firma: 4C 5A 1A 8C BE 00 00 7A ED F2 10 EB F5 40 00 00
+Cantidad: 1
+  PAGE3_7R.DAT
+
+Firma: 4C 5A 1A 8C BE 00 00 7A ED F3 08 E9 F8 1C 00 00
+Cantidad: 1
+  PAGE3_7L.DAT
+
+Firma: 4C 5A 1A 90 19 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS1_04.MAG
+
+Firma: 4C 5A 1A 92 05 00 00 FF 00 1A 00 A6 00 EE 00 87
+Cantidad: 1
+  _VISUAL3.M2
+
+Firma: 4C 5A 1A 92 2C 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS5_01.MAG
+
+Firma: 4C 5A 1A 92 9B 00 00 FF 54 00 C4 21 00 00 18 22
+Cantidad: 1
+  GAMES.PPS
+
+Firma: 4C 5A 1A 95 02 00 00 FF 00 1A 00 48 00 8F 00 A8
+Cantidad: 1
+  ALLMAP.M
+
+Firma: 4C 5A 1A 95 59 00 00 FF 30 06 92 06 79 06 B0 00
+Cantidad: 1
+  GRPGDC.COM
+
+Firma: 4C 5A 1A 96 B4 00 00 C1 FF EE FF 00 0F 12 0F 1C
+Cantidad: 1
+  PAGE3_5M.DAT
+
+Firma: 4C 5A 1A 98 4B 00 00 FF EB 00 56 57 55 1E 06 50
+Cantidad: 1
+  MAGLOAD.COM
+
+Firma: 4C 5A 1A 9C 02 00 00 5D 37 E3 F8 60 00 1C E9 F2
+Cantidad: 1
+  BOSS1.TBL
+
+Firma: 4C 5A 1A 9E 37 00 00 FF 1F 09 05 0A 11 06 06 0A
+Cantidad: 1
+  STORY5.COM
+
+Firma: 4C 5A 1A A0 2A 00 00 FF 08 00 4E 12 94 24 9A 27
+Cantidad: 1
+  VS3.ANI
+
+Firma: 4C 5A 1A A0 ED 0F 00 FD 77 EE F0 88 78 88 88 89
+Cantidad: 1
+  VOICES.PPL
+
+Firma: 4C 5A 1A A2 30 00 00 5A ED F0 38 EC F2 FF FE F3
+Cantidad: 1
+  PAGE3_1M.DAT
+
+Firma: 4C 5A 1A A3 23 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MASK1.MAG
+
+Firma: 4C 5A 1A A4 05 00 00 1F 3C 00 0C 00 01 F2 FF 04
+Cantidad: 1
+  BG9B.MAP
+
+Firma: 4C 5A 1A A4 10 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS6_03.MAG
+
+Firma: 4C 5A 1A A4 4E 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED09.MAG
+
+Firma: 4C 5A 1A A4 51 00 00 F6 ED FD 0F C0 ED F0 7F F8
+Cantidad: 1
+  PAGE1.DAT
+
+Firma: 4C 5A 1A A5 37 00 00 FF 02 08 8A 08 CF 05 28 09
+Cantidad: 1
+  STORY3.COM
+
+Firma: 4C 5A 1A A5 78 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  RYOKO.MAG
+
+Firma: 4C 5A 1A A7 23 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MASK7.MAG
+
+Firma: 4C 5A 1A A8 21 00 00 FF 00 1A 00 15 03 71 09 AA
+Cantidad: 1
+  ROUND4.M
+
+Firma: 4C 5A 1A AA 13 00 00 FF 00 1A 00 C6 01 72 03 DC
+Cantidad: 1
+  ROUND7.M2
+
+Firma: 4C 5A 1A AA BC 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS4_00.MAG
+
+Firma: 4C 5A 1A AC 07 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS3_11.MAG
+
+Firma: 4C 5A 1A AD 08 00 00 FF 00 1A 00 2E 01 4D 02 2B
+Cantidad: 1
+  ROUND2.M
+
+Firma: 4C 5A 1A AF 68 01 00 FF 00 1F F8 00 01 FF FF 80
+Cantidad: 1
+  BOSS10_M.DAT
+
+Firma: 4C 5A 1A B0 00 00 00 DD 0E E3 F8 70 00 21 E9 F2
+Cantidad: 1
+  BOSS8_M.TBL
+
+Firma: 4C 5A 1A B0 36 00 00 6F 00 00 01 80 EC F1 03 C0
+Cantidad: 1
+  PAGE3_9M.DAT
+
+Firma: 4C 5A 1A B0 4F 00 00 F6 ED F0 01 FF EC F2 07 FF
+Cantidad: 1
+  BOSS11_M.DAT
+
+Firma: 4C 5A 1A B3 0F 00 00 FF 00 1A 00 E2 01 67 06 D6
+Cantidad: 1
+  ROUND7.M
+
+Firma: 4C 5A 1A B4 07 00 00 FF 29 00 18 00 B7 6A 57 19
+Cantidad: 1
+  BG6_2.MAP
+
+Firma: 4C 5A 1A B5 0C 00 00 FF 00 1A 00 2F 01 EA 04 5A
+Cantidad: 1
+  ROUND10.M
+
+Firma: 4C 5A 1A B5 D0 01 00 9E ED F0 01 FF EF FF F4 F2
+Cantidad: 1
+  BOSS1.DAT
+
+Firma: 4C 5A 1A B6 D5 00 00 FF 00 01 FC 00 00 03 FE 00
+Cantidad: 1
+  PAGE3_9L.DAT
+
+Firma: 4C 5A 1A B6 D5 00 00 FF 00 3F 80 00 00 7F C0 00
+Cantidad: 1
+  PAGE3_9R.DAT
+
+Firma: 4C 5A 1A B8 04 00 00 5D 64 E3 F8 40 00 10 E9 F2
+Cantidad: 1
+  PAGE3_8M.TBL
+
+Firma: 4C 5A 1A B9 9D 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  GATOO.MAG
+
+Firma: 4C 5A 1A BA 03 00 00 FF 00 1A 00 54 00 99 00 B2
+Cantidad: 1
+  ALLMAP.M2
+
+Firma: 4C 5A 1A BC 00 00 00 7D 0F E3 F8 30 00 28 00 80
+Cantidad: 1
+  PAGE3_1M.TBL
+
+Firma: 4C 5A 1A BD 3C 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  GIRL7A.MAG
+
+Firma: 4C 5A 1A BE 16 00 00 FF 00 1A 00 5D 05 C4 07 CB
+Cantidad: 1
+  BOSS.M2
+
+Firma: 4C 5A 1A BF 1C 00 00 FF 00 1A 00 59 03 87 07 83
+Cantidad: 1
+  ROUND5.M2
+
+Firma: 4C 5A 1A C0 21 00 00 EF 00 00 0F F0 ED F0 01 FF
+Cantidad: 1
+  BOSS4_M.DAT
+
+Firma: 4C 5A 1A C0 8E 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED11.MAG
+
+Firma: 4C 5A 1A C1 0C 00 00 FF 00 1A 00 4B 01 80 02 5E
+Cantidad: 1
+  ROUND2.M2
+
+Firma: 4C 5A 1A C1 35 00 00 FF 5A 09 B6 0B 2F 06 42 0C
+Cantidad: 1
+  STORY2.COM
+
+Firma: 4C 5A 1A C2 19 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS1_01.MAG
+
+Firma: 4C 5A 1A C3 34 00 00 FF CC 0B 54 0C F3 05 F5 0C
+Cantidad: 1
+  STORY9.COM
+
+Firma: 4C 5A 1A C4 5D 00 00 FF C8 00 3C 00 B7 00 57 00
+Cantidad: 1
+  BG6.MAP
+
+Firma: 4C 5A 1A C4 6D 00 00 FF 03 C0 0F F0 3F FC 7F FE
+Cantidad: 1
+  PAGE2.DAT
+
+Firma: 4C 5A 1A C6 04 00 00 FF 00 1A 00 99 00 0F 01 82
+Cantidad: 1
+  CLEAR.M2
+
+Firma: 4C 5A 1A C6 0C 00 00 FF 00 1A 00 6E 02 D0 04 E8
+Cantidad: 1
+  ENDING1.M
+
+Firma: 4C 5A 1A C6 21 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS4_02.MAG
+
+Firma: 4C 5A 1A C8 00 00 00 5D 10 E3 F8 40 00 2C ED F2
+Cantidad: 1
+  BOSS11_M.TBL
+
+Firma: 4C 5A 1A C8 00 00 00 7D 10 E3 F8 30 00 28 00 18
+Cantidad: 1
+  BOSS7.TBL
+
+Firma: 4C 5A 1A C8 32 00 00 6F 00 00 1F C0 EC F1 7F FF
+Cantidad: 1
+  CLEAR2.DAT
+
+Firma: 4C 5A 1A C8 C2 01 00 C1 FF EE FF 00 0F 12 0F 1C
+Cantidad: 1
+  BG5_3SPR.DAT
+
+Firma: 4C 5A 1A CB 04 00 00 FF 00 1A 00 6F 00 BE 00 39
+Cantidad: 1
+  ALLCLEAR.M2
+
+Firma: 4C 5A 1A CC 3E 00 00 FF 37 18 77 37 AB 00 89 0C
+Cantidad: 1
+  ENEMY2.COM
+
+Firma: 4C 5A 1A CC 73 00 00 7F 74 04 0D 00 03 28 03 F4
+Cantidad: 1
+  LASBOSBG.MAP
+
+Firma: 4C 5A 1A CC D2 01 00 6F 00 00 03 F8 EC F1 FF FE
+Cantidad: 1
+  PAGE0.DAT
+
+Firma: 4C 5A 1A CE 14 00 00 FF 00 1A 00 AE 02 BD 05 D5
+Cantidad: 1
+  ENDING2.M
+
+Firma: 4C 5A 1A CE 44 00 00 FF 37 18 6B 36 AB 00 89 0C
+Cantidad: 1
+  ENEMY10.COM
+
+Firma: 4C 5A 1A D0 3B 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS6_02.MAG
+
+Firma: 4C 5A 1A D1 11 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  CMASK1.MAG
+
+Firma: 4C 5A 1A D2 09 00 00 FF 00 1A 00 F2 01 ED 02 F6
+Cantidad: 1
+  MUSS.M
+
+Firma: 4C 5A 1A D2 3E 00 00 FF 37 18 A3 33 AB 00 89 0C
+Cantidad: 1
+  ENEMY3.COM
+
+Firma: 4C 5A 1A D4 00 00 00 5D 11 E3 F8 30 00 18 E9 F2
+Cantidad: 1
+  BOSS4_M.TBL
+
+Firma: 4C 5A 1A D4 00 00 00 5D 11 E3 F8 40 00 30 E9 F2
+Cantidad: 1
+  KIME.TBL
+
+Firma: 4C 5A 1A D4 1C 00 00 FF 00 3E 7C 00 01 7F FF 80
+Cantidad: 1
+  BG5_2SPR.DAT
+
+Firma: 4C 5A 1A D8 F0 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS6_00.MAG
+
+Firma: 4C 5A 1A DC 01 00 00 5D 27 E3 F8 20 00 10 E9 F2
+Cantidad: 1
+  PAGE3_2M.TBL
+
+Firma: 4C 5A 1A DC A3 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED07.MAG
+
+Firma: 4C 5A 1A DD 60 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MAPCAS.MAG
+
+Firma: 4C 5A 1A DF 02 00 00 FF 00 1A 00 8B 00 FA 00 6B
+Cantidad: 1
+  CLEAR.M
+
+Firma: 4C 5A 1A E0 72 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED01.MAG
+
+Firma: 4C 5A 1A E2 09 00 00 FF 00 1A 00 F4 01 F1 02 FC
+Cantidad: 1
+  _VISUAL5.M
+
+Firma: 4C 5A 1A E2 16 00 00 FF 00 1A 00 E3 05 78 08 A9
+Cantidad: 1
+  LASTBOSS.M2
+
+Firma: 4C 5A 1A E2 1E 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS3_20.MAG
+
+Firma: 4C 5A 1A E2 59 00 00 FF 7D 06 DF 06 C6 06 D6 00
+Cantidad: 1
+  GRPEGC.COM
+
+Firma: 4C 5A 1A E3 25 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MASK2.MAG
+
+Firma: 4C 5A 1A E4 01 00 00 FF 14 00 0C 00 00 01 02 03
+Cantidad: 1
+  BG8D.MAP
+
+Firma: 4C 5A 1A E7 11 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  CMASK2.MAG
+
+Firma: 4C 5A 1A EC 03 00 00 5D 53 E3 F8 10 00 08 E9 F2
+Cantidad: 1
+  PAGE2.TBL
+
+Firma: 4C 5A 1A F0 0A 00 00 01 FF EE FF 00 0F 12 0F 24
+Cantidad: 1
+  CURSOL.DAT
+
+Firma: 4C 5A 1A F3 2A 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  MASK5.MAG
+
+Firma: 4C 5A 1A F6 7C 00 00 FF 54 00 40 04 00 00 94 04
+Cantidad: 1
+  DRUMS.PPS
+
+Firma: 4C 5A 1A F7 1F 00 00 FF C1 09 5E 0A DF 05 6E 0B
+Cantidad: 1
+  STORY8.COM
+
+Firma: 4C 5A 1A F8 41 00 00 FF 37 18 B3 33 AB 00 89 0C
+Cantidad: 1
+  ENEMY9.COM
+
+Firma: 4C 5A 1A F9 13 00 00 FF 00 1A 00 EE 07 C9 09 99
+Cantidad: 1
+  BOSS2.M2
+
+Firma: 4C 5A 1A FA 22 00 00 FF DB 07 9B 08 C1 05 F3 08
+Cantidad: 1
+  STORY7.COM
+
+Firma: 4C 5A 1A FA 87 00 00 DF 00 00 18 1F F8 EB F2 38
+Cantidad: 1
+  BOSS11_L.DAT
+
+Firma: 4C 5A 1A FA 87 00 00 EE ED F0 1F F8 18 EC F2 7F
+Cantidad: 1
+  BOSS11_R.DAT
+
+Firma: 4C 5A 1A FA C2 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  VS5_00.MAG
+
+Firma: 4C 5A 1A FB 10 00 00 FF 00 1A 00 46 01 5B 06 D1
+Cantidad: 1
+  ROUND10.M2
+
+Firma: 4C 5A 1A FC 49 00 00 EC DC FF F4 F3 1F F0 F4 F1
+Cantidad: 1
+  BOSS7.DAT
+
+Firma: 4C 5A 1A FC 7B 00 00 B6 ED F0 01 F8 EB F3 03 FF
+Cantidad: 1
+  BOSS4_R.DAT
+
+Firma: 4C 5A 1A FC 7B 00 00 B6 ED F0 1F 80 EB F3 FF C0
+Cantidad: 1
+  BOSS4_L.DAT
+
+Firma: 4C 5A 1A FE 66 00 00 FF 4D 41 4B 49 30 32 20 20
+Cantidad: 1
+  ED10.MAG
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 08 00 8C
+Cantidad: 1
+  R_A23.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 88 00 96
+Cantidad: 1
+  STAFF5.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 B0 00 82
+Cantidad: 1
+  STAFF4.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 E8 00 9E
+Cantidad: 1
+  STAFF7.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 00 00 C8
+Cantidad: 1
+  R_B34_2.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 50 00 32
+Cantidad: 1
+  R_B33.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 B0 01 7A
+Cantidad: 1
+  R_A11_5.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 D8 01 00
+Cantidad: 1
+  R_A11_2.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 F8 00 B4
+Cantidad: 1
+  R_A11_7.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 20
+Cantidad: 1
+  R_A11_3.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 0B 01 30
+Cantidad: 1
+  R_A11_6.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 41 00 00
+Cantidad: 1
+  R_A11_1.MGX
+
+Firma: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 83 00 90
+Cantidad: 1
+  R_A11_4.MGX
+
+Firma: 4D 5A 0F 00 79 00 13 00 20 00 01 04 FF FF 00 00
+Cantidad: 1
+  TOOLS/VEM486.EXE
+
+Firma: 4D 5A 25 00 3A 00 00 00 21 00 9B 00 FF FF 40 07
+Cantidad: 1
+  INSTALL.EXE
+
+Firma: 4D 5A 33 00 40 00 00 00 20 00 42 70 FF FF 90 6A
+Cantidad: 1
+  JO.EXE
+
+Firma: 4D 5A 49 00 40 00 00 00 20 00 01 02 FF FF 02 08
+Cantidad: 1
+  DOS/MEM.EXE
+
+Firma: 4D 5A 5E 00 E5 00 E1 00 40 00 00 00 FF FF 7A 17
+Cantidad: 1
+  DOS/EMM386.EXE
+
+Firma: 4D 5A 70 01 3D 00 02 00 20 00 35 06 FF FF 6B 0C
+Cantidad: 1
+  DOS/SEDIT.EXE
+
+Firma: 4D 5A 80 01 25 00 11 00 06 00 F9 0B F9 AB 8B 0C
+Cantidad: 1
+  CLABLOGO.EXE
+
+Firma: 4D 5A 91 00 2A 00 00 00 20 00 77 00 FF FF 79 05
+Cantidad: 1
+  DOS/MSCDEX.EXE
+
+Firma: 4D 5A B7 01 25 00 05 00 20 00 34 03 34 03 AF 04
+Cantidad: 1
+  DOS/MOVE.EXE
+
+Firma: 93 DE 8F 8F 94 4C 82 B3 82 F1 82 BE 82 E6 82 F1
+Cantidad: 1
+  GAMEDATA.CFG
+
+Firma: 9C 6A 00 00 01 6D 00 00 08 A0 00 00 00 00 00 00
+Cantidad: 1
+  DOS/EXTDSWAP.SYS
+
+Firma: E8 10 00 72 09 A0 C2 01 FE C0 B4 4C CD 21 B8 00
+Cantidad: 1
+  ONGCHK.COM
+
+Firma: E8 96 01 BB 42 6E C1 EB 04 43 B4 4A CD 21 73 03
+Cantidad: 1
+  OP.COM
+
+Firma: E9 06 3B FA 8C C0 8E D8 8C C8 8E C0 8B F2 BF 1E
+Cantidad: 1
+  DOS/MOUSE.COM
+
+Firma: E9 53 3A EB 0F 50 4D 44 00 00 00 00 00 00 00 00
+Cantidad: 1
+  PMDB2.COM
+
+Firma: E9 59 01 EB 07 50 4D 50 00 00 00 00 FB 0A E4 75
+Cantidad: 1
+  PPSDRV.COM
+
+Firma: E9 6D 17 64 8C 17 00 00 97 11 00 00 55 10 00 00
+Cantidad: 1
+  COMMAND.COM
+
+Firma: E9 7E 70 00 00 00 42 55 47 20 00 00 00 00 00 00
+Cantidad: 1
+  MSDOS.SYS
+
+Firma: E9 80 09 E4 A0 A8 08 75 FA 8A C3 C0 E8 02 F9 D0
+Cantidad: 1
+  TOOLS/QMOUSE.COM
+
+Firma: E9 84 0A E4 A0 A8 08 75 FA 8A C3 C0 E8 02 F9 D0
+Cantidad: 1
+  TOOLS/QMOUSE2.COM
+
+Firma: E9 A3 00 90 00 00 00 00 00 00 00 00 00 00 00 00
+Cantidad: 1
+  BOOT.COM
+
+Firma: E9 C3 04 EB 0C 50 44 52 00 00 00 00 00 00 00 00
+Cantidad: 1
+  PDR.COM
+
+Firma: E9 DF 9B E9 2E 1A E9 31 1A 00 00 00 00 00 00 00
+Cantidad: 1
+  IO.SYS
+
+Firma: E9 FF 2B EB 0F 50 4D 44 00 00 00 00 00 00 00 00
+Cantidad: 1
+  PMD.COM
+
+Firma: FF FF FF FF 00 80 12 00 21 00 4D 53 24 4D 4F 55
+Cantidad: 1
+  DOS/MOUSE.SYS
+
+Firma: FF FF FF FF 00 80 16 00 21 00 45 4D 55 4D 42 56
+Cantidad: 1
+  TOOLS/EMUMB.SYS
+
+Firma: FF FF FF FF 00 80 37 01 16 00 56 45 4D 69 6E 74
+Cantidad: 1
+  TOOLS/VEMRSM.SYS
+
+Firma: FF FF FF FF 00 80 3C 00 16 00 56 45 4D 5F 48 53
+Cantidad: 1
+  TOOLS/VEMHSB.SYS
+
+Firma: FF FF FF FF 00 A0 6E 00 D5 0A 58 4D 53 58 58 58
+Cantidad: 1
+  DOS/HIMEM.SYS
+
+Firma: FF FF FF FF 00 C0 62 00 16 00 45 4D 4D 58 58 58
+Cantidad: 1
+  TOOLS/VEMEMM.SYS
+
+Firma: FF FF FF FF 00 C8 0D 03 18 03 43 44 5F 31 30 31
+Cantidad: 1
+  TOOLS/NECCDJ.SYS
+
+Firma: FF FF FF FF 00 C8 1A 00 25 00 20 20 20 20 20 20
+Cantidad: 1
+  TOOLS/CDX.SYS
+
+Firma: FF FF FF FF 00 C8 4C 04 57 04 43 44 5F 31 30 31
+Cantidad: 1
+  TOOLS/NECCDB.SYS
+
+Firma: FF FF FF FF 00 C8 71 00 21 00 43 44 5F 31 30 31
+Cantidad: 1
+  TOOLS/NECCDK.SYS
+
+Firma: FF FF FF FF 00 C8 C0 00 48 00 43 44 5F 31 30 31
+Cantidad: 1
+  TOOLS/NECCDM.SYS
+
+Firma: FF FF FF FF 00 C8 F2 00 FD 00 20 20 20 20 20 20
+Cantidad: 1
+  TOOLS/CDSDMINI.SYS
+
+Firma: FF FF FF FF 40 C0 36 01 41 01 45 4D 4D 58 58 58
+Cantidad: 1
+  DOS/EMM.SYS
+
+DETALLE POR ARCHIVO
+
+Archivo: _VISUAL1.M
+Tamaño: 507 bytes
+SHA-256: bdfac1436de4dbcaa11a0e1cd12fa91b541f5867424b15d8dd79c4105e34feef
+Primeros 16 bytes: 4C 5A 1A 7F 02 00 00 FF 00 1A 00 53 00 8A 00 C3
+ASCII: LZ.........S............4..|.1.2.3..7........(.f.........>..${@<
+
+Archivo: _VISUAL1.M2
+Tamaño: 662 bytes
+SHA-256: ab82169473954348c3c80e61bf6806cd17f6fa8bd027c36f37e40821599cb132
+Primeros 16 bytes: 4C 5A 1A 50 03 00 00 FF 00 1A 00 5A 00 91 00 CA
+ASCII: LZ.P.......Z........:.|...........................(.f..........E
+
+Archivo: _VISUAL2.M
+Tamaño: 442 bytes
+SHA-256: 6b4a5b393505212f70960af375fe2452f40dd916e75b232a8091b5276d208d33
+Primeros 16 bytes: 4C 5A 1A 0A 02 00 00 FF 00 1A 00 7F 00 E9 00 FF
+ASCII: LZ......................]....................-.i................
+
+Archivo: _VISUAL2.M2
+Tamaño: 569 bytes
+SHA-256: 4809ff3cf6a046eb4416bba72c72a3bf57aa2f14f42409603f29e6195d40eb34
+Primeros 16 bytes: 4C 5A 1A E4 02 00 00 FF 00 1A 00 86 00 F0 00 06
+ASCII: LZ................I........U.V.W.y.....`..........-.i...........
+
+Archivo: _VISUAL3.M
+Tamaño: 720 bytes
+SHA-256: e92ad6ed210150009bf7b2310c7c86724c38093facdfb17a5d120002b2fca839
+Primeros 16 bytes: 4C 5A 1A 39 04 00 00 FF 00 1A 00 9D 00 E3 00 7A
+ASCII: LZ.9...........z..../.0.p......................i...........A..c.
+
+Archivo: _VISUAL3.M2
+Tamaño: 910 bytes
+SHA-256: aaf6f7b03fb807df8581df3652dd686046186e0644dba2597b19e114ca7ff2a6
+Primeros 16 bytes: 4C 5A 1A 92 05 00 00 FF 00 1A 00 A6 00 EE 00 87
+ASCII: LZ..................)......7.t.u.,..0..v............i...........
+
+Archivo: _VISUAL4.M
+Tamaño: 1610 bytes
+SHA-256: 2270cf7824c0838420672388d76faa0b0f4b3ffaa5c76ac8acfb521ef66b29c3
+Primeros 16 bytes: 4C 5A 1A D0 0A 00 00 FF 00 1A 00 C1 02 37 04 07
+ASCII: LZ...........7...................<..:.........i...............+.
+
+Archivo: _VISUAL4.M2
+Tamaño: 2031 bytes
+SHA-256: abc27b183b42ce527f4a3bbf3216c4817987f49f2b22489c35165ceecc74ae1a
+Primeros 16 bytes: 4C 5A 1A 77 0D 00 00 FF 00 1A 00 C5 02 3D 04 19
+ASCII: LZ.w.........=......R.P....9.F.G.{..y...........i...............
+
+Archivo: _VISUAL5.M
+Tamaño: 1545 bytes
+SHA-256: f6243081bb11fdd2f35563079e5aea3483890f9c20ebc6584a544abf090b7820
+Primeros 16 bytes: 4C 5A 1A E2 09 00 00 FF 00 1A 00 F4 01 F1 02 FC
+ASCII: LZ......................$..N..................i.................
+
+Archivo: _VISUAL5.M2
+Tamaño: 1963 bytes
+SHA-256: f604007d24e573709aa00ee25028acfc353ee0f61c4814dc19d4ea9b5806cdc2
+Primeros 16 bytes: 4C 5A 1A 17 0D 00 00 FF 00 1A 00 FD 01 FC 02 09
+ASCII: LZ.........................I.......................i............
+
+Archivo: ALLCLEAR.M
+Tamaño: 596 bytes
+SHA-256: a5e4df85739989056acda41075b56df377dbdd07d7b3b11d2a27ca6e7a5b0ff2
+Primeros 16 bytes: 4C 5A 1A 56 03 00 00 FF 00 1A 00 63 00 AD 00 28
+ASCII: LZ.V.......c...(..z.{.|....Z.[.\.`..........0...m..........9..7.
+
+Archivo: ALLCLEAR.M2
+Tamaño: 715 bytes
+SHA-256: b96cf5aee04b0662620fb3438fa4e38d2923ed6f36b0756f62bca2d4d6c0fc7c
+Primeros 16 bytes: 4C 5A 1A CB 04 00 00 FF 00 1A 00 6F 00 BE 00 39
+ASCII: LZ.........o...9......"..........f..i............0.........j....
+
+Archivo: ALLMAP.M
+Tamaño: 470 bytes
+SHA-256: 04ba12acde3d267b490a76fcc2f0ab3fb023f9d2e53cb1f32e54cadff28bab47
+Primeros 16 bytes: 4C 5A 1A 95 02 00 00 FF 00 1A 00 48 00 8F 00 A8
+ASCII: LZ.........H............n...........3....-..j.........C.9`..9..9
+
+Archivo: ALLMAP.M2
+Tamaño: 633 bytes
+SHA-256: 77dcb81ff904812972cac4db4c88b3007595d4ed4533b91b0351c6dec43225ee
+Primeros 16 bytes: 4C 5A 1A BA 03 00 00 FF 00 1A 00 54 00 99 00 B2
+ASCII: LZ.........T........................>..................-.m......
+
+Archivo: AUTOEXEC.BAT
+Tamaño: 302 bytes
+SHA-256: c5839915392f81600c344bc4ae1e25931a8b17ef4119bcefc6213ffe654261dd
+Primeros 16 bytes: 40 45 43 48 4F 20 4F 46 46 0D 0A 0D 0A 52 45 4D
+ASCII: @ECHO OFF....REM ===Environment variables===..PATH=A:\;A:\DOS;A:
+
+Archivo: BG1.DAT
+Tamaño: 49598 bytes
+SHA-256: 789cb34cbe4044356c20b3e26788f58e6fa182505d04144e82e289e7a7c902d3
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 1E ED F5 3F FF FF FC F6 FF
+ASCII: LZ........?....................O....X......1...P....0..V..S("&4T
+
+Archivo: BG1.MAP
+Tamaño: 5644 bytes
+SHA-256: a2063f068bc567658d654f0c82e7a7995918849781a0137d762326e712521dc9
+Primeros 16 bytes: 4C 5A 1A 04 4B 00 00 FF 90 01 18 00 16 36 16 16
+ASCII: LZ..K........6...7............l....'.9.K.......n..n.n.E.|..Z...m
+
+Archivo: BG1.RGB
+Tamaño: 48 bytes
+SHA-256: 9c6933fb2b5a72e30445b8367f579bb8b9915f10681edc020faca829ba0e522f
+Primeros 16 bytes: 00 00 00 0A 00 01 02 03 08 04 06 0B 07 09 0D 09
+ASCII: ................................................
+
+Archivo: BG10.RGB
+Tamaño: 48 bytes
+SHA-256: 27016c8ba17888f3d23e4334a9a94a21ce1982264601be9b5f0931be0a25c3ea
+Primeros 16 bytes: 00 00 00 0B 00 02 01 02 06 02 04 08 07 08 0C 09
+ASCII: ................................................
+
+Archivo: BG10B.MAP
+Tamaño: 328 bytes
+SHA-256: 77b32e7b5465345b70e6e1df91371fe499353fd8122d4d7fd08cdc61f68d266b
+Primeros 16 bytes: 4C 5A 1A 84 07 00 00 FF 50 00 0C 00 15 8B 95 19
+ASCII: LZ......P..............*.0......D.V.h.z...B.................B...
+
+Archivo: BG10C.DAT
+Tamaño: 40578 bytes
+SHA-256: 3d78ddafb90ebfa7a7a0a89d392af3f1d0985d1e25d5c778b53b966fde4d2459
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 1C 07
+ASCII: LZ..............UL/..{.+UW.._...J.UWmE....<+.W...p.7.....Q.J.Z..
+
+Archivo: BG10C.MAP
+Tamaño: 677 bytes
+SHA-256: 34b88d314512f975d32dd6b15fb922d7432cbe781206ee8ff19a99cd4e82c3da
+Primeros 16 bytes: 4C 5A 1A 74 08 00 00 DF 2D 00 18 00 D8 F2 FF D8
+ASCII: LZ.t....-..........P=.x...o...... ............dQ.R......... .   
+
+Archivo: BG2.DAT
+Tamaño: 38895 bytes
+SHA-256: 93952bd88294796ae7bdc4ed769b3765d93a879194390680a567d99865cf953c
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 1C 07
+ASCII: LZ.............. >.>.C.S..T.V...>!.4.c..cP6...U. >.c.C.........a
+
+Archivo: BG2.MAP
+Tamaño: 2625 bytes
+SHA-256: bf285827abacd8d3f5b5dc7ab3a4f8659d22dd9329fda3a1dbd3490bc11486b8
+Primeros 16 bytes: 4C 5A 1A 14 2C 00 00 FF 78 00 2F 00 04 02 03 5D
+ASCII: LZ..,...x./....].^.....................w2J.$.J....`........B...$
+
+Archivo: BG2.RGB
+Tamaño: 48 bytes
+SHA-256: dd313941342d4f839d2b0a2f385569f4769173a24324f486334b7950c1dd39eb
+Primeros 16 bytes: 00 00 00 0A 01 00 02 03 08 04 06 0B 08 09 0D 0A
+ASCII: ................................................
+
+Archivo: BG2N.DAT
+Tamaño: 45113 bytes
+SHA-256: 6ff177b5b9faa2eae6fa3773ef4fb444cc0489d5c80c2f19a0362259bf9366dd
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 00 DC FF FF FF 11 0F 23 0F
+ASCII: LZ............#.5.G.Y.]..UU..*(. ...........T...*...].. ]....@..
+
+Archivo: BG2N.MAP
+Tamaño: 4086 bytes
+SHA-256: 883dc66d663c48d70c989c8ad28574f72c84c2f278bcbcb02650af8c755a9fee
+Primeros 16 bytes: 4C 5A 1A 24 67 00 00 1F DC 00 3C 00 01 F2 FF 04
+ASCII: LZ.$g.....<.........(.:.L.^.p.......>......................@.R.d
+
+Archivo: BG2N.RGB
+Tamaño: 48 bytes
+SHA-256: 290b49dff37af5047c749bddd7d1e80e0fa513ea8df9e82de596cffd02d6b115
+Primeros 16 bytes: 00 00 00 0A 01 00 01 03 05 04 05 07 08 09 0B 0A
+ASCII: ................................................
+
+Archivo: BG3.DAT
+Tamaño: 36660 bytes
+SHA-256: 7e48cce9d8d83dbee091b5d1f489dc4140774804554d3fb55a85b822c5cc6358
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 1C 07
+ASCII: LZ................mr.z.W..tV....O.;4H../<k...!....mr..W.z..V..tO
+
+Archivo: BG3.MAP
+Tamaño: 5662 bytes
+SHA-256: 93bb3c8f6da3899083bec40bca36b7022aea85edd6d3fdb838ca16db7f48f9c4
+Primeros 16 bytes: 4C 5A 1A 04 78 00 00 FF 40 01 30 00 F2 DB DB F1
+ASCII: LZ..x...@.0...................................C.U...-.k. ..t..?.
+
+Archivo: BG3.RGB
+Tamaño: 48 bytes
+SHA-256: d0104b169e6cbaceccf4de1d804709fa1f4c66560d40da6ac04c84b8399b1f5c
+Primeros 16 bytes: 00 00 00 0B 01 00 02 03 06 04 06 09 07 09 0C 0A
+ASCII: ................................................
+
+Archivo: BG4.DAT
+Tamaño: 35146 bytes
+SHA-256: 7f97f18d8bbb6ee16c1fc8aa19492572c400e0ba62579c19975c1245cb70b5ba
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 05 FF EE F0 80 EB F0 F2 FF
+ASCII: LZ.......................8.(........p....NI:..E...r'.@..........
+
+Archivo: BG4.MAP
+Tamaño: 4340 bytes
+SHA-256: 39704cc164e0b9ccba0cac0ca2451f6c170a151ca4686b9628f3ef08ea5b1355
+Primeros 16 bytes: 4C 5A 1A 04 4B 00 00 FF 50 00 78 00 0E F4 83 84
+ASCII: LZ..K...P.x......p10....2................7.....EDH.R..F......G._
+
+Archivo: BG4.RGB
+Tamaño: 48 bytes
+SHA-256: 9c6933fb2b5a72e30445b8367f579bb8b9915f10681edc020faca829ba0e522f
+Primeros 16 bytes: 00 00 00 0A 00 01 02 03 08 04 06 0B 07 09 0D 09
+ASCII: ................................................
+
+Archivo: BG5_1.DAT
+Tamaño: 43032 bytes
+SHA-256: a0bfe66118160a9251d20c22ed9c151cb1b98e7bd0027c7e13e0894e736e8926
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 20 0B
+ASCII: LZ............ ...x.... q2....t...VPie.U)..(...............b..@.
+
+Archivo: BG5_1.MAP
+Tamaño: 7241 bytes
+SHA-256: 18743a715f8becd23a68a45708948375dcf168aec59dea175fc848345ea1d7cf
+Primeros 16 bytes: 4C 5A 1A 24 76 00 00 FF B4 00 54 00 37 38 39 37
+ASCII: LZ.$v.....T.7897w67z..89*...fRS..=R.i.....S..Tg...........4.6>?.
+
+Archivo: BG5_1.RGB
+Tamaño: 48 bytes
+SHA-256: 75d41a5773d758df4a67f924ab7a98fd9953e55f41ebf7c1112a9ac2ba97938b
+Primeros 16 bytes: 00 00 00 0A 01 00 01 03 05 03 04 06 08 09 0B 0A
+ASCII: ................................................
+
+Archivo: BG5_2.MAP
+Tamaño: 1159 bytes
+SHA-256: 541a7f9b08c8ca3b87ef6be7c3d22e53a8eee7ac1b75410911d62d7b9f710b4d
+Primeros 16 bytes: 4C 5A 1A 54 19 00 00 FF 1E 00 6C 00 2E 2E 2E 1B
+ASCII: LZ.T......l.........Px..Q.P......*|.......PQ..........Q...d.....
+
+Archivo: BG5_2SPR.DAT
+Tamaño: 2173 bytes
+SHA-256: 007b3ddae776accb8579e2bc5a2021ee37bb0a286594306268a10184941b1f36
+Primeros 16 bytes: 4C 5A 1A D4 1C 00 00 FF 00 3E 7C 00 01 7F FF 80
+ASCII: LZ.......>|...................?.......................5.....D..)
+
+Archivo: BG5_2SPR.TBL
+Tamaño: 39 bytes
+SHA-256: 546fbbb9907bcd3c957b2fc5a8dace46974f5d34456353e617104cba3761004e
+Primeros 16 bytes: 4C 5A 1A 2C 00 00 00 DD 03 E3 F8 20 00 0E EB F0
+ASCII: LZ.,....... ...........@....}..........
+
+Archivo: BG5_3.DAT
+Tamaño: 39439 bytes
+SHA-256: 4294bd1f903b5e3258b1afaac404cf8aa6770ff1a6c5735c69c4b6261e42aa5a
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 10 DC FF FF FF 11 0F 1C 07
+ASCII: LZ.................@.R..^......-.Fj-..-..-...^.T-...@^..^.T^...^
+
+Archivo: BG5_3.MAP
+Tamaño: 4755 bytes
+SHA-256: f5e8c57bfa0c11c1d4e7f955f93bbf21160310e6b184d0e978f62485dab88b73
+Primeros 16 bytes: 4C 5A 1A 44 65 00 00 FF 78 00 6C 00 8C 8D 8E CA
+ASCII: LZ.De...x.l.......................uvwwO.........................
+
+Archivo: BG5_3.RGB
+Tamaño: 48 bytes
+SHA-256: ab97555e677828552bda8f4ade14ca745ac2e348f8bdf7e2f4a8d1b0434fdda9
+Primeros 16 bytes: 00 00 00 0B 01 00 02 03 05 05 05 07 09 09 0B 0B
+ASCII: ................................................
+
+Archivo: BG5_3SPR.DAT
+Tamaño: 54015 bytes
+SHA-256: 0d4c3d0b7a251b13afd57eaad8ca870948aebf8a9fbdb006ffb18bf80765df68
+Primeros 16 bytes: 4C 5A 1A C8 C2 01 00 C1 FF EE FF 00 0F 12 0F 1C
+ASCII: LZ.................p..gw..Z............U.St...UL..-.[(..WK.DQ.\.
+
+Archivo: BG5_3SPR.TBL
+Tamaño: 1063 bytes
+SHA-256: 1bfc40b9f23ce39d69a151b1fe9f90cee91042661ab2a0116eddeac0856c23b3
+Primeros 16 bytes: 4C 5A 1A 8C 06 00 00 5D 8B E3 F8 20 00 10 E9 F2
+ASCII: LZ.....]... .......U ..(..@..<..U`..P.....d..U...x........#..9..
+
+Archivo: BG6.DAT
+Tamaño: 35374 bytes
+SHA-256: a5583ef720937b9832f414f6091d8d51c5bab3207ec38ad355c922e467534d76
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 1C 07
+ASCII: LZ..............g.................f.f...........(.P...*....L....
+
+Archivo: BG6.MAP
+Tamaño: 5010 bytes
+SHA-256: b7411ad29caaaf79acad566bc7ddac6f797114260f15e135bd483abff92f8dd6
+Primeros 16 bytes: 4C 5A 1A C4 5D 00 00 FF C8 00 3C 00 B7 00 57 00
+ASCII: LZ..].....<...W.......................$..=.3.....:.q............
+
+Archivo: BG6.RGB
+Tamaño: 48 bytes
+SHA-256: dd313941342d4f839d2b0a2f385569f4769173a24324f486334b7950c1dd39eb
+Primeros 16 bytes: 00 00 00 0A 01 00 02 03 08 04 06 0B 08 09 0D 0A
+ASCII: ................................................
+
+Archivo: BG6_2.MAP
+Tamaño: 487 bytes
+SHA-256: 88fb20d7433cd68b7f043adf44855c6e6971528c8302c537cf4fe42871b205d5
+Primeros 16 bytes: 4C 5A 1A B4 07 00 00 FF 29 00 18 00 B7 6A 57 19
+ASCII: LZ......)....jW.....--....?..W..........U.....-..-..*.......W.c.
+
+Archivo: BG7.DAT
+Tamaño: 45935 bytes
+SHA-256: 5770c945f03c71ef9488a1d1b54ac0a248e8591c9ac5a12a2a55b0e85a9a990d
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 1C 07
+ASCII: LZ..............1.......!..d.....t.sG......"..r.3>....G.3.:.s..=
+
+Archivo: BG7.MAP
+Tamaño: 3554 bytes
+SHA-256: 97f545ed90380a0f13e79675a4cd77c3da0ea389919adccfbb3bd67ca02c3bcf
+Primeros 16 bytes: 4C 5A 1A 04 5A 00 00 FF E0 01 18 00 02 03 04 05
+ASCII: LZ..Z...........................bc.....).;.M._.q................
+
+Archivo: BG7.RGB
+Tamaño: 48 bytes
+SHA-256: 005620355261d8997871aa03f17c6ad984c7c58407b86bf48fdbda1a19a85c2e
+Primeros 16 bytes: 00 00 00 0C 03 00 01 03 05 04 05 07 08 09 0B 0A
+ASCII: ................................................
+
+Archivo: BG8.DAT
+Tamaño: 34763 bytes
+SHA-256: e94963524a2c06ee72c5024269ebae01503a230180760fdc988fa435d2084c27
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 20 0B
+ASCII: LZ............ ._1|..p.....)p.D.Rbt.`0.....T"(.. ..B".%....q.1..
+
+Archivo: BG8.MAP
+Tamaño: 3620 bytes
+SHA-256: db3e726562ea0604980284ba487afb0be0babb921b3758355c4ebe1eeb1bec84
+Primeros 16 bytes: 4C 5A 1A 04 2D 00 00 FF 3C 00 60 00 14 3E 0A 40
+ASCII: LZ..-...<.`..>.@............fgh..>?.@...........................
+
+Archivo: BG8.RGB
+Tamaño: 48 bytes
+SHA-256: fb4a487911542ca98f3d294569d4c314b1132dd87693352688fcb76eef274993
+Primeros 16 bytes: 00 00 00 0A 01 00 01 03 05 04 05 07 07 08 0A 0A
+ASCII: ................................................
+
+Archivo: BG8B.DAT
+Tamaño: 32846 bytes
+SHA-256: 73f91a3ab2aa8034a53cf60b77da9d0352a76303955b183ce0d7ad39e97496b5
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 F0 DC FF FF FF 11 0F 1C 07
+ASCII: LZ..............UL/..{.+UW.._...J.UWmE....<+.W...p.7.....Q.J.Z..
+
+Archivo: BG8B.MAP
+Tamaño: 1211 bytes
+SHA-256: b409d088a821d15a9bd5fb8a57e9b62711fe4e4a61d58f2e14ce68d8b9a2e3e6
+Primeros 16 bytes: 4C 5A 1A 04 1E 00 00 FF A0 00 18 00 78 01 02 03
+ASCII: LZ..........x.../..............).;.M._.q............. ...#$.&'..
+
+Archivo: BG8B.RGB
+Tamaño: 48 bytes
+SHA-256: 29027b2f3a53482a36403a8459b28a03a66436364ef2ebcf0f86f2327b2e28a9
+Primeros 16 bytes: 00 00 00 0C 03 00 01 02 07 04 04 09 06 07 0B 09
+ASCII: ................................................
+
+Archivo: BG8D.DAT
+Tamaño: 30835 bytes
+SHA-256: ea238c679529c699575c5e8381cd994c74e8a5af8ae3ee343b3ec787d60ecff5
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 FF DE 80 05 55 B8 F8 D0 3C
+ASCII: LZ.........U...<.W.........~+..2U...V.......TU.h............V.UW
+
+Archivo: BG8D.MAP
+Tamaño: 315 bytes
+SHA-256: 5409ac58465b6e8f2543370330dcacdadfeaa83a241e721891f292a12fba9ac1
+Primeros 16 bytes: 4C 5A 1A E4 01 00 00 FF 14 00 0C 00 00 01 02 03
+ASCII: LZ.............................................. !"#.$%&'()*+.,-
+
+Archivo: BG9.RGB
+Tamaño: 48 bytes
+SHA-256: 901cfb79581dc3d3ad5df6c933d8f8fff8d57b8a015269b10fca816be5fe69c5
+Primeros 16 bytes: 00 00 00 0B 02 00 01 02 05 04 04 07 08 08 0B 0A
+ASCII: ................................................
+
+Archivo: BG9A.DAT
+Tamaño: 36903 bytes
+SHA-256: 0b7f1de272c824a8a4c2d4d65cc309bac42ea457b9e412a7e41641177159763d
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 FD FF EE F0 80 00 00 01 80
+ASCII: LZ...................@........?.........]......0.!.!.!..........
+
+Archivo: BG9A.MAP
+Tamaño: 6652 bytes
+SHA-256: c131e4721b053b7b616affcf6b32b04da73f9d2557bfce5a41dee1c07857c678
+Primeros 16 bytes: 4C 5A 1A 04 78 00 00 5F A0 00 60 00 EF F2 F0 01
+ASCII: LZ..x.._..`............ ........7......4.@.D.@L.:.Q.>.>.D.. .3..
+
+Archivo: BG9B.MAP
+Tamaño: 250 bytes
+SHA-256: 51b3b348d8ac3b3036a66bd0d2411377558e0de4697b453f4f7b8c83d9d85046
+Primeros 16 bytes: 4C 5A 1A A4 05 00 00 1F 3C 00 0C 00 01 F2 FF 04
+ASCII: LZ......<................@.R.X........j.|.......................
+
+Archivo: BG9C.MAP
+Tamaño: 1057 bytes
+SHA-256: 5eaa50d760e7836c399cf0ae39cbf7b97bf05f5ce50ae30a4529303e5e52e91b
+Primeros 16 bytes: 4C 5A 1A 44 10 00 00 BF 14 00 68 00 3D 3E F2 FF
+ASCII: LZ.D......h.=>..)]*..)........#$....'./.pWqrs(..F..9.?)*....J.Z.
+
+Archivo: BOOT.COM
+Tamaño: 2078 bytes
+SHA-256: 704dad70eed2709e177b3d7f49537e3ff4a6d843e092a123f2fe1eee86456c28
+Primeros 16 bytes: E9 A3 00 90 00 00 00 00 00 00 00 00 00 00 00 00
+ASCII: ................................................................
+
+Archivo: BOSS.M
+Tamaño: 1994 bytes
+SHA-256: 5fc74e6e7f95a3f4499182e4b17f0fbf3b3ffc4a9136f4c560a684ced0d193bb
+Primeros 16 bytes: 4C 5A 1A 66 0F 00 00 FF 00 1A 00 06 04 6B 06 69
+ASCII: LZ.f.........k.i..h.i.j......+.,.-......................z.......
+
+Archivo: BOSS.M2
+Tamaño: 2665 bytes
+SHA-256: f7ed1f81dfdfdf519eb00ffff561a4d7d6d2cca8d2ae474715c899ca9d7b6132
+Primeros 16 bytes: 4C 5A 1A BE 16 00 00 FF 00 1A 00 5D 05 C4 07 CB
+ASCII: LZ.........]......9...r.#....7.8.:..>..9.....?.4.O....t.........
+
+Archivo: BOSS1.DAT
+Tamaño: 57166 bytes
+SHA-256: 932f858721d3da81f2faa8257db801fc6ddc7116bdfac8dc8766eb3bc4f0ce29
+Primeros 16 bytes: 4C 5A 1A B5 D0 01 00 9E ED F0 01 FF EF FF F4 F2
+ASCII: LZ...............................:..?.....9......!.W.-...9.o.r.R
+
+Archivo: BOSS1.TBL
+Tamaño: 492 bytes
+SHA-256: 57238cbb93d626b3fd3a9cba89c8dd9850bf373ff3e9d5f2a2b7be5f063e014d
+Primeros 16 bytes: 4C 5A 1A 9C 02 00 00 5D 37 E3 F8 60 00 1C E9 F2
+ASCII: LZ.....]7..`....i...@.+.........P.0.....j...1...........0.`.#..'
+
+Archivo: BOSS10_L.DAT
+Tamaño: 6813 bytes
+SHA-256: 6484ad14525571660de796789a7b65bce9c5e44cfeb3592c384941b7e0b83220
+Primeros 16 bytes: 4C 5A 1A 1E 41 00 00 B6 ED F3 0F E0 ED F4 7F FC
+ASCII: LZ..A..............]........................!..!..."...."..?M...
+
+Archivo: BOSS10_L.TBL
+Tamaño: 89 bytes
+SHA-256: 0b4e58fd46d82c4c7c1567afcc68efbd3966f3a715307bfb90b68f3ec3aa4392
+Primeros 16 bytes: 4C 5A 1A 68 00 00 00 DD 08 E3 F8 48 00 2E E9 F2
+ASCII: LZ.h.......H......u...H................,.......... ....{...P...h
+
+Archivo: BOSS10_M.DAT
+Tamaño: 31294 bytes
+SHA-256: 6b09efea0fc85979576b8101ab3a3b6720704d7455f327358bd380b53df5fb69
+Primeros 16 bytes: 4C 5A 1A AF 68 01 00 FF 00 1F F8 00 01 FF FF 80
+ASCII: LZ..h.....................?..........................7...x.....>
+
+Archivo: BOSS10_M.TBL
+Tamaño: 276 bytes
+SHA-256: 52b3ea5b83efb781befd570f885dda75bbee02b733cce27581114a2a954914bc
+Primeros 16 bytes: 4C 5A 1A 88 01 00 00 55 20 E3 FA 10 E9 F2 14 EB
+ASCII: LZ.....U ........@...(..d..`.,..p......0.w-....]....w). ........
+
+Archivo: BOSS10_R.DAT
+Tamaño: 6794 bytes
+SHA-256: 342a20581cc5073ace7000f4d5a3794d31184e748e747b66eba31a1e1dd57f62
+Primeros 16 bytes: 4C 5A 1A 1E 41 00 00 B7 00 07 F0 E8 F4 3F FE E8
+ASCII: LZ..A........?....]................................I...?I./.I...
+
+Archivo: BOSS10_R.TBL
+Tamaño: 89 bytes
+SHA-256: 0b4e58fd46d82c4c7c1567afcc68efbd3966f3a715307bfb90b68f3ec3aa4392
+Primeros 16 bytes: 4C 5A 1A 68 00 00 00 DD 08 E3 F8 48 00 2E E9 F2
+ASCII: LZ.h.......H......u...H................,.......... ....{...P...h
+
+Archivo: BOSS11_L.DAT
+Tamaño: 15192 bytes
+SHA-256: eb1d87fbbd571e5e39aa2a88084e3dd761dd2cfb66ba2e060f17c6530c61ab8c
+Primeros 16 bytes: 4C 5A 1A FA 87 00 00 DF 00 00 18 1F F8 EB F2 38
+ASCII: LZ.............8.m...x.................A........................
+
+Archivo: BOSS11_L.TBL
+Tamaño: 122 bytes
+SHA-256: 7f24345eb6b669bcb0c6afd40295c670136adc8f33f39ec7b7edef6398cb538d
+Primeros 16 bytes: 4C 5A 1A A4 00 00 00 7D 0D E3 F8 40 00 3E 00 10
+ASCII: LZ.....}...@.>........p..6....j.....0..l...............~3...P.=.
+
+Archivo: BOSS11_M.DAT
+Tamaño: 12442 bytes
+SHA-256: 6bbc1ad45bcad455cc11582b826f3c799888ef94c92c1fc21fbe9cccc84ea0a0
+Primeros 16 bytes: 4C 5A 1A B0 4F 00 00 F6 ED F0 01 FF EC F2 07 FF
+ASCII: LZ..O................?........|......................'.....0....
+
+Archivo: BOSS11_M.TBL
+Tamaño: 130 bytes
+SHA-256: 0eb52e5a69f42ec1a44deae8c43e5438eabb4d45046cbeff2d251baaa939b785
+Primeros 16 bytes: 4C 5A 1A C8 00 00 00 5D 10 E3 F8 40 00 2C ED F2
+ASCII: LZ.....]...@.,..n...4.p.....:.........<.0v......>......'.......4
+
+Archivo: BOSS11_R.DAT
+Tamaño: 15161 bytes
+SHA-256: ce77b18cbfdf047311bb6b24654a0e62baea40324c4e394ea7bdb8069eac46c8
+Primeros 16 bytes: 4C 5A 1A FA 87 00 00 EE ED F0 1F F8 18 EC F2 7F
+ASCII: LZ........................................T....?................
+
+Archivo: BOSS11_R.TBL
+Tamaño: 122 bytes
+SHA-256: 7f24345eb6b669bcb0c6afd40295c670136adc8f33f39ec7b7edef6398cb538d
+Primeros 16 bytes: 4C 5A 1A A4 00 00 00 7D 0D E3 F8 40 00 3E 00 10
+ASCII: LZ.....}...@.>........p..6....j.....0..l...............~3...P.=.
+
+Archivo: BOSS2.M
+Tamaño: 1279 bytes
+SHA-256: 551c9538223c9c8599a9ee17c07c8062a92d379b018351ab4e59422a60155dc9
+Primeros 16 bytes: 4C 5A 1A 76 0D 00 00 FF 00 1A 00 27 07 02 09 D4
+ASCII: LZ.v.......'...............<..............u...............z.....
+
+Archivo: BOSS2.M2
+Tamaño: 1810 bytes
+SHA-256: a790278508222d614d91fd2794456918b50728e6a3536783c6f945eeebdd67e9
+Primeros 16 bytes: 4C 5A 1A F9 13 00 00 FF 00 1A 00 EE 07 C9 09 99
+ASCII: LZ................t.F......u.....+../............u..............
+
+Archivo: BOSS2_L.DAT
+Tamaño: 7158 bytes
+SHA-256: d0103b4cadee86adf54c6f278b99169659e01e2dea02b997b89913c08b867f46
+Primeros 16 bytes: 4C 5A 1A 30 2F 00 00 6F 00 00 11 38 EC F1 0F C0
+ASCII: LZ.0/..o...8......[...............................|....,...2...2
+
+Archivo: BOSS2_L.TBL
+Tamaño: 191 bytes
+SHA-256: 445c3f1904241d69953e4a81196e650f53c71dca1c89542ff7621212c5c927ec
+Primeros 16 bytes: 4C 5A 1A E0 00 00 00 7D 12 E3 F8 30 00 2D 00 10
+ASCII: LZ.....}...0.-....wT..../.P............... .?....O.....*........
+
+Archivo: BOSS2_M.DAT
+Tamaño: 33624 bytes
+SHA-256: 6f51eaccc7e81e3f423cf98cd796bf4ff9ba0106af32f6ac28c8c781ac8b26eb
+Primeros 16 bytes: 4C 5A 1A 00 77 01 00 76 ED F3 7D F0 EB F6 03 FF
+ASCII: LZ..w..v..}........W........=..w;....?.............P..Q...P..Q..
+
+Archivo: BOSS2_M.TBL
+Tamaño: 166 bytes
+SHA-256: c9a33bd23cf0e3039c18335780a58da2950c34d1101003ebf0d77defe1fdeb79
+Primeros 16 bytes: 4C 5A 1A 34 01 00 00 5D 19 E3 F8 60 00 40 E9 F2
+ASCII: LZ.4...]...`.@......`.............. .......f............O@.....,
+
+Archivo: BOSS2_R.DAT
+Tamaño: 7144 bytes
+SHA-256: 932d6c1f1b66242227ab2b49fde2229ea00b3045fb0ac034b3b49f4931c815f1
+Primeros 16 bytes: 4C 5A 1A 30 2F 00 00 6F 00 00 1C 88 EC F1 03 F0
+ASCII: LZ.0/..o..........[......................?.....>...[..+.../../.-
+
+Archivo: BOSS2_R.TBL
+Tamaño: 191 bytes
+SHA-256: 445c3f1904241d69953e4a81196e650f53c71dca1c89542ff7621212c5c927ec
+Primeros 16 bytes: 4C 5A 1A E0 00 00 00 7D 12 E3 F8 30 00 2D 00 10
+ASCII: LZ.....}...0.-....wT..../.P............... .?....O.....*........
+
+Archivo: BOSS3_L.DAT
+Tamaño: 1267 bytes
+SHA-256: e7666e95fe2d1fffb19485b0030afc440a896b74cd12049f26fc3d79347ac09a
+Primeros 16 bytes: 4C 5A 1A 60 09 00 00 DA ED F1 78 ED F1 01 C0 ED
+ASCII: LZ.`......x........................?.........$..#...$....#.3..>.
+
+Archivo: BOSS3_L.TBL
+Tamaño: 36 bytes
+SHA-256: bd9d467a3264f90907ca14be89dc9bbbd1f7b6eb6ddf041c11c88d530d4f379e
+Primeros 16 bytes: 4C 5A 1A 2C 00 00 00 DD 03 E3 F8 30 00 10 FB F0
+ASCII: LZ.,.......0....0.....@....0..Z.....
+
+Archivo: BOSS3_M.DAT
+Tamaño: 42904 bytes
+SHA-256: a02407b4ec7f319d06888b5e956f82a85e103ba4779eaed140ac203ae769c0d6
+Primeros 16 bytes: 4C 5A 1A 64 72 01 00 FB 00 02 E7 F5 40 00 00 01
+ASCII: LZ.dr.......@...............................j..........@.....K..
+
+Archivo: BOSS3_M.TBL
+Tamaño: 232 bytes
+SHA-256: 577fbd5a7ce0f1e9aa977ee1e0aa2c0a8ef2464ed55d1f0889588da9417e8965
+Primeros 16 bytes: 4C 5A 1A 40 01 00 00 5D 1A E3 F8 60 00 30 E9 F2
+ASCII: LZ.@...]...`.0......`..h.......U... .............8....V....@..P.
+
+Archivo: BOSS3_R.DAT
+Tamaño: 1282 bytes
+SHA-256: 295343bd43a8d0bde6ef31653c96382e84765a6f96fb0ff5d5884c908b70189c
+Primeros 16 bytes: 4C 5A 1A 60 09 00 00 DB 00 1E EA F2 03 80 EB F1
+ASCII: LZ.`......................`...ep..............&...&...-..|...p.?
+
+Archivo: BOSS3_R.TBL
+Tamaño: 36 bytes
+SHA-256: bd9d467a3264f90907ca14be89dc9bbbd1f7b6eb6ddf041c11c88d530d4f379e
+Primeros 16 bytes: 4C 5A 1A 2C 00 00 00 DD 03 E3 F8 30 00 10 FB F0
+ASCII: LZ.,.......0....0.....@....0..Z.....
+
+Archivo: BOSS4_L.DAT
+Tamaño: 13021 bytes
+SHA-256: add94be9bc98d244a578a76df137b8de5f071a4dce8448f0fbbccff18589bb5a
+Primeros 16 bytes: 4C 5A 1A FC 7B 00 00 B6 ED F0 1F 80 EB F3 FF C0
+ASCII: LZ..{..........................z..|.............$...............
+
+Archivo: BOSS4_L.TBL
+Tamaño: 159 bytes
+SHA-256: 557502b1a376679da0f954b3eadda28b00835f80311fda9d00ef0e418f0044ed
+Primeros 16 bytes: 4C 5A 1A B0 00 00 00 DD 0E E3 F8 40 00 39 E9 F2
+ASCII: LZ.........@.9.......P.7....w:....6..................`.4.@....R.
+
+Archivo: BOSS4_M.DAT
+Tamaño: 2261 bytes
+SHA-256: 878bda5f8396cc6494b0fbbc7d20d2d4c5e8db37ba9529532f107b9781739e1d
+Primeros 16 bytes: 4C 5A 1A C0 21 00 00 EF 00 00 0F F0 ED F0 01 FF
+ASCII: LZ..!............................................?....~..~......
+
+Archivo: BOSS4_M.TBL
+Tamaño: 122 bytes
+SHA-256: a07618750497277fc18faeca4fad663d5a32d04d86349f0aa9d331187a66183e
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 5D 11 E3 F8 30 00 18 E9 F2
+ASCII: LZ.....]...0....-..U@..Z...................D../../.../.;?.u./.h/
+
+Archivo: BOSS4_R.DAT
+Tamaño: 13083 bytes
+SHA-256: ec95c3591bb3f4d18d5e543f2e06c3ca2c3dc8398b88139c06e74fdc8ff7d744
+Primeros 16 bytes: 4C 5A 1A FC 7B 00 00 B6 ED F0 01 F8 EB F3 03 FF
+ASCII: LZ..{.............?[............>..8......w........+.o.?........
+
+Archivo: BOSS4_R.TBL
+Tamaño: 159 bytes
+SHA-256: 557502b1a376679da0f954b3eadda28b00835f80311fda9d00ef0e418f0044ed
+Primeros 16 bytes: 4C 5A 1A B0 00 00 00 DD 0E E3 F8 40 00 39 E9 F2
+ASCII: LZ.........@.9.......P.7....w:....6..................`.4.@....R.
+
+Archivo: BOSS6_L.DAT
+Tamaño: 437 bytes
+SHA-256: a6ea8f89ca7c0c4d7e79fc82e557177efd6ed74a8c27d5331b9ad38cac866f16
+Primeros 16 bytes: 4C 5A 1A 60 04 00 00 DE ED F5 10 10 80 80 ED F1
+ASCII: LZ.`............@@. ...................p..x|.....b........ ?0...
+
+Archivo: BOSS6_L.TBL
+Tamaño: 65 bytes
+SHA-256: 49f4d0bcfef10e7da4c4d88a6a8c29f2817d8cd133f63025e6b46e65a8b816f0
+Primeros 16 bytes: 4C 5A 1A 68 00 00 00 55 08 E3 F8 20 ED F4 0A F7
+ASCII: LZ.h...U... ..... ..U...@.....`..U(......../...*....7'....>.3...
+
+Archivo: BOSS6_M.DAT
+Tamaño: 30776 bytes
+SHA-256: 9843f293e4c33f6099fc0750ff1fb38a2dadacf9e73e738752cdd48d2ef24f2c
+Primeros 16 bytes: 4C 5A 1A 00 18 01 00 E1 FF EE FF 00 0F 12 0F 1C
+ASCII: LZ...............,]....2...U:.2.:......UQUQ......\.\.].rT..2....
+
+Archivo: BOSS6_M.TBL
+Tamaño: 968 bytes
+SHA-256: b63a0820adbc998b89a8db457ec7cd23ae6530124fc41f029c79b76c14b8252e
+Primeros 16 bytes: 4C 5A 1A 28 07 00 00 5D 98 E3 F8 20 00 10 E9 F2
+ASCII: LZ.(...]... .......U ..(..@..<..U`..P.....d..U...x........#..-..
+
+Archivo: BOSS6_R.DAT
+Tamaño: 420 bytes
+SHA-256: b1c097118086e4d2cb6a29edeac6eea2ac64692ac70e7abab08f2e8dd831b8e0
+Primeros 16 bytes: 4C 5A 1A 60 04 00 00 DE ED F5 01 01 08 08 ED F2
+ASCII: LZ.`.....................'._.W............>.UFx.8.........?...0.
+
+Archivo: BOSS6_R.TBL
+Tamaño: 65 bytes
+SHA-256: 49f4d0bcfef10e7da4c4d88a6a8c29f2817d8cd133f63025e6b46e65a8b816f0
+Primeros 16 bytes: 4C 5A 1A 68 00 00 00 55 08 E3 F8 20 ED F4 0A F7
+ASCII: LZ.h...U... ..... ..U...@.....`..U(......../...*....7'....>.3...
+
+Archivo: BOSS7.DAT
+Tamaño: 10280 bytes
+SHA-256: b857b5014de33ff27dc37f0ee6f903e524abaebddccb897d7ad22c45221c9465
+Primeros 16 bytes: 4C 5A 1A FC 49 00 00 EC DC FF F4 F3 1F F0 F4 F1
+ASCII: LZ..I.........................?....................?........5.E.
+
+Archivo: BOSS7.TBL
+Tamaño: 162 bytes
+SHA-256: d24750916dc5ac99911396a8d6e0cc3d81f5552ebc9705de1b0761758d9e20af
+Primeros 16 bytes: 4C 5A 1A C8 00 00 00 7D 10 E3 F8 30 00 28 00 18
+ASCII: LZ.....}...0.(....UK..x.....@.........P..(....w#....#...#.`...#.
+
+Archivo: BOSS8_L.DAT
+Tamaño: 24748 bytes
+SHA-256: a8630143bcc0f1a2bc6cc4633666cea17a7fb6f2f2384dfe544480376fdefe12
+Primeros 16 bytes: 4C 5A 1A 29 A9 00 00 FF 00 00 FE 00 00 01 FF 00
+ASCII: LZ.).....................X.............................. .<.....
+
+Archivo: BOSS8_L.TBL
+Tamaño: 363 bytes
+SHA-256: 0783af994b46a1ec80a8b27f4c2dba8f591b64e7d58ccee4abde6366507e2d0d
+Primeros 16 bytes: 4C 5A 1A C4 01 00 00 7D 25 E3 F8 20 00 1C 00 10
+ASCII: LZ.....}%.. .......#....P..G.u......k......................./...
+
+Archivo: BOSS8_M.DAT
+Tamaño: 5614 bytes
+SHA-256: 69533af69f599c0b1f849de74f0fa1757ed3fc88bc50b14cb743b3a52e91cc9f
+Primeros 16 bytes: 4C 5A 1A 12 2A 00 00 DE ED F3 1F FF FF E0 EB F9
+ASCII: LZ..*.........................j..................8.......0......
+
+Archivo: BOSS8_M.TBL
+Tamaño: 160 bytes
+SHA-256: ade581d099acb12ee1221e7525ffe6edd3f400646a104905fc71b6658c2701ac
+Primeros 16 bytes: 4C 5A 1A B0 00 00 00 DD 0E E3 F8 70 00 21 E9 F2
+ASCII: LZ.........p.!....... ................@.......5.}.......8.......
+
+Archivo: BOSS8_R.DAT
+Tamaño: 24841 bytes
+SHA-256: 233bed4c6bca51820b8f7a91eeab91271760b0808e1a22ecc545d20859ed0990
+Primeros 16 bytes: 4C 5A 1A 29 A9 00 00 FB 00 7F EC F0 FF 80 00 01
+ASCII: LZ.)......................................................x..<..
+
+Archivo: BOSS8_R.TBL
+Tamaño: 363 bytes
+SHA-256: 0783af994b46a1ec80a8b27f4c2dba8f591b64e7d58ccee4abde6366507e2d0d
+Primeros 16 bytes: 4C 5A 1A C4 01 00 00 7D 25 E3 F8 20 00 1C 00 10
+ASCII: LZ.....}%.. .......#....P..G.u......k......................./...
+
+Archivo: CLABLOGO.EXE
+Tamaño: 18816 bytes
+SHA-256: cb457684596979373947726881b21f30342b9bff69d0da4e8ac613f933b31576
+Primeros 16 bytes: 4D 5A 80 01 25 00 11 00 06 00 F9 0B F9 AB 8B 0C
+ASCII: MZ..%............@..............................................
+
+Archivo: CLEAR.M
+Tamaño: 474 bytes
+SHA-256: 732ed1581ddec716661e3a84a1c8eadddb7825009b73484154b828be971a031d
+Primeros 16 bytes: 4C 5A 1A DF 02 00 00 FF 00 1A 00 8B 00 FA 00 6B
+ASCII: LZ.............k...........X.Y.Z.\..........e..9.7..@....@....9.
+
+Archivo: CLEAR.M2
+Tamaño: 613 bytes
+SHA-256: a41022fec45ff41cc004e68760fdcfe99e57e3af24120103a33e4bfa172be7a4
+Primeros 16 bytes: 4C 5A 1A C6 04 00 00 FF 00 1A 00 99 00 0F 01 82
+ASCII: LZ..................n...+..y.z.{....~....................e..9.}7
+
+Archivo: CLEAR.PPS
+Tamaño: 3364 bytes
+SHA-256: 57183306136cab953564ac80d157b61aaa1d5dd16297b9d5838795fb274a71ef
+Primeros 16 bytes: 4C 5A 1A 19 12 00 00 0F 54 00 C5 11 DC FF 03 0F
+ASCII: LZ......T.........'.2...B.I.xxY.I..wp.I..p.[.Q.p..vgvvgv.n.v.f..
+
+Archivo: CLEAR1.DAT
+Tamaño: 6330 bytes
+SHA-256: ef8057d93866d1684ab5fb580dcc34b16744c3691390a347fac983c0a48a1cb3
+Primeros 16 bytes: 4C 5A 1A 1A 31 00 00 6F 00 00 1F C0 EC F1 7F FF
+ASCII: LZ..1..o..............................;...........w.............
+
+Archivo: CLEAR1.TBL
+Tamaño: 150 bytes
+SHA-256: 62d3cb32de7828c99371e0a784ead972027948c85ea9245a723efa4368f44c16
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 DD 11 E3 F8 30 00 2D E7 F4
+ASCII: LZ.........0.-..F.W .......0..U(..`..<.....uP....... .....<?.@..
+
+Archivo: CLEAR10.DAT
+Tamaño: 6362 bytes
+SHA-256: bad0ae9cdb297a3a5d8b136f0b2138deda95018e5ba1cb134cda13bcf5ce0e80
+Primeros 16 bytes: 4C 5A 1A A2 30 00 00 6F 00 00 1F C0 EC F1 7F FF
+ASCII: LZ..0..o..............................;...........w.............
+
+Archivo: CLEAR10.TBL
+Tamaño: 149 bytes
+SHA-256: 813df251d0e35e0803c50d07cea7a2c3f6672801e18858baf611a477d5006efd
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 DD 11 E3 F8 30 00 2D E7 F4
+ASCII: LZ.........0.-..F.W .......0..U(..`..<.....uP....... .....<?.@..
+
+Archivo: CLEAR2.DAT
+Tamaño: 6456 bytes
+SHA-256: 8ff8445b2cddb9bf24749e3c620bb2425516935e42760b8de3d9e6f47e533a60
+Primeros 16 bytes: 4C 5A 1A C8 32 00 00 6F 00 00 1F C0 EC F1 7F FF
+ASCII: LZ..2..o..............................;...........w.............
+
+Archivo: CLEAR2.TBL
+Tamaño: 149 bytes
+SHA-256: 2e6e4841c06cf31c9deb0becdf3e00029cc2f86b59af5013ac37d339fe22c4d7
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 DD 11 E3 F8 30 00 2D E7 F4
+ASCII: LZ.........0.-..F.W .......0..U(..`..<.....uP....... .....<?.@..
+
+Archivo: CLEAR3.DAT
+Tamaño: 6711 bytes
+SHA-256: 46796ca402fe3dfe081ccdbeedcb7049e95ccb838d201de8a17ef075f8529992
+Primeros 16 bytes: 4C 5A 1A A2 30 00 00 6F 00 00 1F C0 EC F1 7F FF
+ASCII: LZ..0..o..............................;...........w.............
+
+Archivo: CLEAR3.TBL
+Tamaño: 149 bytes
+SHA-256: 813df251d0e35e0803c50d07cea7a2c3f6672801e18858baf611a477d5006efd
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 DD 11 E3 F8 30 00 2D E7 F4
+ASCII: LZ.........0.-..F.W .......0..U(..`..<.....uP....... .....<?.@..
+
+Archivo: CLEAR5.DAT
+Tamaño: 6693 bytes
+SHA-256: a2f075900df341a7dfc6e6e14d1d46df5c4698bb0cd876f3ac71e92ca258e1e5
+Primeros 16 bytes: 4C 5A 1A C4 36 00 00 6F 00 00 1F C0 EC F1 7F FF
+ASCII: LZ..6..o..............................;...........w.............
+
+Archivo: CLEAR5.TBL
+Tamaño: 144 bytes
+SHA-256: 60aa556c0a501893071ad43e9e393fca6a220193417fa268eff884791fb767f1
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 DD 11 E3 F8 30 00 2D E7 F4
+ASCII: LZ.........0.-..F.W .......0..U(..`..<.....uP....... .....<?.@..
+
+Archivo: CLEAR6.DAT
+Tamaño: 6827 bytes
+SHA-256: 8bb66f563e6610fa7ffd00f1d4d562e84f6d7f113660d584b0cc51e7efffcb59
+Primeros 16 bytes: 4C 5A 1A C4 36 00 00 6F 00 00 1F C0 EC F1 7F FF
+ASCII: LZ..6..o..............................;...........w.............
+
+Archivo: CLEAR6.TBL
+Tamaño: 144 bytes
+SHA-256: 60aa556c0a501893071ad43e9e393fca6a220193417fa268eff884791fb767f1
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 DD 11 E3 F8 30 00 2D E7 F4
+ASCII: LZ.........0.-..F.W .......0..U(..`..<.....uP....... .....<?.@..
+
+Archivo: CLEAR7.DAT
+Tamaño: 6897 bytes
+SHA-256: 508f30c4b5e788d292eb544ebe2cf815a18bd726853beaef071aafb954cb9a45
+Primeros 16 bytes: 4C 5A 1A 98 3F 00 00 6F 00 00 1F C0 EC F1 7F FF
+ASCII: LZ..?..o..............................;...........w.............
+
+Archivo: CLEAR7.TBL
+Tamaño: 144 bytes
+SHA-256: d80584cdaa5867fe51855179425c23895303043151388970eaee20d33f7883a0
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 DD 11 E3 F8 30 00 2D E7 F4
+ASCII: LZ.........0.-..F.W .......0..U(..`..<.....uP....... .....<?.@..
+
+Archivo: CLEAR8.DAT
+Tamaño: 6683 bytes
+SHA-256: eab400a850d15ed0d6e525819cae484bb91a9100f6473666853226e032cfaea4
+Primeros 16 bytes: 4C 5A 1A 98 3F 00 00 6F 00 00 1F C0 EC F1 7F FF
+ASCII: LZ..?..o..............................;...........w.............
+
+Archivo: CLEAR8.TBL
+Tamaño: 144 bytes
+SHA-256: d80584cdaa5867fe51855179425c23895303043151388970eaee20d33f7883a0
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 DD 11 E3 F8 30 00 2D E7 F4
+ASCII: LZ.........0.-..F.W .......0..U(..`..<.....uP....... .....<?.@..
+
+Archivo: CMASK0.MAG
+Tamaño: 733 bytes
+SHA-256: 15b1010b6096b7d845ddc7d48c31aececaf846b9afabd6d4cbccc810c307a873
+Primeros 16 bytes: 4C 5A 1A 45 11 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.E....MAKI02  .MPS  >...< .....EXE. version. 1.01..........P..
+
+Archivo: CMASK1.MAG
+Tamaño: 808 bytes
+SHA-256: c187d0a001cbe7a5c1841de096066b6883d4a56dfa67c518d78de788f149938a
+Primeros 16 bytes: 4C 5A 1A D1 11 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .MPS  >...< .....EXE. version. 1.01..........P..
+
+Archivo: CMASK2.MAG
+Tamaño: 847 bytes
+SHA-256: a6773e4fe95687621e69d66ceebb489070da2a22f1df0b7efcf39f0149153c9a
+Primeros 16 bytes: 4C 5A 1A E7 11 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .MPS  .n..m..d .L.W....V...EX.E versio.n 1.02..}
+
+Archivo: COMMAND.COM
+Tamaño: 54988 bytes
+SHA-256: fb2ccff4ad1531b72657a237a3717ac35d4095e0d2bc566ac6724bd34d58a340
+Primeros 16 bytes: E9 6D 17 64 8C 17 00 00 97 11 00 00 55 10 00 00
+ASCII: .m.d........U...e.....................................d.........
+
+Archivo: CONFIG.SYS
+Tamaño: 30 bytes
+SHA-256: ad9a5a079b663733b3b39712e1650c8b2859ca93fb0d5d8d0e5aefa0d5accf95
+Primeros 16 bytes: 42 55 46 46 45 52 53 3D 38 0D 0A 73 68 65 6C 6C
+ASCII: BUFFERS=8..shell = boot.com...
+
+Archivo: CURSOL.DAT
+Tamaño: 1514 bytes
+SHA-256: 040075f0e057066bbfbd0d04228d0465eccea34f31833cdfe9ff216437b95eb7
+Primeros 16 bytes: 4C 5A 1A F0 0A 00 00 01 FF EE FF 00 0F 12 0F 24
+ASCII: LZ.............$.6.H.Z.Xl.~....................O.P..+......v....
+
+Archivo: CURSOL.TBL
+Tamaño: 49 bytes
+SHA-256: bd1b169169dfbda97668d8ba085e9919fda059e59244c119d5b7e1d36aab1167
+Primeros 16 bytes: 4C 5A 1A 38 00 00 00 5D 04 E3 F8 20 00 2D E9 F2
+ASCII: LZ.8...]... .-..8... .)....k.......@..........`..
+
+Archivo: DISK_A
+Tamaño: 3 bytes
+SHA-256: 6f864b1705ae269c03903f630181ca89b5372a25f0d17147bc9d98a5c84f72be
+Primeros 16 bytes: 0D 0A 1A
+ASCII: ...
+
+Archivo: DISK_B
+Tamaño: 3 bytes
+SHA-256: 6f864b1705ae269c03903f630181ca89b5372a25f0d17147bc9d98a5c84f72be
+Primeros 16 bytes: 0D 0A 1A
+ASCII: ...
+
+Archivo: DISK_C
+Tamaño: 3 bytes
+SHA-256: 6f864b1705ae269c03903f630181ca89b5372a25f0d17147bc9d98a5c84f72be
+Primeros 16 bytes: 0D 0A 1A
+ASCII: ...
+
+Archivo: DOS/AVGDRV.EXE
+Tamaño: 26184 bytes
+SHA-256: 89bb848316ba84d431718e0b00089e2270dfa0a6c242fe5a8124622001edebe2
+Primeros 16 bytes: 4D 5A 48 00 34 00 5A 00 20 00 00 00 FF FF 00 00
+ASCII: MZH.4.Z. ...........-.............5...C...d...............P...|.
+
+Archivo: DOS/AVGDRV.SYS
+Tamaño: 26184 bytes
+SHA-256: 89bb848316ba84d431718e0b00089e2270dfa0a6c242fe5a8124622001edebe2
+Primeros 16 bytes: 4D 5A 48 00 34 00 5A 00 20 00 00 00 FF FF 00 00
+ASCII: MZH.4.Z. ...........-.............5...C...d...............P...|.
+
+Archivo: DOS/AVSDRV.EXE
+Tamaño: 48048 bytes
+SHA-256: ac817bc67f5f7b83aad7c776124ada103365e3bd73fb60833086f3352d2ba96d
+Primeros 16 bytes: 4D 5A B0 01 5E 00 C5 00 40 00 00 00 FF FF 00 00
+ASCII: MZ..^...@.........k.@.........A...I...V...........W.............
+
+Archivo: DOS/AVSDRV.SYS
+Tamaño: 48048 bytes
+SHA-256: ac817bc67f5f7b83aad7c776124ada103365e3bd73fb60833086f3352d2ba96d
+Primeros 16 bytes: 4D 5A B0 01 5E 00 C5 00 40 00 00 00 FF FF 00 00
+ASCII: MZ..^...@.........k.@.........A...I...V...........W.............
+
+Archivo: DOS/EMM.SYS
+Tamaño: 14149 bytes
+SHA-256: 098e910c41eeaa7aafb36e6ea4fd896c4d50fb12e5a44345bab657d1a586ce4a
+Primeros 16 bytes: FF FF FF FF 40 C0 36 01 41 01 45 4D 4D 58 58 58
+ASCII: ....@.6.A.EMMXXXX0(C)Copyright 1989 NEC Corporation Meaker NEC..
+
+Archivo: DOS/EMM386.EXE
+Tamaño: 116830 bytes
+SHA-256: 65ba92f7ab7d757c46dc19f809b7bac55d70b36f127ae4fa1f4429d1c38d85b8
+Primeros 16 bytes: 4D 5A 5E 00 E5 00 E1 00 40 00 00 00 FF FF 7A 17
+ASCII: MZ^.....@.....z.......$.@.......................................
+
+Archivo: DOS/EXTDSWAP.SYS
+Tamaño: 44510 bytes
+SHA-256: 8daad92c21287a2f98bc0168234e42e238678d34ed9d2ba3c4231287abc8553a
+Primeros 16 bytes: 9C 6A 00 00 01 6D 00 00 08 A0 00 00 00 00 00 00
+ASCII: .j...m....................0..`..h..p..x.........................
+
+Archivo: DOS/HIMEM.SYS
+Tamaño: 27424 bytes
+SHA-256: 7a93dc579f0db9181ec2204ee0adf9ed967a83b35cd5705bbd08174bb02661b6
+Primeros 16 bytes: FF FF FF FF 00 A0 6E 00 D5 0A 58 4D 53 58 58 58
+ASCII: ......n...XMSXXXX0........|...........p.........................
+
+Archivo: DOS/MEM.EXE
+Tamaño: 32329 bytes
+SHA-256: 78caecfa8993aab05163eda384d473b45c6a030541d9774cefbd4774d287ee87
+Primeros 16 bytes: 4D 5A 49 00 40 00 00 00 20 00 01 02 FF FF 02 08
+ASCII: MZI.@... .......................................................
+
+Archivo: DOS/MOUSE.COM
+Tamaño: 21166 bytes
+SHA-256: 8658ab50ecf59529dc9b9fcc3fdf76b93f120ef1df2fceecff9cc1df88c681a2
+Primeros 16 bytes: E9 06 3B FA 8C C0 8E D8 8C C8 8E C0 8B F2 BF 1E
+ASCII: ..;...............{..............................:........5.....
+
+Archivo: DOS/MOUSE.SYS
+Tamaño: 9791 bytes
+SHA-256: ae9e11ae1f533620d34136c1c0aaa2fee6f7c12933718ed93a1594d47c3d8187
+Primeros 16 bytes: FF FF FF FF 00 80 12 00 21 00 4D 53 24 4D 4F 55
+ASCII: ........!.MS$MOUSE................PSQRVWU........G...u...$4.t...
+
+Archivo: DOS/MOVE.EXE
+Tamaño: 18871 bytes
+SHA-256: ef09b97791bf29eb8692632739c0284ac6f8e641dc589b1265834d398b29294e
+Primeros 16 bytes: 4D 5A B7 01 25 00 05 00 20 00 34 03 34 03 AF 04
+ASCII: MZ..%... .4.4....0.?z...........k.....a.........................
+
+Archivo: DOS/MSCDEX.EXE
+Tamaño: 25767 bytes
+SHA-256: 882710b35e3aa6f7567a7137d236c51a1dd5c49e4be4efed22ea7ea2f1b60bac
+Primeros 16 bytes: 4D 5A 91 00 2A 00 00 00 20 00 77 00 FF FF 79 05
+ASCII: MZ..*... .w...y.................................................
+
+Archivo: DOS/SEDIT.EXE
+Tamaño: 31088 bytes
+SHA-256: 91d09fef413c50d87ecca72b5c110b6dce0512c5b0bb23d283fc07f70b15daa5
+Primeros 16 bytes: 4D 5A 70 01 3D 00 02 00 20 00 35 06 FF FF 6B 0C
+ASCII: MZp.=... .5...k....a..............'.............................
+
+Archivo: DRUMS.PPS
+Tamaño: 21827 bytes
+SHA-256: 649e0a3bcfa9015561ef0ad6988251c1b1963f12dda107bc68e43ad95b1cf34b
+Primeros 16 bytes: 4C 5A 1A F6 7C 00 00 FF 54 00 40 04 00 00 94 04
+ASCII: LZ..|...T.@......'..........k.`.....&....[6. ...{?0....GR....L.R
+
+Archivo: EC.PPS
+Tamaño: 17953 bytes
+SHA-256: 392748f10220e4e3580cefbbe7b5168826a98031103d15c24b4928e62b9ac6c2
+Primeros 16 bytes: 4C 5A 1A 30 6A 00 00 FF 54 00 40 04 00 00 94 04
+ASCII: LZ.0j...T.@......'..........k.`.....&....[6.."...Y......(...x.w.
+
+Archivo: ED01.MAG
+Tamaño: 22475 bytes
+SHA-256: 2bcc8f15b06d8b2f19dc34d6d62cd17770cd154efcb9eff86d3aa2ae20f9d496
+Primeros 16 bytes: 4C 5A 1A E0 72 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..r...MAKI02  .Magd rk .....Save v.ersion 1..04.....+..P......
+
+Archivo: ED02.MAG
+Tamaño: 30003 bytes
+SHA-256: c3bb7641949949052b908698d79975285611dc5c1a558fa6d745f651b83cb667
+Primeros 16 bytes: 4C 5A 1A 74 86 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.t....MAKI02  .Magd rk .....Save v.ersion 1..04.....+..P......
+
+Archivo: ED03.MAG
+Tamaño: 28399 bytes
+SHA-256: 8d3124c8400c7149134d38caf02e42023911ff3aa7cd4949913acb4bd692e6d9
+Primeros 16 bytes: 4C 5A 1A 26 7E 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.&~...MAKI02  .Magd rk .....Save v.ersion 1..04.....+..P......
+
+Archivo: ED04.MAG
+Tamaño: 29309 bytes
+SHA-256: d052724e2c044e28338aff8b20c3d17abed3984fed72f1699a2e54c257873829
+Primeros 16 bytes: 4C 5A 1A 24 83 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.$....MAKI02  .Magd rk .....Save v.ersion 1..04.....+..P......
+
+Archivo: ED05.MAG
+Tamaño: 27153 bytes
+SHA-256: 05c3bd30a3ca6c25935c5ce30efa9c5c938fe18b7e5bc254fc31a3302c205cf0
+Primeros 16 bytes: 4C 5A 1A 6A 79 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.jy...MAKI02  .Magd rk .....Save v.ersion 1..04.....+..P......
+
+Archivo: ED06.MAG
+Tamaño: 29198 bytes
+SHA-256: d2ae6f1b08684d0f19eef3cfcfa5136cb4079d7248638a91786aad8f76cf8705
+Primeros 16 bytes: 4C 5A 1A 42 85 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.B....MAKI02  .Magd rk .....Save v.ersion 1..04.....+..P......
+
+Archivo: ED07.MAG
+Tamaño: 37835 bytes
+SHA-256: f567f944f5be9c2a84ede9ed675fb8e39ae4caf5c89f7b50fe1ce6dc90c1dcf6
+Primeros 16 bytes: 4C 5A 1A DC A3 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04.....+..P......
+
+Archivo: ED08.MAG
+Tamaño: 26936 bytes
+SHA-256: 3b5f9d2ccaf332af1be1f83e2be32f8a07d39e6df5f55273c9a5a41e0199977a
+Primeros 16 bytes: 4C 5A 1A 3A 76 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.:v...MAKI02  .Magd rk .....Save v.ersion 1..04.....4..P..^...
+
+Archivo: ED09.MAG
+Tamaño: 16337 bytes
+SHA-256: 0469b9ae60c3f2b56ea2f112f7eeb08deb6a0b6dfacb523f75aedd8a4dc24ab5
+Primeros 16 bytes: 4C 5A 1A A4 4E 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..N...MAKI02  .Magd rk .....Save v.ersion 1..04.....+..P......
+
+Archivo: ED10.MAG
+Tamaño: 22193 bytes
+SHA-256: a384390a3ac11073ea31bd6efe71134bca1d8407dca21e4d31dc6f9ab1d7daaa
+Primeros 16 bytes: 4C 5A 1A FE 66 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..f...MAKI02  .Magd rk .....Save v.ersion 1..04.....,..P..H...
+
+Archivo: ED11.MAG
+Tamaño: 30292 bytes
+SHA-256: 561a3bf96b6c90274d62c2780d36843e33a2eaf4b4ad1cc23c04b14d595f771e
+Primeros 16 bytes: 4C 5A 1A C0 8E 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .ESEQ rk .....UISSE .$Revisio.n: 1.50 .$........
+
+Archivo: ENDING1.M
+Tamaño: 1675 bytes
+SHA-256: 1d4b44f9bc9063f99f6e4ceec7bb4533b4ebebd2fd47f2b1722234f5931e3aad
+Primeros 16 bytes: 4C 5A 1A C6 0C 00 00 FF 00 1A 00 6E 02 D0 04 E8
+ASCII: LZ.........n...............8.^._.`..d.......u...........p.....m.
+
+Archivo: ENDING1.M2
+Tamaño: 2455 bytes
+SHA-256: 1d6e6459442f2cce0b726372e0ffad29ae83c7e45394af7d43ca96fbb1b6e9ba
+Primeros 16 bytes: 4C 5A 1A 30 12 00 00 FF 00 1A 00 7B 02 E6 04 04
+ASCII: LZ.0.......{........8......#.K.L.b..f..M...........u............
+
+Archivo: ENDING2.M
+Tamaño: 2798 bytes
+SHA-256: 7af77d78e7e27f24fb455fcaa70ade8da6ebf2f73be13a12ef0ece62857e0b27
+Primeros 16 bytes: 4C 5A 1A CE 14 00 00 FF 00 1A 00 AE 02 BD 05 D5
+ASCII: LZ................\.w.x.H......................!.w....~..0.0....
+
+Archivo: ENDING2.M2
+Tamaño: 3754 bytes
+SHA-256: 8a793d156a3a75950ae9b2306d9752798ccaa6f16f7b1f22d452ce411e60462d
+Primeros 16 bytes: 4C 5A 1A 11 1E 00 00 FF 00 1A 00 C9 02 EF 05 16
+ASCII: LZ................;.&...|..R.S.T.h.......K.......?./..O........o
+
+Archivo: ENEMY1.COM
+Tamaño: 11238 bytes
+SHA-256: 3c416206f2c4f7d5b93eacee883a213dc6bdc53116fb9bd2479b7eb2be48aa18
+Primeros 16 bytes: 4C 5A 1A 62 45 00 00 FF 37 18 E3 36 AB 00 89 0C
+ASCII: LZ.bE...7..6.....u...P.......0.........X...........>....n.....$.
+
+Archivo: ENEMY10.COM
+Tamaño: 19825 bytes
+SHA-256: 65844c2b85c879fffb851ee55b5ec645dc851cfd8734998cc18581dd17ee075d
+Primeros 16 bytes: 4C 5A 1A CE 44 00 00 FF 37 18 6B 36 AB 00 89 0C
+ASCII: LZ..D...7.k6.....u..............P.......0..........X............
+
+Archivo: ENEMY2.COM
+Tamaño: 10230 bytes
+SHA-256: c7ead34fe5c7a1323da7981b0b4cf168359c88eb0144154d790bf78a55e20e8a
+Primeros 16 bytes: 4C 5A 1A CC 3E 00 00 FF 37 18 77 37 AB 00 89 0C
+ASCII: LZ..>...7.w7.....u...P.......0.........X...........>....n.....$.
+
+Archivo: ENEMY3.COM
+Tamaño: 10781 bytes
+SHA-256: 0497fdf15cd1f6900e18af36b84c8802835c803ff1552cf06c9f394b283b294e
+Primeros 16 bytes: 4C 5A 1A D2 3E 00 00 FF 37 18 A3 33 AB 00 89 0C
+ASCII: LZ..>...7..3.....u...P.......0.........X...........>....n.....$.
+
+Archivo: ENEMY4.COM
+Tamaño: 19681 bytes
+SHA-256: 92d5cab261c58902c55dd67179e3d70fea8b0159a16a33acba8ef3fd1ea22a69
+Primeros 16 bytes: 4C 5A 1A 4C 44 00 00 FF 37 18 11 35 AB 00 89 0C
+ASCII: LZ.LD...7..5.....u..............P.......0..........X............
+
+Archivo: ENEMY5.COM
+Tamaño: 12240 bytes
+SHA-256: e8ca72caf021905461bf8a3e6ee501bc606ac9cca6c25b93caf72b7c7348b9bb
+Primeros 16 bytes: 4C 5A 1A 57 46 00 00 FF 37 18 67 38 AB 00 89 0C
+ASCII: LZ.WF...7.g8.....u...P.......0.........X...........>....n.....$.
+
+Archivo: ENEMY6.COM
+Tamaño: 11094 bytes
+SHA-256: 90d34458f38d1e42dd1a3368d997663a75994b70e643e5d7331f2f8f6dbd8fbc
+Primeros 16 bytes: 4C 5A 1A 27 41 00 00 FF 37 18 9B 33 AB 00 89 0C
+ASCII: LZ.'A...7..3.....u...P.......0.........X...........>....n.....$.
+
+Archivo: ENEMY7.COM
+Tamaño: 9941 bytes
+SHA-256: 559847b65b7cdf472d922fc61f2bc8e1b70b5ba6788da04c5f067bfd32725d6c
+Primeros 16 bytes: 4C 5A 1A 69 3A 00 00 FF 37 18 51 32 AB 00 89 0C
+ASCII: LZ.i:...7.Q2.....u...P.......0.........X...........>....n.....$.
+
+Archivo: ENEMY8.COM
+Tamaño: 11110 bytes
+SHA-256: b902222476323931b9e2b37152f55449e9c7ff94854121507ebaf597cf9720c8
+Primeros 16 bytes: 4C 5A 1A 70 42 00 00 FF 37 18 B9 37 AB 00 89 0C
+ASCII: LZ.pB...7..7.....u...P.......0.........X...........>....n.....$.
+
+Archivo: ENEMY9.COM
+Tamaño: 19015 bytes
+SHA-256: bd8fca0632216c046129d3c6ebf3975c02b6eb6bd60290c85bf96082b8d30d20
+Primeros 16 bytes: 4C 5A 1A F8 41 00 00 FF 37 18 B3 33 AB 00 89 0C
+ASCII: LZ..A...7..3.....u..............P.......0..........X............
+
+Archivo: EYECATCH.M
+Tamaño: 461 bytes
+SHA-256: 864fa627a5d6bab80916cd93e53608eed75845c6d9c8967b1cb27709dc4081c3
+Primeros 16 bytes: 4C 5A 1A 1A 02 00 00 FF 00 1A 00 62 00 88 00 B2
+ASCII: LZ.........b...............>.?.@.C......."..w..0.0.@..0...+.+..;
+
+Archivo: EYECATCH.M2
+Tamaño: 637 bytes
+SHA-256: 232e89364fe6a5270ecc02e0b3e1c6e35cd93ca0de98cb0929118be499471c3c
+Primeros 16 bytes: 4C 5A 1A 5A 03 00 00 FF 00 1A 00 69 00 94 00 BE
+ASCII: LZ.Z.......i..........<.k......../.............".w..0..0.@.0....
+
+Archivo: FONT.DAT
+Tamaño: 2609 bytes
+SHA-256: 1ad9c06ce5a89116230b0e9317770d996ff3a59f30b56d02238ebd22e7e592f8
+Primeros 16 bytes: 4C 5A 1A 80 16 00 00 BF 0F F0 1F F8 1F 7C F2 F3
+ASCII: LZ...........|..........x..................2.............C....<.
+
+Archivo: GAMEDATA.CFG
+Tamaño: 16 bytes
+SHA-256: 19af3cd5fb3fae469f85171a470a78bc2ecaab9d24de69bd56a7bdd89f885c46
+Primeros 16 bytes: 93 DE 8F 8F 94 4C 82 B3 82 F1 82 BE 82 E6 82 F1
+ASCII: .....L..........
+
+Archivo: GAMEOVER.M
+Tamaño: 621 bytes
+SHA-256: 95956cfe0168fde979d2fef7deecb881a90b4e5da39a863f9ff26acf7d0bec55
+Primeros 16 bytes: 4C 5A 1A 72 03 00 00 FF 00 1A 00 83 00 D7 00 68
+ASCII: LZ.r...........h..v.w.x................`......u.............g..0
+
+Archivo: GAMEOVER.M2
+Tamaño: 723 bytes
+SHA-256: 1673c8ee1bb817cb3f3e70d7cb146dc95d3949944ff71a363a8b5ce81d26a02e
+Primeros 16 bytes: 4C 5A 1A 0E 04 00 00 FF 00 1A 00 83 00 D9 00 6C
+ASCII: LZ.............l.............#.$.'..........u...........|...q..0
+
+Archivo: GAMES.PPS
+Tamaño: 32552 bytes
+SHA-256: 72ed52b8406170190d18d7aed1fa1c611b1b9512016548ad9ccbb6372fdacf8f
+Primeros 16 bytes: 4C 5A 1A 92 9B 00 00 FF 54 00 C4 21 00 00 18 22
+ASCII: LZ......T..!..."."...:;....<T.....k../....-...x.B.T.f.x.........
+
+Archivo: GATOO.MAG
+Tamaño: 33664 bytes
+SHA-256: dad718bfa6bba470765faf55225c6dccae1525ca84c0300f6a443bf5b2455cf8
+Primeros 16 bytes: 4C 5A 1A B9 9D 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: GIRL1A.MAG
+Tamaño: 16255 bytes
+SHA-256: 0680a17447e402242386d94217769abf2f7c7466c24527a954dfc300829fc913
+Primeros 16 bytes: 4C 5A 1A 27 51 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.'Q...MAKI02  .MPS  Woo.dy-RINN ......EXE v.ersion 1..02......
+
+Archivo: GIRL2A.MAG
+Tamaño: 23110 bytes
+SHA-256: 3fcc5e678a0063dc557f8545278c15494bc603854d52e2ad55d414eb1874e51e
+Primeros 16 bytes: 4C 5A 1A 37 50 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.7P...MAKI02  .PC98>..<.        .        ...............P.....
+
+Archivo: GIRL3A.MAG
+Tamaño: 17567 bytes
+SHA-256: ecd0e8f5ccf51053ee38e425276d79ae7b314893addcee19640f76cac5fc421a
+Primeros 16 bytes: 4C 5A 1A 41 55 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.AU...MAKI02  .MPS  Woo.dy-RINN ......EXE v.ersion 1..02......
+
+Archivo: GIRL5A.MAG
+Tamaño: 31255 bytes
+SHA-256: ae3cc5457e2f528793d3a8ee6e17e50ccbbc57a095efce4cb7b2de39d0bb4a15
+Primeros 16 bytes: 4C 5A 1A 79 6C 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.yl...MAKI02  .PC98>..<.        .        ...............P.....
+
+Archivo: GIRL6A.MAG
+Tamaño: 14717 bytes
+SHA-256: c30fc13cb6be629af3cf122b0e8166bba88b21ba09bf3eabf56dddd6bf91585d
+Primeros 16 bytes: 4C 5A 1A 47 50 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.GP...MAKI02  .MPS  Woo.dy-RINN ......EXE v.ersion 1..02......
+
+Archivo: GIRL7A.MAG
+Tamaño: 17503 bytes
+SHA-256: e7e9a47e37aefc7aed71a0c152f9d5e25bd5a83b16f60e98c79a77adcafb1ab3
+Primeros 16 bytes: 4C 5A 1A BD 3C 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..<...MAKI02  .PC98>..<.        .        ...............P.....
+
+Archivo: GIRL8A.MAG
+Tamaño: 14404 bytes
+SHA-256: 3242466b8cf5b13801ede74db9d554fc2443afa4573a3fa9aa57cb2d0de027bc
+Primeros 16 bytes: 4C 5A 1A 5D 49 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.]I...MAKI02  .MPS  Woo.dy-RINN ......EXE v.ersion 1..02......
+
+Archivo: GRPEGC.COM
+Tamaño: 25900 bytes
+SHA-256: c44188d78478cb8cf0d54e3f03dac8a3adc7882749538bf1d98af86f3f6c76ad
+Primeros 16 bytes: 4C 5A 1A E2 59 00 00 FF 7D 06 DF 06 C6 06 D6 00
+ASCII: LZ..Y...}.................%.6.].C..A.~............iK...^.......F
+
+Archivo: GRPGDC.COM
+Tamaño: 7800 bytes
+SHA-256: cf69d2ad1d6eca07e6dfa13f4f21c03c488db44b4a4bbbc14f6faa50a23b0f99
+Primeros 16 bytes: 4C 5A 1A 95 59 00 00 FF 30 06 92 06 79 06 B0 00
+ASCII: LZ..Y...0...y......X.................1.w.e....K....K.....C.U..HF
+
+Archivo: INSTALL.EXE
+Tamaño: 29221 bytes
+SHA-256: 4ede54b79d1d0ae7a9542aa76448c85cc5f1bd402b7d190958545be5ee2f238d
+Primeros 16 bytes: 4D 5A 25 00 3A 00 00 00 21 00 9B 00 FF FF 40 07
+ASCII: MZ%.:...!.....@.................................................
+
+Archivo: IO.SYS
+Tamaño: 65536 bytes
+SHA-256: ca64d4a100131a73d1a823ab9620484345d77f742e8a8f7145dd50719e7f8eb3
+Primeros 16 bytes: E9 DF 9B E9 2E 1A E9 31 1A 00 00 00 00 00 00 00
+ASCII: .......1..................................................KNJDIC
+
+Archivo: JO.EXE
+Tamaño: 32307 bytes
+SHA-256: 94a543108e0770ad92ead333334672bdfe851569d5fcac4119db123ac8596804
+Primeros 16 bytes: 4D 5A 33 00 40 00 00 00 20 00 42 70 FF FF 90 6A
+ASCII: MZ3.@... .Bp...j........>......0jr..............................
+
+Archivo: KIME.DAT
+Tamaño: 14777 bytes
+SHA-256: 2ab4b77289aea11fa01974c75c4ec64c23fa8fb99174d408858c4115e1f0dcec
+Primeros 16 bytes: 4C 5A 1A 50 82 00 00 EC DC FF F7 F6 3F E0 F7 F2
+ASCII: LZ.P........?..................K.......:..1...1..9....."\..T...@
+
+Archivo: KIME.TBL
+Tamaño: 127 bytes
+SHA-256: e2c2111a7edc7beade0ec7c18a36857f9cb5603c2a04bb978a4f4ef4f2760983
+Primeros 16 bytes: 4C 5A 1A D4 00 00 00 5D 11 E3 F8 40 00 30 E9 F2
+ASCII: LZ.....]...@.0..x...@........h.............X.......3....H.......
+
+Archivo: LASBOSBG.DAT
+Tamaño: 28096 bytes
+SHA-256: 21f7976a1e5831349b654102b8e9336f887a4e48d6ad921f064f874df60a7103
+Primeros 16 bytes: 4C 5A 1A 00 00 01 00 1E ED F5 3F FF FF FC F6 FF
+ASCII: LZ........?................?....?.?.>>..........*.....QUU...L.EU
+
+Archivo: LASBOSBG.MAP
+Tamaño: 4063 bytes
+SHA-256: d929be6d3143bb709eec453131cbe7dea0fc00f35cc007ead3ce449485b12b06
+Primeros 16 bytes: 4C 5A 1A CC 73 00 00 7F 74 04 0D 00 03 28 03 F4
+ASCII: LZ..s...t....(..........<...i.....R...."....f..e0...0..*..)D...D
+
+Archivo: LASBOSBG.RGB
+Tamaño: 48 bytes
+SHA-256: 9a80c202ce91a1b36f0779cc77d81f3cc5dd51c39c1d92ccee3a2e4f780ae3a1
+Primeros 16 bytes: 00 00 00 0B 01 03 01 02 06 03 05 09 07 08 0B 09
+ASCII: ................................................
+
+Archivo: LASTBOSS.DAT
+Tamaño: 18501 bytes
+SHA-256: 1aa7b5223ea1a70f25868077481889b4a4c10c0e54fd8ace50755fe000e25498
+Primeros 16 bytes: 4C 5A 1A 80 BB 00 00 FF 18 7E FF 7E 18 10 78 FC
+ASCII: LZ.......~.~..x..x....6{6.....<~<..8.|8.....:.......|.|...v.v...
+
+Archivo: LASTBOSS.M
+Tamaño: 2189 bytes
+SHA-256: 8782bc4dda17de9d362d4a5714e71c75cbbc184add083eb8a534cb8df153e99a
+Primeros 16 bytes: 4C 5A 1A 7B 10 00 00 FF 00 1A 00 5C 04 EE 06 1D
+ASCII: LZ.{.......\...............*.Z.[.\..............>.......r.......
+
+Archivo: LASTBOSS.M2
+Tamaño: 2758 bytes
+SHA-256: fde6338235d7b771104fd85093ab439bf9854d592acbc64d6d1da62f12ba6c88
+Primeros 16 bytes: 4C 5A 1A E2 16 00 00 FF 00 1A 00 E3 05 78 08 A9
+ASCII: LZ...........x....B.J.G.p....................?./.J....m.........
+
+Archivo: LASTBOSS.TBL
+Tamaño: 288 bytes
+SHA-256: 3cd07bbee49f2760ffbbdbe490b78eb2c9864a2f3231a6e364dc6a62a88c2c0f
+Primeros 16 bytes: 4C 5A 1A 70 01 00 00 DD 1E E3 F8 08 00 05 E9 F2
+ASCII: LZ.p..............u............ ..........0.....@....P........`.
+
+Archivo: MAGLOAD.COM
+Tamaño: 4104 bytes
+SHA-256: 01236f40e0e00346a312d89e6d466d13c0de7095f51ac6c3bccdebde0fda2480
+Primeros 16 bytes: 4C 5A 1A 98 4B 00 00 FF EB 00 56 57 55 1E 06 50
+ASCII: LZ..K.....VWU..P.SQR...K...$.4.....K...............&........>...
+
+Archivo: MAP_D.MAG
+Tamaño: 65162 bytes
+SHA-256: a878cb12852ce3ef874fa8a728998bf1d010490ca214873d48d8ba650689bad7
+Primeros 16 bytes: 4C 5A 1A 4F 32 01 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.O2...MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MAP_U.MAG
+Tamaño: 53015 bytes
+SHA-256: 14980c9b2dc18fcdab22eea43872441077ce96c34b5e3ab8ea6c70f1d60042a9
+Primeros 16 bytes: 4C 5A 1A 2B F9 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.+....MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MAPCAS.MAG
+Tamaño: 20758 bytes
+SHA-256: 6d1723116f4f7993bc3ed5af45ae2f22a6ed0ca531a321f5499ba432dad6a174
+Primeros 16 bytes: 4C 5A 1A DD 60 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..`...MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MARRY.MAG
+Tamaño: 24627 bytes
+SHA-256: 4dd1f5879d3ece5700eceb849d1b87c2c7cb0d2036a3aa8925d702ae6c845252
+Primeros 16 bytes: 4C 5A 1A 2B 73 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.+s...MAKI02  .MPS  Woo.dy-RINN ......EXE v.ersion 1..02......
+
+Archivo: MASK1.MAG
+Tamaño: 2185 bytes
+SHA-256: 099715d0e0aa8362e78b600676ed7fbcf39bcf3de129ff61b9d7c16be1d71dd6
+Primeros 16 bytes: 4C 5A 1A A3 23 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..#...MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MASK2.MAG
+Tamaño: 2699 bytes
+SHA-256: a5cef8fcfd940db8bccdb7f8d78c9be7b45b2748bef24a634ded77a188d49c16
+Primeros 16 bytes: 4C 5A 1A E3 25 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..%...MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MASK3.MAG
+Tamaño: 3209 bytes
+SHA-256: cb2c7f679f7fe3cc40e7c268deba15c7646ef656d142096f3805bb54d80ca82d
+Primeros 16 bytes: 4C 5A 1A 65 28 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.e(...MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MASK4.MAG
+Tamaño: 3035 bytes
+SHA-256: 08ea2ad58edaec9cf70fd3940655f59e9d85bd87fe3cbe227d6ac4e67e34bb88
+Primeros 16 bytes: 4C 5A 1A 7F 29 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..)...MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MASK5.MAG
+Tamaño: 3163 bytes
+SHA-256: e255496a8918e47c234889aee48ca20f623b4dab2002fe779b7b0cb59dec727b
+Primeros 16 bytes: 4C 5A 1A F3 2A 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..*...MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MASK6.MAG
+Tamaño: 3510 bytes
+SHA-256: 111c5a1bafeed470ba1681fd0380ee6721de79e7c2d081f2e2621dd4f0d6947d
+Primeros 16 bytes: 4C 5A 1A 85 28 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..(...MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MASK7.MAG
+Tamaño: 2109 bytes
+SHA-256: c3218670c2d025845d4cf7d635d6b6598c64b6fbe428a4539d147775d453f7c4
+Primeros 16 bytes: 4C 5A 1A A7 23 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..#...MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MASK8.MAG
+Tamaño: 1093 bytes
+SHA-256: 2ec52121f3d7355ecb4b1ed75094d93521613441a4c4cd0dfa0c6d0ff2edc980
+Primeros 16 bytes: 4C 5A 1A 45 12 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.E....MAKI02  .MPS  HIE.I .....EXE. version. 1.02..........P..
+
+Archivo: MGXLOAD.BIN
+Tamaño: 3016 bytes
+SHA-256: 62c579c5c7bb271a8ad533d56d0446e1fea2f5dbdd340306ae9289155219b221
+Primeros 16 bytes: 4C 5A 1A 31 47 00 00 FF EB 00 56 57 55 1E 06 50
+ASCII: LZ.1G.....VWU..P.SQR..0G....<........2..&4....H..>F......>..._..
+
+Archivo: MSDOS.SYS
+Tamaño: 61440 bytes
+SHA-256: c9d18b8d6db0e1acdc096c1aa69ab23698e4fe9960ea0b0583d7f3c602394b97
+Primeros 16 bytes: E9 7E 70 00 00 00 42 55 47 20 00 00 00 00 00 00
+ASCII: .~p...BUG ..............z.......................................
+
+Archivo: MU02.M
+Tamaño: 2876 bytes
+SHA-256: 2e6b57f427e6c0cb69e753d7a9993835af459ca18c10763eb6c12b7f38ac2699
+Primeros 16 bytes: 4C 5A 1A 3B 13 00 00 FF 00 1A 00 9A 03 3D 05 06
+ASCII: LZ.;.........=....'.(.).............#.......(.r.........@.)`(.`'
+
+Archivo: MU02.M2
+Tamaño: 3605 bytes
+SHA-256: ac78054b614299a833620ad37560ac2f1363530b1cd34b4139f6a0bf1b13f0a7
+Primeros 16 bytes: 4C 5A 1A 37 19 00 00 FF 00 1A 00 A9 03 58 05 24
+ASCII: LZ.7.........X.$....d............................?.*..O...(.r...
+
+Archivo: MUSS.M
+Tamaño: 1527 bytes
+SHA-256: 925e3d5f55738949148974560b8c4a48c69257e073d7cd166207852019f827bb
+Primeros 16 bytes: 4C 5A 1A D2 09 00 00 FF 00 1A 00 F2 01 ED 02 F6
+ASCII: LZ.........................D................u...................
+
+Archivo: MUSS.M2
+Tamaño: 1964 bytes
+SHA-256: 8b6e9ae1511a0475964758aa1f901aa9695f3408b4f7e65ea424333dea512a52
+Primeros 16 bytes: 4C 5A 1A 2E 0D 00 00 FF 00 1A 00 FB 01 F8 02 03
+ASCII: LZ.........................9.....................u..............
+
+Archivo: ONGCHK.COM
+Tamaño: 193 bytes
+SHA-256: 883a6882cbbff50153dbb7bec558e765e213e098e2fd6cac12089d6565fd9e47
+Primeros 16 bytes: E8 10 00 72 09 A0 C2 01 FE C0 B4 4C CD 21 B8 00
+ASCII: ...r.......L.!..L.!..........&.>..'*u.&.>...r..`..<.t.$.........
+
+Archivo: OP.COM
+Tamaño: 26946 bytes
+SHA-256: e444342ee59fb3889d20da8d606d8f424dcd055dae3eaee5df37fbd214fe15b1
+Primeros 16 bytes: E8 96 01 BB 42 6E C1 EB 04 43 B4 4A CD 21 73 03
+ASCII: ....Bn...C.J.!s.....Bn."..;.!r..."...A...!...."..>".[u..A.......
+
+Archivo: OP_DISK
+Tamaño: 0 bytes
+SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Primeros 16 bytes: 
+ASCII: 
+
+Archivo: PAGE0.DAT
+Tamaño: 67352 bytes
+SHA-256: 62f422a691d8ab6f4ff2be031e62e5114dee2baf3e46ef97b81394baf27c1109
+Primeros 16 bytes: 4C 5A 1A CC D2 01 00 6F 00 00 03 F8 EC F1 FF FE
+ASCII: LZ.....o...................K............W............?........?.
+
+Archivo: PAGE0.TBL
+Tamaño: 697 bytes
+SHA-256: 17e630cafe100037264659d5ec8dd3c1d0c2eaf4d74cf0afe8f495678c862f93
+Primeros 16 bytes: 4C 5A 1A 28 04 00 00 DD 58 E3 F8 30 00 2D E9 F2
+ASCII: LZ.(....X..0.-..T.... ...8..w...../.`.............u......V....].
+
+Archivo: PAGE1.DAT
+Tamaño: 8114 bytes
+SHA-256: 1c9e8a4472806611bb89cd640a580ca48d06e1e90758a4c42dfd2fdff20e9777
+Primeros 16 bytes: 4C 5A 1A A4 51 00 00 F6 ED FD 0F C0 ED F0 7F F8
+ASCII: LZ..Q................?.............x............_....p..8..#....
+
+Archivo: PAGE1.TBL
+Tamaño: 257 bytes
+SHA-256: 21a23b261fa31084995750a2813828495f8102f26408c96e0630ed75a8032798
+Primeros 16 bytes: 4C 5A 1A 64 01 00 00 7D 1D E3 F8 28 00 20 00 08
+ASCII: LZ.d...}...(. ....U2..@..@..z...P........]............ .0.`.....
+
+Archivo: PAGE2.DAT
+Tamaño: 15932 bytes
+SHA-256: 68a7c8a7d5a35a543346a7748806ac55e57100d6029742fe9d54254140c4758a
+Primeros 16 bytes: 4C 5A 1A C4 6D 00 00 FF 03 C0 0F F0 3F FC 7F FE
+ASCII: LZ..m.......?.........?........3.......@....?..?.... .......?...
+
+Archivo: PAGE2.TBL
+Tamaño: 631 bytes
+SHA-256: 5077db2b3dbc248e44708b1c76ff2b9092c0e5bf4c80da421100241a62f24395
+Primeros 16 bytes: 4C 5A 1A EC 03 00 00 5D 53 E3 F8 10 00 08 E9 F2
+ASCII: LZ.....]S..........U...... .....U0.....@.....U`..P..U.. ..U...i?
+
+Archivo: PAGE3_1L.DAT
+Tamaño: 23336 bytes
+SHA-256: e611c2b8dfd8e3d521f271cad3815d920d321d9fe1090ea19d5583ac1c07520d
+Primeros 16 bytes: 4C 5A 1A 5C B7 00 00 DA ED F1 10 EB F4 30 20 ED
+ASCII: LZ.\.........0 ..x..`....................m...p...q......#.....'.
+
+Archivo: PAGE3_1L.TBL
+Tamaño: 338 bytes
+SHA-256: 5d704d4de54d442eca378b69d265f8755f911f208236f4ab1b3abd2fe1ba714b
+Primeros 16 bytes: 4C 5A 1A A0 01 00 00 DD 22 E3 F8 40 00 27 E9 F2
+ASCII: LZ......"..@.'..a....0.).H..w.....(.........'....s...........'..
+
+Archivo: PAGE3_1M.DAT
+Tamaño: 6989 bytes
+SHA-256: 42cdd24709ab6bb4b27cc37b3a601e886b798b5ded03cb81a1386d8d066cbb23
+Primeros 16 bytes: 4C 5A 1A A2 30 00 00 5A ED F0 38 EC F2 FF FE F3
+ASCII: LZ..0..Z..8.........=..................'....'..2..2.?2..'.....2.
+
+Archivo: PAGE3_1M.TBL
+Tamaño: 143 bytes
+SHA-256: c2d976911dff77ebbf1360812bb1d0e539a607a7cdab0065778ee0d422664b2e
+Primeros 16 bytes: 4C 5A 1A BC 00 00 00 7D 0F E3 F8 30 00 28 00 80
+ASCII: LZ.....}...0.(....UK..@.........,.....=.... .$.P....... ......'.
+
+Archivo: PAGE3_1R.DAT
+Tamaño: 23293 bytes
+SHA-256: d8a4fa198a3e4d089e18e8ad3071b496bc0f75a838a8e3be2e76e9f7d80a19c7
+Primeros 16 bytes: 4C 5A 1A 5C B7 00 00 DA ED F0 08 EB F3 04 0C EB
+ASCII: LZ.\...........................?....................?...0.......
+
+Archivo: PAGE3_1R.TBL
+Tamaño: 338 bytes
+SHA-256: 5d704d4de54d442eca378b69d265f8755f911f208236f4ab1b3abd2fe1ba714b
+Primeros 16 bytes: 4C 5A 1A A0 01 00 00 DD 22 E3 F8 40 00 27 E9 F2
+ASCII: LZ......"..@.'..a....0.).H..w.....(.........'....s...........'..
+
+Archivo: PAGE3_2L.DAT
+Tamaño: 25501 bytes
+SHA-256: 892871c946860c3e72e930978b4e06d7bae5bd25d0e8dc65d832b052a5989aab
+Primeros 16 bytes: 4C 5A 1A 55 A5 00 00 6F 00 00 11 38 EC F1 0F C0
+ASCII: LZ.U...o...8......[...............................|....,...2...2
+
+Archivo: PAGE3_2L.TBL
+Tamaño: 526 bytes
+SHA-256: 5c499097fec2945ed39fb245b3f7cc7917697a3aa590ed1c9b9c914e722822a2
+Primeros 16 bytes: 4C 5A 1A 9C 02 00 00 7D 37 E3 F8 30 00 2D 00 10
+ASCII: LZ.....}7..0.-....wT..../.P............... .?....O.....*........
+
+Archivo: PAGE3_2M.DAT
+Tamaño: 10110 bytes
+SHA-256: ce4632b88849adf27bae47948eb37cd300e1c7917b4dc0c529268d591023a3be
+Primeros 16 bytes: 4C 5A 1A 84 53 00 00 5F 1F FF FF FF 3F EF F0 7F
+ASCII: LZ..S.._....?.....T.......................C................8.y..
+
+Archivo: PAGE3_2M.TBL
+Tamaño: 272 bytes
+SHA-256: b3f25a6af3804919f1d786056107ed9d75753ef38a72991390c5bfaf97fb9db6
+Primeros 16 bytes: 4C 5A 1A DC 01 00 00 5D 27 E3 F8 20 00 10 E9 F2
+ASCII: LZ.....]'.. .......U...@..d.................... ...._.....).....
+
+Archivo: PAGE3_2R.DAT
+Tamaño: 25557 bytes
+SHA-256: 80092eff2e2ce4bfa77d94c03befb8a46b99dfa73ce10ccd4cf152663ae5048b
+Primeros 16 bytes: 4C 5A 1A 55 A5 00 00 6F 00 00 1C 88 EC F1 03 F0
+ASCII: LZ.U...o..........[......................?.....>...[..+.../../.-
+
+Archivo: PAGE3_2R.TBL
+Tamaño: 526 bytes
+SHA-256: 5c499097fec2945ed39fb245b3f7cc7917697a3aa590ed1c9b9c914e722822a2
+Primeros 16 bytes: 4C 5A 1A 9C 02 00 00 7D 37 E3 F8 30 00 2D 00 10
+ASCII: LZ.....}7..0.-....wT..../.P............... .?....O.....*........
+
+Archivo: PAGE3_3L.DAT
+Tamaño: 26760 bytes
+SHA-256: b5880316052ffcc758da46c67a2bf8b4b8a75010ed19afda5a2a0aaa1263d02e
+Primeros 16 bytes: 4C 5A 1A 5C CB 00 00 76 ED F1 1F E0 ED F2 03 FF
+ASCII: LZ.\...v...........o<?.........x........}...............?*......
+
+Archivo: PAGE3_3L.TBL
+Tamaño: 451 bytes
+SHA-256: 887b2e36d90e0cdb4dbbdddc745a327ce7f07dbbaac31885f4a25d9171289881
+Primeros 16 bytes: 4C 5A 1A 48 02 00 00 DD 30 E3 F8 40 00 2B E9 F2
+ASCII: LZ.H....0..@.+..k.....-........../.........-....l........... .W.
+
+Archivo: PAGE3_3M.DAT
+Tamaño: 2398 bytes
+SHA-256: 38d480208af0ba3414bba7ddedb58bdbc7b91af580b3d7e7e4d4bdd4e15a7bf0
+Primeros 16 bytes: 4C 5A 1A 4A 24 00 00 01 FF EE FF 00 0F 12 0F 24
+ASCII: LZ.J$..........$.6.H.Z..l.~.................. .2.D.V.h.z........
+
+Archivo: PAGE3_3M.TBL
+Tamaño: 93 bytes
+SHA-256: aa5bb743e8a119ee73cba2bf50e3c25c983e30bd7b00fac8d23e249530861b48
+Primeros 16 bytes: 4C 5A 1A 74 00 00 00 7D 09 E3 F8 40 01 10 00 20
+ASCII: LZ.t...}...@... ......................... ............@........`
+
+Archivo: PAGE3_3R.DAT
+Tamaño: 26767 bytes
+SHA-256: 3d9c2d6fc67b716f3159daa402293c499669c9d57642aaf6b346c06004c1eb41
+Primeros 16 bytes: 4C 5A 1A 5C CB 00 00 EF 00 00 07 F8 EA F3 1F FF
+ASCII: LZ.\...................<..............?.....?....V.......'..#...
+
+Archivo: PAGE3_3R.TBL
+Tamaño: 451 bytes
+SHA-256: 887b2e36d90e0cdb4dbbdddc745a327ce7f07dbbaac31885f4a25d9171289881
+Primeros 16 bytes: 4C 5A 1A 48 02 00 00 DD 30 E3 F8 40 00 2B E9 F2
+ASCII: LZ.H....0..@.+..k.....-........../.........-....l........... .W.
+
+Archivo: PAGE3_4L.DAT
+Tamaño: 13256 bytes
+SHA-256: 33e4c96915920a8407250c473e48c2676ed6c941fb88033aff2a4715e4fd032d
+Primeros 16 bytes: 4C 5A 1A 80 57 00 00 D7 00 00 70 EB F2 F8 EC F1
+ASCII: LZ..W.....p.....................................W.........?.....
+
+Archivo: PAGE3_4L.TBL
+Tamaño: 217 bytes
+SHA-256: 44033c9611c3e5d834736212937b0eec942500cec9ca2bd2d2122f4b362a5462
+Primeros 16 bytes: 4C 5A 1A 10 01 00 00 7D 16 E3 F8 30 00 29 00 10
+ASCII: LZ.....}...0.)................. ......w.......@..}$..0...`..}J..
+
+Archivo: PAGE3_4M.DAT
+Tamaño: 4593 bytes
+SHA-256: f433c0c87f6abeeb2eb28b8379f41c1783c100423d14960c1999027229688955
+Primeros 16 bytes: 4C 5A 1A 08 25 00 00 EF 00 00 1F F0 ED F0 01 FF
+ASCII: LZ..%.....................?.........i....................$......
+
+Archivo: PAGE3_4M.TBL
+Tamaño: 207 bytes
+SHA-256: 0be57702185c7654d6e83c9ac53fb9ea67ae701095d38ca2305f13dbc36381b2
+Primeros 16 bytes: 4C 5A 1A 10 01 00 00 D5 16 E3 F8 30 ED F0 08 EB
+ASCII: LZ.........0.....).].....H..K.._ ......\.............0....<'. ..
+
+Archivo: PAGE3_4R.DAT
+Tamaño: 13246 bytes
+SHA-256: d9b7844cc528aca6d55d461571bcc98c50792fb7b673ed464e5e8b6375d28247
+Primeros 16 bytes: 4C 5A 1A 80 57 00 00 FA ED F0 0E EC F2 1F 00 00
+ASCII: LZ..W.....................?......?..............................
+
+Archivo: PAGE3_4R.TBL
+Tamaño: 217 bytes
+SHA-256: 44033c9611c3e5d834736212937b0eec942500cec9ca2bd2d2122f4b362a5462
+Primeros 16 bytes: 4C 5A 1A 10 01 00 00 7D 16 E3 F8 30 00 29 00 10
+ASCII: LZ.....}...0.)................. ......w.......@..}$..0...`..}J..
+
+Archivo: PAGE3_5L.DAT
+Tamaño: 18962 bytes
+SHA-256: b1cb391cda3b6a376b9ba4fae2eb8aa8abe7de180ccf86d214b26f243ba40653
+Primeros 16 bytes: 4C 5A 1A 6E 8C 00 00 EE ED F0 07 FF 80 ED F0 3F
+ASCII: LZ.n...........?..........................?.....................
+
+Archivo: PAGE3_5L.TBL
+Tamaño: 429 bytes
+SHA-256: ef6a40c6e6770a8473b037611182fedf93cd7b4a13e7dbb376e3e40d960096ec
+Primeros 16 bytes: 4C 5A 1A 30 02 00 00 DD 2E E3 F8 30 00 0E E9 F2
+ASCII: LZ.0.......0......u...0..4....w..`..P..........y....u...........
+
+Archivo: PAGE3_5M.DAT
+Tamaño: 20139 bytes
+SHA-256: 993dc9ebd282922c11570fb9b318058a4c961d98988090717f038078461296db
+Primeros 16 bytes: 4C 5A 1A 96 B4 00 00 C1 FF EE FF 00 0F 12 0F 1C
+ASCII: LZ..........................8...<..O.....4......R.U.V.J.....B...
+
+Archivo: PAGE3_5M.TBL
+Tamaño: 372 bytes
+SHA-256: 7c18283bc4232bd7e1ef47943253e8d19f3c8c9fe86619a2a472824d3d5fbce6
+Primeros 16 bytes: 4C 5A 1A 6C 02 00 00 5D 33 E3 F8 20 00 10 E9 F2
+ASCII: LZ.l...]3.. .......U ..(..@..<...`.......@..`..<3.".x3......3. .
+
+Archivo: PAGE3_5R.DAT
+Tamaño: 18914 bytes
+SHA-256: 91ece381dfccc75e7b1bd6860220745c76ede1b08ebde85f60a6633e277ea6a5
+Primeros 16 bytes: 4C 5A 1A 6E 8C 00 00 77 01 FF E0 EB F0 0F FF FC
+ASCII: LZ.n...w................?......................................r
+
+Archivo: PAGE3_5R.TBL
+Tamaño: 429 bytes
+SHA-256: ef6a40c6e6770a8473b037611182fedf93cd7b4a13e7dbb376e3e40d960096ec
+Primeros 16 bytes: 4C 5A 1A 30 02 00 00 DD 2E E3 F8 30 00 0E E9 F2
+ASCII: LZ.0.......0......u...0..4....w..`..P..........y....u...........
+
+Archivo: PAGE3_6L.DAT
+Tamaño: 17349 bytes
+SHA-256: 16b400b703679ee4066c726ebaf5a481c01eca3fc3705226082c85b249ec1dd6
+Primeros 16 bytes: 4C 5A 1A 23 91 00 00 DE ED F5 10 10 80 80 ED F1
+ASCII: LZ.#............@@. ...................p..x|.....b........ ?0...
+
+Archivo: PAGE3_6L.TBL
+Tamaño: 318 bytes
+SHA-256: 09a1e9bfa875735c3eff5e50aad61f672810d8c618c297e5d678b5ce26fd74f7
+Primeros 16 bytes: 4C 5A 1A D0 01 00 00 5D 26 E3 F8 20 00 08 E9 F2
+ASCII: LZ.....]&.. .......U .....@.....U`..(........./..*....7'.....>3.
+
+Archivo: PAGE3_6M.DAT
+Tamaño: 25341 bytes
+SHA-256: fdccfb5586a4df386aefa50c83e05c495946df3f8d1820a5d213cd076ffc63c0
+Primeros 16 bytes: 4C 5A 1A 6E E6 00 00 E1 FF EE FF 00 0F 12 0F 1C
+ASCII: LZ.n.............,]....2...U:.2.:......UQUQ......\.\.].rT..2....
+
+Archivo: PAGE3_6M.TBL
+Tamaño: 1038 bytes
+SHA-256: fcde0de4346feaf959f59024b597fe895571152e60c7cf51cf03b9df3001709d
+Primeros 16 bytes: 4C 5A 1A 7C 07 00 00 5D 9F E3 F8 20 00 10 E9 F2
+ASCII: LZ.|...]... .......U ..(..@..<..U`..P.....d..U...x........#..-..
+
+Archivo: PAGE3_6R.DAT
+Tamaño: 17281 bytes
+SHA-256: 0316b0f8b9da9b43ee8e30da8e0233b1ce4d7cf5ef67b1158c5e751a91609112
+Primeros 16 bytes: 4C 5A 1A 23 91 00 00 DE ED F5 01 01 08 08 ED F2
+ASCII: LZ.#.....................'._.W............>.UFx.8.........?...0.
+
+Archivo: PAGE3_6R.TBL
+Tamaño: 318 bytes
+SHA-256: 09a1e9bfa875735c3eff5e50aad61f672810d8c618c297e5d678b5ce26fd74f7
+Primeros 16 bytes: 4C 5A 1A D0 01 00 00 5D 26 E3 F8 20 00 08 E9 F2
+ASCII: LZ.....]&.. .......U .....@.....U`..(........./..*....7'.....>3.
+
+Archivo: PAGE3_7L.DAT
+Tamaño: 23029 bytes
+SHA-256: a9b8e92ba99a201e180bd2609dcb1f52c19da0888f0bb5a4d6c004d7ee6d55f9
+Primeros 16 bytes: 4C 5A 1A 8C BE 00 00 7A ED F3 08 E9 F8 1C 00 00
+ASCII: LZ.....z............................?.......?....~.../....4.kO.G
+
+Archivo: PAGE3_7L.TBL
+Tamaño: 363 bytes
+SHA-256: 5e2028ba1996d40de0cb0a3e1d34cb4c1dd3909e37a862faeadde8cfb4580b37
+Primeros 16 bytes: 4C 5A 1A F4 01 00 00 DD 29 E3 F8 60 00 1F E9 F2
+ASCII: LZ......)..`....t.....................3...... .....#....#..... .
+
+Archivo: PAGE3_7M.DAT
+Tamaño: 3473 bytes
+SHA-256: abf293c987daf95f7b187250de9648432be853383f4a63013d86be42a4c2ffa8
+Primeros 16 bytes: 4C 5A 1A 0E 1A 00 00 01 FF EE FF 00 0F 12 0F 24
+ASCII: LZ.............$.6.H.Z..l.~..........|............`L.x..L..q.%..
+
+Archivo: PAGE3_7M.TBL
+Tamaño: 103 bytes
+SHA-256: 54a55740be5ab9dfb589b08aa69a9c97016d63587dea6c8dc301f356e99fe2b6
+Primeros 16 bytes: 4C 5A 1A 80 00 00 00 DD 0A E3 F8 60 00 10 E7 F4
+ASCII: LZ.........`.......0....-..@.w..0..f.......p.....0.........0.. .
+
+Archivo: PAGE3_7R.DAT
+Tamaño: 22984 bytes
+SHA-256: 9107c6eabc570f8fb0bdaf7bcdc46ccb79b0b5a8d535b00d7d83a2293bd477f0
+Primeros 16 bytes: 4C 5A 1A 8C BE 00 00 7A ED F2 10 EB F5 40 00 00
+ASCII: LZ.....z.....@..8......x....@s...........~..........~(..........
+
+Archivo: PAGE3_7R.TBL
+Tamaño: 363 bytes
+SHA-256: 5e2028ba1996d40de0cb0a3e1d34cb4c1dd3909e37a862faeadde8cfb4580b37
+Primeros 16 bytes: 4C 5A 1A F4 01 00 00 DD 29 E3 F8 60 00 1F E9 F2
+ASCII: LZ......)..`....t.....................3...... .....#....#..... .
+
+Archivo: PAGE3_8L.DAT
+Tamaño: 24748 bytes
+SHA-256: a8630143bcc0f1a2bc6cc4633666cea17a7fb6f2f2384dfe544480376fdefe12
+Primeros 16 bytes: 4C 5A 1A 29 A9 00 00 FF 00 00 FE 00 00 01 FF 00
+ASCII: LZ.).....................X.............................. .<.....
+
+Archivo: PAGE3_8L.TBL
+Tamaño: 363 bytes
+SHA-256: 0783af994b46a1ec80a8b27f4c2dba8f591b64e7d58ccee4abde6366507e2d0d
+Primeros 16 bytes: 4C 5A 1A C4 01 00 00 7D 25 E3 F8 20 00 1C 00 10
+ASCII: LZ.....}%.. .......#....P..G.u......k......................./...
+
+Archivo: PAGE3_8M.DAT
+Tamaño: 17913 bytes
+SHA-256: 66ad55fd6b15c38284de2cf78ca0fa21401492104dc2535d70931f52e836b6c8
+Primeros 16 bytes: 4C 5A 1A 50 AF 00 00 B5 FF EE F2 C0 ED F2 7F E0
+ASCII: LZ.P.............................................!......0.E..8..
+
+Archivo: PAGE3_8M.TBL
+Tamaño: 637 bytes
+SHA-256: e0d4a2d074ca305fce03d0c9ff435c829bfc53020fd3da166a267dea547766ea
+Primeros 16 bytes: 4C 5A 1A B8 04 00 00 5D 64 E3 F8 40 00 10 E9 F2
+ASCII: LZ.....]d..@....(..U@..P.. ...........x..........}'.... )......?
+
+Archivo: PAGE3_8R.DAT
+Tamaño: 24841 bytes
+SHA-256: 233bed4c6bca51820b8f7a91eeab91271760b0808e1a22ecc545d20859ed0990
+Primeros 16 bytes: 4C 5A 1A 29 A9 00 00 FB 00 7F EC F0 FF 80 00 01
+ASCII: LZ.)......................................................x..<..
+
+Archivo: PAGE3_8R.TBL
+Tamaño: 363 bytes
+SHA-256: 0783af994b46a1ec80a8b27f4c2dba8f591b64e7d58ccee4abde6366507e2d0d
+Primeros 16 bytes: 4C 5A 1A C4 01 00 00 7D 25 E3 F8 20 00 1C 00 10
+ASCII: LZ.....}%.. .......#....P..G.u......k......................./...
+
+Archivo: PAGE3_9L.DAT
+Tamaño: 27003 bytes
+SHA-256: b8b7ee5fff5cfff6797b0859d9be047716a8bb49c7c7e4ed90ac73a3c9d63c6e
+Primeros 16 bytes: 4C 5A 1A B6 D5 00 00 FF 00 01 FC 00 00 03 FE 00
+ASCII: LZ.......................h.............................< .x.....
+
+Archivo: PAGE3_9L.TBL
+Tamaño: 512 bytes
+SHA-256: 3799218bead7ae70f87515edb40117bf40676ed114ca7f70404aaecfe1157e35
+Primeros 16 bytes: 4C 5A 1A 78 02 00 00 7D 34 E3 F8 20 00 1C 00 10
+ASCII: LZ.x...}4.. .......#....P..G.u......k......................./...
+
+Archivo: PAGE3_9M.DAT
+Tamaño: 3127 bytes
+SHA-256: 95c59551367529bc8f75cd5bb10c36a75f0090aa017ce7d9e957fc2fe394c5c7
+Primeros 16 bytes: 4C 5A 1A B0 36 00 00 6F 00 00 01 80 EC F1 03 C0
+ASCII: LZ..6..o...........8.....>?..|...............?...........p.%....
+
+Archivo: PAGE3_9M.TBL
+Tamaño: 98 bytes
+SHA-256: 61d711e7ca22803099e03a7857ac3333eb7fc6a91bd045c261f80e58165bf67d
+Primeros 16 bytes: 4C 5A 1A 74 00 00 00 5D 09 E3 F8 30 00 18 E9 F2
+ASCII: LZ.t...]...0....-...@......f.].....p......0................<. ..
+
+Archivo: PAGE3_9R.DAT
+Tamaño: 26986 bytes
+SHA-256: 8da0b54038de6bfd466f03a741ba3c8260f2369645bd3c822f7382056a0c53fd
+Primeros 16 bytes: 4C 5A 1A B6 D5 00 00 FF 00 3F 80 00 00 7F C0 00
+ASCII: LZ.......?...........................................x..<.......
+
+Archivo: PAGE3_9R.TBL
+Tamaño: 512 bytes
+SHA-256: 3799218bead7ae70f87515edb40117bf40676ed114ca7f70404aaecfe1157e35
+Primeros 16 bytes: 4C 5A 1A 78 02 00 00 7D 34 E3 F8 20 00 1C 00 10
+ASCII: LZ.x...}4.. .......#....P..G.u......k......................./...
+
+Archivo: PDR.COM
+Tamaño: 3947 bytes
+SHA-256: 8691838563d1b842182b6824fd101d60097eb12e726471d2178d05307ebd6e24
+Primeros 16 bytes: E9 C3 04 EB 0C 50 44 52 00 00 00 00 00 00 00 00
+ASCII: .....PDR............t......u......ty.....tw....$...>...t........
+
+Archivo: PMD.COM
+Tamaño: 16148 bytes
+SHA-256: 37ebce79064ac3e5b5de143ed86eac0925c30737853483cbc06efc131dfd33e1
+Primeros 16 bytes: E9 FF 2B EB 0F 50 4D 44 00 00 00 00 00 00 00 00
+ASCII: ..+..PMD................(...s...>.(.t..x..0......(....(.......(.
+
+Archivo: PMDB2.COM
+Tamaño: 20208 bytes
+SHA-256: c0d0f15ca4fa2ed148815910fc3e0ff406ae8307d1518be66d076d4da3c3e7b8
+Primeros 16 bytes: E9 53 3A EB 0F 50 4D 44 00 00 00 00 00 00 00 00
+ASCII: .S:..PMD................1...s...>.1.t..o ..%.....1....1.......1.
+
+Archivo: PPSDRV.COM
+Tamaño: 1895 bytes
+SHA-256: 9ecbd989ff5b23a855489829a457c4556905a2d5038a9fc87d96286795371f51
+Primeros 16 bytes: E9 59 01 EB 07 50 4D 50 00 00 00 00 FB 0A E4 75
+ASCII: .Y...PMP.......u.......t)...u.......t....u.......u....PS3......[
+
+Archivo: R_A11.MGX
+Tamaño: 34903 bytes
+SHA-256: 4a2ef803068cd6e6bc413a084a4e13b5503f6fe3ee953a021a887b574e948fb0
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P........:...J..t=........"."3"3D3DUDUfUwwf
+
+Archivo: R_A11_1.MGX
+Tamaño: 1477 bytes
+SHA-256: 6318cb64d9c2163ec7397aee6ac3796d7a8bae7f3d5d137dd30c11f2f1b3cbc4
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 41 00 00
+ASCII: MAKI02A .....A.....).P...........P...l........."."3"3D3DUDUfUwwf
+
+Archivo: R_A11_2.MGX
+Tamaño: 2553 bytes
+SHA-256: 228ff23e2691118d8aaac02c64782d3b04c9497897d6b833cb566262226cb230
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 D8 01 00
+ASCII: MAKI02A ..b........J.P...............T........././?/?O?O_O_o_..o
+
+Archivo: R_A11_3.MGX
+Tamaño: 8637 bytes
+SHA-256: 7bf53a2c5525c2417a0d7265fe3c75d3714d0185ff8c859ad8492a496eb7b980
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 20
+ASCII: MAKI02A ....... .....P...^....................."."3"3D3DUDUfUwwf
+
+Archivo: R_A11_4.MGX
+Tamaño: 5311 bytes
+SHA-256: cf989a8b1b118af55d0fd2f69c50b7a465690b8a895c40846b711452e923c759
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 83 00 90
+ASCII: MAKI02A .............P...0...-...^...X........."."3"3D3DUDUfUwwf
+
+Archivo: R_A11_5.MGX
+Tamaño: 12227 bytes
+SHA-256: c984c2193a021ee57cad847d5439af863881ce38ef8e992a866fa7f3382c0055
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 B0 01 7A
+ASCII: MAKI02A ..b....z.....P.......:................././?/?O?O_O_o_..o
+
+Archivo: R_A11_6.MGX
+Tamaño: 12027 bytes
+SHA-256: 7caabe2ce495a961aa5f97f6eb7c7bb76edb6b37c442651e2fd064e3f3920b9c
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 0B 01 30
+ASCII: MAKI02A .......0...d.P...>...u.......>........."."3"3D3DUDUfUwwf
+
+Archivo: R_A11_7.MGX
+Tamaño: 7945 bytes
+SHA-256: 0a7a21ef48bfe358d3aea0a75bcb63331f2d4e291b009b32797cf16cdf6f0ea6
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 F8 00 B4
+ASCII: MAKI02A ..b......G...P...............X..........................
+
+Archivo: R_A21.MGX
+Tamaño: 35745 bytes
+SHA-256: ea0e681f1b2f3220172967e6cfff0889ae61e44d2e0606a2896216459ed190d8
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 32
+ASCII: MAKI02A .......2...].P.......(...0+..h`........................"
+
+Archivo: R_A21P_.MGX
+Tamaño: 95 bytes
+SHA-256: 26ee66e7453c3ae4e987d5711d5c87ca6c8eef7385e963da70f622dbe6d7a650
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 00
+ASCII: MAKI02A .............P...R.......T..........333DDDUUUfffwww.....
+
+Archivo: R_A21PAL.MGX
+Tamaño: 95 bytes
+SHA-256: 31c0ab935be04c68a60ab1b4cd625077dbb2f9c3e138905852e2a6780b54e207
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 00
+ASCII: MAKI02A .............P...R.......T..........""DDDffUUwff..U..f..
+
+Archivo: R_A23.MGX
+Tamaño: 35985 bytes
+SHA-256: 125db33826b14032efc0a5677047d5cc1136549d15f4ebf3f89c8a827aa30273
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 08 00 8C
+ASCII: MAKI02A .........l...P...p.......p..............................
+
+Archivo: R_A24.MGX
+Tamaño: 17801 bytes
+SHA-256: 143c98e89ffda2104dc144d43496ced21d3f476ba9bd322137f47cec58b90057
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 00
+ASCII: MAKI02A ...........+.P...............p+......3..w3..D".fU.......
+
+Archivo: R_A26.MGX
+Tamaño: 33837 bytes
+SHA-256: 81f7bc6203781f0c757ab55c29b12247ef8cf95f100095f9c92117326d899cb1
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 32
+ASCII: MAKI02A .......2.~.].P.......H%..P1...R......DD.U..w...."..U."..
+
+Archivo: R_A26A.MGX
+Tamaño: 27125 bytes
+SHA-256: bf4ced0637173d623af8a56c5c1364b723a6a98b1a5a512b0fde59ad94548d4f
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 00
+ASCII: MAKI02A .............P............ ...I......DD.U..w...."..U."..
+
+Archivo: R_A31.MGX
+Tamaño: 52633 bytes
+SHA-256: 3622bca319ba546571937604e577fa3b2d733542e199ffcff3de2f256f69e141
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 10 00 74
+ASCII: MAKI02A .......t.`...P........)...).............................
+
+Archivo: R_A32.MGX
+Tamaño: 45211 bytes
+SHA-256: 7fa0bfd2f98665515418310011034a80e608108b9ceb3812f74245d8bd6ee725
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P.......D4..4D..^l.....3""D33UDDwff..w.D."f
+
+Archivo: R_A33.MGX
+Tamaño: 30651 bytes
+SHA-256: 1368cc3c0e3196e99234d0cb9643f5e8a7ddbc88487965ee5f63e9b3f86d15e4
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 00
+ASCII: MAKI02A .........7.].P...t...J....+...K......"."U"3.3U.Dw.f.....
+
+Archivo: R_A35.MGX
+Tamaño: 31595 bytes
+SHA-256: 1ec464b307cd00c303ebeccbaaed983c64c30c757d3afca195d96141fe9a8844
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P.......}...n(...R....."""DDDUffw.....Uf"..
+
+Archivo: R_A36.MGX
+Tamaño: 48233 bytes
+SHA-256: becbb603f0c02d44e143cec9ea5b858562d7b290f8ddb6abbcc8d9bf3fea0449
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 10 00 74
+ASCII: MAKI02A .......t.H...P........$...$.............................
+
+Archivo: R_B11.MGX
+Tamaño: 49891 bytes
+SHA-256: 658c1081ce040a10e2d58f606edaae934a7512802744e7e637fc044dfbf46512
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P......../...?..J.............U....Df.f.D..
+
+Archivo: R_B12.MGX
+Tamaño: 21711 bytes
+SHA-256: 2ffd4068aef2aa269a5b78d6a9f45d6028a5cb4b0888553a106e4c4c1e4c79ce
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 00 00 00
+ASCII: MAKI02A .........9.,.P............$..60.....DfUw.....U..3...D..f
+
+Archivo: R_B14.MGX
+Tamaño: 64197 bytes
+SHA-256: 3341a04050ee0de8c0f2cabe45d5eeac9d55c783664735b7d5d8ef82490ad2cf
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P.......M0..>@..~......"3w.................
+
+Archivo: R_B15.MGX
+Tamaño: 17177 bytes
+SHA-256: 8e4a21514d61e6d7cbe2ad5531675aae6e86f7da51d5804fa165941335e380e1
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P...............*+....."3w.................
+
+Archivo: R_B16A.MGX
+Tamaño: 41383 bytes
+SHA-256: 7315bb26e02d3a656d556996b9d690b9d597b0316755c6985f0dfe2d73f96879
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P....... ,...<...e.........3..f..........f.
+
+Archivo: R_B16B.MGX
+Tamaño: 41645 bytes
+SHA-256: bdc1c6ba92a86354c27b3b12ca361a97eecef5da8cb783080bd866ea1953303f
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P.......,,...<...f.........3..f..........f.
+
+Archivo: R_B21A.MGX
+Tamaño: 53075 bytes
+SHA-256: fd0e971f7e22bcf6e0dd6faf2680267fc61494dec110f27135e46f0c228392ec
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P........&...5..P......D"."w".........333DU
+
+Archivo: R_B21B.MGX
+Tamaño: 53069 bytes
+SHA-256: 85da5f5a4d38da80436f00ef0146d7ddfd8d947e48741ef50cd519c6c92fac7c
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P........%...5..Z......D"."w".........333DU
+
+Archivo: R_B22.MGX
+Tamaño: 52599 bytes
+SHA-256: 8b8e00b3c37655a4782fb2054cb45deca62f8bd92a7732532432c716e9f144e3
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P.......0... ...N......"3.UfUw.w...f.w...ww
+
+Archivo: R_B23.MGX
+Tamaño: 32831 bytes
+SHA-256: 119f5d00bc08b63fc0e68e4f59cf8525db901119e0c3be4dc95a2fc2fe4b371a
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P.......V!..F1...N...........D.Uw..fD..."DU
+
+Archivo: R_B24.MGX
+Tamaño: 38205 bytes
+SHA-256: 5cbcba74d50b79d19c9fc699e60f4097280c6125190141a7820596382fe20336
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P........)...9..&\.....fD..."D.Uw........DU
+
+Archivo: R_B31.MGX
+Tamaño: 40775 bytes
+SHA-256: 124bad81b6b4dd6642a53efbfbc1216c71adfd76fb8c0ebb66cc957bfc58d2f0
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P.......b+..R;...c.....f.D..U..w...3."D.3U.
+
+Archivo: R_B32_1.MGX
+Tamaño: 22055 bytes
+SHA-256: f147c9a046533d3e64df510be426c2c10546effdfca17464154f29e2882b5d82
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 FF 00 00 00 00 00
+ASCII: MAKI02A .............P............)..T,......D."..U...."..3..D..
+
+Archivo: R_B32_2.MGX
+Tamaño: 22089 bytes
+SHA-256: 386c497d336bdca92a606753fbd21c8f231190e1cf86ecff3fc335f9b8bf18d1
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 00 00 00
+ASCII: MAKI02A ..b......?...P...n........!..65......O./.._..../..?..O..
+
+Archivo: R_B33.MGX
+Tamaño: 2409 bytes
+SHA-256: 449ebad94b55cf6e448776ad05b9f453753f10d052bbbf169b17ab5f4151154d
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 50 00 32
+ASCII: MAKI02A ..b..P.2...].P...X...........D......o...?..O.._..o......
+
+Archivo: R_B33A.MGX
+Tamaño: 21901 bytes
+SHA-256: 7abc281a9d968758cffd08bad0003d0792fd16c3be1a5a1c6106b0903f740d79
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 80 00 32
+ASCII: MAKI02A .......2./.].P...:.......6!..N4.....f...3..D..U..f..w...
+
+Archivo: R_B33B.MGX
+Tamaño: 23285 bytes
+SHA-256: 50af9ac5b886fed5e1cacef40f11b04644bd5aa79566f9b25b9751a7e7372b56
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 80 00 32
+ASCII: MAKI02A .......2./.].P...:........"...7.....f...3..D..U..f..w...
+
+Archivo: R_B33C.MGX
+Tamaño: 23559 bytes
+SHA-256: 29a27bc1cd170e66429ef98e052c56c43359c060c78ed51ba982f60270cd1dd9
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 80 00 32
+ASCII: MAKI02A .......2./.].P...:...z...."..J9.....f...3..D..U..f..w...
+
+Archivo: R_B33D.MGX
+Tamaño: 23037 bytes
+SHA-256: f58231b26341fc3d6fdc044eb909c5a461c625c7323ad7f33ff06223bf3b16ac
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 80 00 32
+ASCII: MAKI02A .......2./.].P...:...d...."..V7.....f...3..D..U..f..w...
+
+Archivo: R_B34_1.MGX
+Tamaño: 31691 bytes
+SHA-256: 321083b3348a413dc44996fb6669ebd1dd21adb8241b2e4eea804fbc578ed9a1
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 00 00 00
+ASCII: MAKI02A ..b..........P... ........&...U......o............._.?o.
+
+Archivo: R_B34_2.MGX
+Tamaño: 44245 bytes
+SHA-256: dd49b5a776c0e26bd51e7ddfa756d906df9c0692e93a2ebd894a201845d6f7bc
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 62 00 00 00 00 C8
+ASCII: MAKI02A ..b..........P... ...b$...,..J.......o............._.?o.
+
+Archivo: ROUND1.M
+Tamaño: 3374 bytes
+SHA-256: 42c6749e9de8a4d5d242b55b953fa095600d30eef5eab35c9a9f26dc4c0c7c5e
+Primeros 16 bytes: 4C 5A 1A 3A 1D 00 00 FF 00 1A 00 34 05 71 0A 3A
+ASCII: LZ.:.......4.q.:..;.<.=.[..D..............u............$.u..B..E
+
+Archivo: ROUND1.M2
+Tamaño: 4901 bytes
+SHA-256: 234a18b8cd80edd4edabe631c1c15bfd3500f916605e825ceddf7e2abb1c8edf
+Primeros 16 bytes: 4C 5A 1A 18 2A 00 00 FF 00 1A 00 46 05 83 0A 04
+ASCII: LZ..*......F......>.......!.$](^(..(.(._(........u..............
+
+Archivo: ROUND10.M
+Tamaño: 1675 bytes
+SHA-256: 2c1a39277cd43160580a63df768092d5711bd7ee967c0303c465668a7ac5c0bb
+Primeros 16 bytes: 4C 5A 1A B5 0C 00 00 FF 00 1A 00 2F 01 EA 04 5A
+ASCII: LZ........./...Z.............................-.r...............S
+
+Archivo: ROUND10.M2
+Tamaño: 2061 bytes
+SHA-256: 223b957748062c2401afd20d3c670b4ed5000e289d165cf794fda301041b10a8
+Primeros 16 bytes: 4C 5A 1A FB 10 00 00 FF 00 1A 00 46 01 5B 06 D1
+ASCII: LZ.........F.[.............$.....................?./....L.o.....
+
+Archivo: ROUND10B.M
+Tamaño: 597 bytes
+SHA-256: 7157ebee6187ad940e9b2766c4a3d92dac051ad12b850cf5402bcaae7a54ba6d
+Primeros 16 bytes: 4C 5A 1A 1E 03 00 00 FF 00 1A 00 98 00 E2 00 2E
+ASCII: LZ................x.y.z.......................z.........V..H....
+
+Archivo: ROUND10B.M2
+Tamaño: 746 bytes
+SHA-256: 607f8706a4b8b0bfc730a80d794f1f2206a7f90d80975c9d832b89331db03694
+Primeros 16 bytes: 4C 5A 1A 54 04 00 00 FF 00 1A 00 A5 00 F4 00 47
+ASCII: LZ.T...........G......+.r....n.o.......p.......?.4.l.......z....
+
+Archivo: ROUND2.M
+Tamaño: 1300 bytes
+SHA-256: 24317fe8eca6c50c2b5b207962f2bb36f970efd81f2a9a54434807f7c0473069
+Primeros 16 bytes: 4C 5A 1A AD 08 00 00 FF 00 1A 00 2E 01 4D 02 2B
+ASCII: LZ...........M.+........G......................j..........4.3$.4
+
+Archivo: ROUND2.M2
+Tamaño: 1758 bytes
+SHA-256: 0231cda395007c907cf0aa5c51a6cfa65bc1d7773fb409944d213e41d888b064
+Primeros 16 bytes: 4C 5A 1A C1 0C 00 00 FF 00 1A 00 4B 01 80 02 5E
+ASCII: LZ.........K...^..?. ........N.O.......P..............j.........
+
+Archivo: ROUND3.M
+Tamaño: 1059 bytes
+SHA-256: 5299998225671d5e202a703df140f8309bb25c5c78b30f1ed357fda0cf58117f
+Primeros 16 bytes: 4C 5A 1A 1F 09 00 00 FF 00 1A 00 42 03 11 04 3F
+ASCII: LZ.........B...?..M.N.O....V..............u...............u..7/.
+
+Archivo: ROUND3.M2
+Tamaño: 1308 bytes
+SHA-256: 2f8ad7c951d6557f2136856d01cef6739ceaa0c3ef6f4995d1e6a1f4dccbb04e
+Primeros 16 bytes: 4C 5A 1A 61 0D 00 00 FF 00 1A 00 41 03 10 04 3F
+ASCII: LZ.a.......A...?....P.z.....................u..............o...7
+
+Archivo: ROUND4.M
+Tamaño: 3359 bytes
+SHA-256: 7a53294047961ecec57b2c3823cf69eb07a6816fa4ef30845c5508df50c664d7
+Primeros 16 bytes: 4C 5A 1A A8 21 00 00 FF 00 1A 00 15 03 71 09 AA
+ASCII: LZ..!........q..........M..... . ..........Q..r...........s.I.wP
+
+Archivo: ROUND4.M2
+Tamaño: 3785 bytes
+SHA-256: 3b0b86776a635bacb07f75d57d8bd005e40a7f5d9c03805505c55ab37ba7ef52
+Primeros 16 bytes: 4C 5A 1A 03 29 00 00 FF 00 1A 00 27 03 E9 0B 30
+ASCII: LZ..)......'...0..:.9...S.....'.'..'.'.?./..O........t.c........
+
+Archivo: ROUND5.M
+Tamaño: 2193 bytes
+SHA-256: e153c2d499705253f205c7a03ffce1a297f3bb4677ff605341a5c268b19f5979
+Primeros 16 bytes: 4C 5A 1A 21 18 00 00 FF 00 1A 00 4E 03 7C 07 AC
+ASCII: LZ.!.......N.|.............|..............u..................w..
+
+Archivo: ROUND5.M2
+Tamaño: 2639 bytes
+SHA-256: 2c948aae6a76ce9b31023321c10ba2d58aec973e926869bee7a229e5067b82ac
+Primeros 16 bytes: 4C 5A 1A BF 1C 00 00 FF 00 1A 00 59 03 87 07 83
+ASCII: LZ.........Y.................:.;.U..Y..<.........u..............
+
+Archivo: ROUND5_2.M
+Tamaño: 1371 bytes
+SHA-256: 0473bb572911db1b3c53a86e02597348e68985c5fcee26012ea843594e831afe
+Primeros 16 bytes: 4C 5A 1A 79 0B 00 00 FF 00 1A 00 10 05 ED 05 1A
+ASCII: LZ.y..............(.).*...................u....................O
+
+Archivo: ROUND5_2.M2
+Tamaño: 1833 bytes
+SHA-256: 88d729d18d52163b721f6c2297a155ab6658dc88ba7e9879828cf174cbd32e21
+Primeros 16 bytes: 4C 5A 1A 66 0F 00 00 FF 00 1A 00 B5 05 96 06 C7
+ASCII: LZ.f....................~..|.I.J.d..h..K.........u..............
+
+Archivo: ROUND6.M
+Tamaño: 1917 bytes
+SHA-256: 0a6792196cadeb7c1e64fc3ef7b682dfd5d808506000b0d856ab6d41494a329d
+Primeros 16 bytes: 4C 5A 1A 8C 10 00 00 FF 00 1A 00 FC 06 C9 07 D3
+ASCII: LZ........................... .!."..&........u.................w
+
+Archivo: ROUND6.M2
+Tamaño: 2606 bytes
+SHA-256: a9f0beeac1505d98311fc2a1c6e6b134a9a17d23742c1dc8956c5edd1477307c
+Primeros 16 bytes: 4C 5A 1A 33 17 00 00 FF 00 1A 00 EB 07 B8 08 C2
+ASCII: LZ.3..............K...&......F.G.a..e..H..........u.............
+
+Archivo: ROUND7.M
+Tamaño: 2303 bytes
+SHA-256: c4108832fedceb493e445939f3f3faa082fb91054d6ea75c022cc20c2acc0075
+Primeros 16 bytes: 4C 5A 1A B3 0F 00 00 FF 00 1A 00 E2 01 67 06 D6
+ASCII: LZ...........g..........)....N.O.P..T.........m.........4.i.h...
+
+Archivo: ROUND7.M2
+Tamaño: 2610 bytes
+SHA-256: 3a0f398aa37100601d1467905c9db428ede4008fd5225d5224b37a191b65be0b
+Primeros 16 bytes: 4C 5A 1A AA 13 00 00 FF 00 1A 00 C6 01 72 03 DC
+ASCII: LZ...........r......K............o.................m..........9.
+
+Archivo: ROUND8.M
+Tamaño: 1417 bytes
+SHA-256: 14fdf54d4d171314b0c7c9207ceb260b15afa0e184c17bf0556481ad7b30dfc2
+Primeros 16 bytes: 4C 5A 1A 8A 0F 00 00 FF 00 1A 00 F5 01 AC 03 40
+ASCII: LZ.............@...........G...........`.....h.j.......k.....W..
+
+Archivo: ROUND8.M2
+Tamaño: 1868 bytes
+SHA-256: e3daa6c39d82e4e2044b9d0d546af7c2cfbbfd0310f09daadae9d92d5da9424a
+Primeros 16 bytes: 4C 5A 1A 33 17 00 00 FF 00 1A 00 FE 01 BA 03 4E
+ASCII: LZ.3...........N...........b.....e..i..........`.....h.j........
+
+Archivo: ROUND9.M
+Tamaño: 1088 bytes
+SHA-256: fd40f8aa508774fb75b04c259cd03fc64398e2169c2784eb7a2ca480ee2b42be
+Primeros 16 bytes: 4C 5A 1A 8B 05 00 00 FF 00 1A 00 C9 00 5F 01 19
+ASCII: LZ..........._.............b..............w...........X..;......
+
+Archivo: ROUND9.M2
+Tamaño: 1362 bytes
+SHA-256: 5846207659d9f07d1ad1bb6cc55978f5f24e12d847b47bf0376a7d9167a57f06
+Primeros 16 bytes: 4C 5A 1A 61 08 00 00 FF 00 1A 00 D0 00 68 01 24
+ASCII: LZ.a.........h.$......R..........................w.........._...
+
+Archivo: RUSTY.FOT
+Tamaño: 1085 bytes
+SHA-256: b9400a8b05f79e8411947385d9f612a0eeed5dbb9807e61be99821423b5bcb10
+Primeros 16 bytes: 4C 5A 1A 1A 19 00 00 E7 BC 00 10 DC FF E1 FA 21
+ASCII: LZ.............!v.<.. ."vww .4.. .#3...B.Z....$3.UUB.|..G.%v....
+
+Archivo: RYOKO.MAG
+Tamaño: 25722 bytes
+SHA-256: 095daddaa03d7962b8e0674ddbd613c697d7fb0e844e2ea788f64372d5f7a09a
+Primeros 16 bytes: 4C 5A 1A A5 78 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..x...MAKI02  .MPS  Woo.dy-RINN ......EXE v.ersion 1..02......
+
+Archivo: SONTYO.MAG
+Tamaño: 25722 bytes
+SHA-256: 04455ca6962b7cca5e74a21c1a5a76ab340eb94c710e01fc8c7b3a06a3260c73
+Primeros 16 bytes: 4C 5A 1A 67 7B 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.g{...MAKI02  .MPS  .n..m..d .L.W....V...EX.E versio.n 1.02..}
+
+Archivo: STAFF1.MGX
+Tamaño: 6481 bytes
+SHA-256: 3de23a5c05c0d7e0f8ee097a4c18cc49039f90bcea0a03d057902967ff5dd5c1
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 88 00 A8
+ASCII: MAKI02A .............P...P.......P..............................
+
+Archivo: STAFF2.MGX
+Tamaño: 36361 bytes
+SHA-256: b81be151baa33b569bd7af9553abda3c0c267dc244a2aeea93e76a4a988f1f4e
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 88 00 82
+ASCII: MAKI02A .............P...P....(...*.............................
+
+Archivo: STAFF3.MGX
+Tamaño: 36729 bytes
+SHA-256: 275248682a4c8db7e39410b141a520411bfca53e0d517cc4f163416b6adb344b
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 88 00 82
+ASCII: MAKI02A .............P...P....(...*.............................
+
+Archivo: STAFF4.MGX
+Tamaño: 30425 bytes
+SHA-256: 7853c3d36b9fa7ce0beb2925a6fddfcf00986bc97b63d8d1ed9bb01a332d55b2
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 B0 00 82
+ASCII: MAKI02A .............P...P....(...*.............................
+
+Archivo: STAFF5.MGX
+Tamaño: 24985 bytes
+SHA-256: 4afbb630ab289c3868e5d624fde0897f822364ba851b3d28a8266b0848a43267
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 88 00 96
+ASCII: MAKI02A .............P...P....(...*.............................
+
+Archivo: STAFF6.MGX
+Tamaño: 18145 bytes
+SHA-256: a4108be01dd2b759182bb70d31008b08e01cd2defe2893c5867208461e64558b
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 88 00 A8
+ASCII: MAKI02A .............P...P....(...*.............................
+
+Archivo: STAFF7.MGX
+Tamaño: 17689 bytes
+SHA-256: 3e9e923e5de7431d7873923f1ed9333a3dde626f5289ccdf2df02cd21759ba8e
+Primeros 16 bytes: 4D 41 4B 49 30 32 41 20 1A 00 00 00 00 E8 00 9E
+ASCII: MAKI02A .............P...P....(...*.............................
+
+Archivo: STORY1.COM
+Tamaño: 15136 bytes
+SHA-256: bd788fdf30991cb19b4acf197408eddf17d8d76d4a2e62addeccf359fca15483
+Primeros 16 bytes: 4C 5A 1A 87 34 00 00 FF E6 07 6E 08 F3 05 9E 09
+ASCII: LZ..4.....n........S......(...}........9..........9....,. ....).
+
+Archivo: STORY10.COM
+Tamaño: 11932 bytes
+SHA-256: bbdefc24c9133c8be881bf4d012e3ff0db782ee2e18fc80c562463563caf14b5
+Primeros 16 bytes: 4C 5A 1A 67 29 00 00 FF EA 0A F1 0B 0D 06 4C 0F
+ASCII: LZ.g).........L......0....<.....e............................. .
+
+Archivo: STORY2.COM
+Tamaño: 15496 bytes
+SHA-256: 0187f45c8e8dce9ab81bebab03d05bdf9404df015c7a18e8ead8ab76e900094f
+Primeros 16 bytes: 4C 5A 1A C1 35 00 00 FF 5A 09 B6 0B 2F 06 42 0C
+ASCII: LZ..5...Z.../.B....|......+...B.-........R..8........b.O........
+
+Archivo: STORY3.COM
+Tamaño: 16036 bytes
+SHA-256: bdeacce91c2d4a7060b54d7bffce79262449831763952849145063fdcbc0354c
+Primeros 16 bytes: 4C 5A 1A A5 37 00 00 FF 02 08 8A 08 CF 05 28 09
+ASCII: LZ..7.........(......!......................%..........,........
+
+Archivo: STORY4.COM
+Tamaño: 11950 bytes
+SHA-256: 8de4cf2b5c136f9a2cd361cea1385f970d9283c3d12074eca88690871f0b79d4
+Primeros 16 bytes: 4C 5A 1A 74 29 00 00 FF 23 08 AC 08 D9 05 4D 09
+ASCII: LZ.t)...#.....M......#...................5..r........3.2........
+
+Archivo: STORY5.COM
+Tamaño: 16027 bytes
+SHA-256: e35b874283526a7204e66b89a724784266ebe06c35dde6a6444f5e77563cbd4e
+Primeros 16 bytes: 4C 5A 1A 9E 37 00 00 FF 1F 09 05 0A 11 06 06 0A
+ASCII: LZ..7..............`.l.C..........._........,...................
+
+Archivo: STORY6.COM
+Tamaño: 8746 bytes
+SHA-256: 638dda61768c2f7158ae5182142b7925da0df81a878ea66bcc2604a087d0f859
+Primeros 16 bytes: 4C 5A 1A 51 1E 00 00 FF E9 08 79 09 FD 05 4D 0A
+ASCII: LZ.Q......y...M........................?....".....b...."........
+
+Archivo: STORY7.COM
+Tamaño: 10087 bytes
+SHA-256: a5a79c1ef89cb2d2d0d1b92853ce5101ceb576f4430a9c2a22d3c58f69be5add
+Primeros 16 bytes: 4C 5A 1A FA 22 00 00 FF DB 07 9B 08 C1 05 F3 08
+ASCII: LZ.."...........................................................
+
+Archivo: STORY8.COM
+Tamaño: 9214 bytes
+SHA-256: ebb200123e503c5d787359c764374910b520b372d2681d6b87824d3068dbb25f
+Primeros 16 bytes: 4C 5A 1A F7 1F 00 00 FF C1 09 5E 0A DF 05 6E 0B
+ASCII: LZ........^...n......:.............&........1.:........p........
+
+Archivo: STORY9.COM
+Tamaño: 15208 bytes
+SHA-256: 6317af57f5a0716ae5f1b3e01ce4b98ab51392f1a1230a123eeb9e1df093734f
+Primeros 16 bytes: 4C 5A 1A C3 34 00 00 FF CC 0B 54 0C F3 05 F5 0C
+ASCII: LZ..4.....T..........:....V.....;...........9...Z......9...:....
+
+Archivo: SYS_DISK
+Tamaño: 3 bytes
+SHA-256: 6f864b1705ae269c03903f630181ca89b5372a25f0d17147bc9d98a5c84f72be
+Primeros 16 bytes: 0D 0A 1A
+ASCII: ...
+
+Archivo: TITLE.MAG
+Tamaño: 11304 bytes
+SHA-256: a9ab88e1090d8d2deb0f4229615227600f77475ff54ac916eb509d208057cffd
+Primeros 16 bytes: 4C 5A 1A 3D 57 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.=W...MAKI02  .MPS  .n..m..d .L.W....V...EX.E versio.n 1.02..}
+
+Archivo: TOOLS/CDDRV.SYS
+Tamaño: 3287 bytes
+SHA-256: 050a9dd1f281a166467c317b83af96ee4eb1e1848be5e34dca18d58f6537709f
+Primeros 16 bytes: FF FF FF FF 00 C8 B6 01 C1 01 20 20 20 20 20 20
+ASCII: ..........        ..............................................
+
+Archivo: TOOLS/CDSD.SYS
+Tamaño: 3330 bytes
+SHA-256: 42ed4b75da168fd0ab0e2c4dbbcef9be1035eb35545ee2b0a04e2162f4ee3d95
+Primeros 16 bytes: FF FF FF FF 00 C8 B6 01 C1 01 20 20 20 20 20 20
+ASCII: ..........        ..............................................
+
+Archivo: TOOLS/CDSDMINI.SYS
+Tamaño: 1683 bytes
+SHA-256: 2eed1fc75b98c60f8673203b821be32b8fa3f3e0ea2dbf2867250d8c17c31b8e
+Primeros 16 bytes: FF FF FF FF 00 C8 F2 00 FD 00 20 20 20 20 20 20
+ASCII: ..........        ................*.......TTTTTTTTTTTTSSSSSSSSSS
+
+Archivo: TOOLS/CDX.SYS
+Tamaño: 162 bytes
+SHA-256: 2f4e97eb5e99c25269a2aa65265721c84d759cfd6cdb2d51a0a5790a1c8ceb25
+Primeros 16 bytes: FF FF FF FF 00 C8 1A 00 25 00 20 20 20 20 20 20
+ASCII: ........%.        .............................&....t....&.....&
+
+Archivo: TOOLS/EMUMB.DOC
+Tamaño: 21762 bytes
+SHA-256: 07efa2b8237ca6b1c2ca3d72e4b1abeb9a3a0b62dbe6eda4a096eac9edc70379
+Primeros 16 bytes: 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D
+ASCII: ================================================================
+
+Archivo: TOOLS/EMUMB.SYS
+Tamaño: 1817 bytes
+SHA-256: 7ceb3d4a15755a3ca193e3ac88429fcac70b34e997310d672b012b8433d472d7
+Primeros 16 bytes: FF FF FF FF 00 80 16 00 21 00 45 4D 55 4D 42 56
+ASCII: ........!.EMUMBV12...............`..............u......g.......G
+
+Archivo: TOOLS/EMUMB386.SYS
+Tamaño: 1798 bytes
+SHA-256: df8ce6bd0c2bcf61d5e23853d958933276eaf60a4a5ef3b9dbb901c99c30ceb8
+Primeros 16 bytes: FF FF FF FF 00 80 16 00 21 00 45 4D 55 4D 42 58
+ASCII: ........!.EMUMBX12...............`..............u..............G
+
+Archivo: TOOLS/EMUMBX.SYS
+Tamaño: 1848 bytes
+SHA-256: e4e4fae07adf28cc1c917fb1854dba7622dbfac0b79237a135ebbda3596d1856
+Primeros 16 bytes: FF FF FF FF 00 80 16 00 21 00 45 4D 55 4D 42 58
+ASCII: ........!.EMUMBX12...............`..............u..............G
+
+Archivo: TOOLS/NECCD.SYS
+Tamaño: 17616 bytes
+SHA-256: 42be4477cde60d53e6d210769d8310f1acf17348e0ee062c70006b14e3dcc3c4
+Primeros 16 bytes: FF FF FF FF 00 C8 D9 02 E4 02 43 44 5F 31 30 31
+ASCII: ..........CD_101  ..............................................
+
+Archivo: TOOLS/NECCDB.SYS
+Tamaño: 9000 bytes
+SHA-256: c67b82d8300e37f38b7721b1e02318b60a562496fee38d0faf49f831042a330b
+Primeros 16 bytes: FF FF FF FF 00 C8 4C 04 57 04 43 44 5F 31 30 31
+ASCII: ......L.W.CD_101  ....Ver2.21 CD-ROM M2.21......................
+
+Archivo: TOOLS/NECCDD.SYS
+Tamaño: 17616 bytes
+SHA-256: 42be4477cde60d53e6d210769d8310f1acf17348e0ee062c70006b14e3dcc3c4
+Primeros 16 bytes: FF FF FF FF 00 C8 D9 02 E4 02 43 44 5F 31 30 31
+ASCII: ..........CD_101  ..............................................
+
+Archivo: TOOLS/NECCDJ.SYS
+Tamaño: 6500 bytes
+SHA-256: f7a07fad64116e9ef47eeb6f138bbe08f09fd2c2314254a297f587c56d774869
+Primeros 16 bytes: FF FF FF FF 00 C8 0D 03 18 03 43 44 5F 31 30 31
+ASCII: ..........CD_101  ....Ver2.21 CD-ROM M2.21......................
+
+Archivo: TOOLS/NECCDK.SYS
+Tamaño: 24089 bytes
+SHA-256: 7adeab08bce9e5bb6ef408a2c1abcd08ebe1973bfbbaa02cde39c7c8afe8dd82
+Primeros 16 bytes: FF FF FF FF 00 C8 71 00 21 00 43 44 5F 31 30 31
+ASCII: ......q.!.CD_101  .......................&...........~5..U..WVPS
+
+Archivo: TOOLS/NECCDM.SYS
+Tamaño: 24369 bytes
+SHA-256: 45cb4177a2064b459ee6d7c006140aba558fa0e793150ef4831a1cd5ec46d00d
+Primeros 16 bytes: FF FF FF FF 00 C8 C0 00 48 00 43 44 5F 31 30 31
+ASCII: ........H.CD_101  ....CD_101  ..            .                ...
+
+Archivo: TOOLS/QMOUSE.COM
+Tamaño: 5367 bytes
+SHA-256: faf1df8550583032bf9849136d023f0bd476f1b74d7c6c115820f8dd112d28ab
+Primeros 16 bytes: E9 80 09 E4 A0 A8 08 75 FA 8A C3 C0 E8 02 F9 D0
+ASCII: .......u............|.....~.....~.....~.....~...............Q..D
+
+Archivo: TOOLS/QMOUSE.MAN
+Tamaño: 12822 bytes
+SHA-256: 44e47cef6bcdb2d959eaeb825fcf7f1f61a14e17f5f761fe08de266c5d0d2c93
+Primeros 16 bytes: 0D 0A 0D 0A 0D 0A 0D 0A 20 20 20 20 20 20 20 20
+ASCII: ........             ...........................................
+
+Archivo: TOOLS/QMOUSE2.COM
+Tamaño: 5859 bytes
+SHA-256: 6ce6cb8ec559e6d75f7f8228b92fd8f48f3c68cb5510293f62958eb2bb53df54
+Primeros 16 bytes: E9 84 0A E4 A0 A8 08 75 FA 8A C3 C0 E8 02 F9 D0
+ASCII: .......u............|.....~.....~.....~.....~...............Q..D
+
+Archivo: TOOLS/VEM486.DOC
+Tamaño: 13344 bytes
+SHA-256: 2b8c3d460fe5c77c9503cd007c14071421ce8050a9dc0e3c3d17f98ad1f95312
+Primeros 16 bytes: 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D
+ASCII: ================================================================
+
+Archivo: TOOLS/VEM486.EXE
+Tamaño: 61455 bytes
+SHA-256: 4bc719eacf6387a54f2425aefd82050476f922913192f77d0f9e24885820628b
+Primeros 16 bytes: 4D 5A 0F 00 79 00 13 00 20 00 01 04 FF FF 00 00
+ASCII: MZ..y... ...............>......Pjr............................T.
+
+Archivo: TOOLS/VEM486.HED
+Tamaño: 1308 bytes
+SHA-256: f6bfca31addf351bc2104d4ba75d4bc3a42decc2ecacc2c97c4dd48470dbf86f
+Primeros 16 bytes: 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D
+ASCII: ================================================================
+
+Archivo: TOOLS/VEMEMM.SYS
+Tamaño: 2215 bytes
+SHA-256: 672f9c9678061fcaad5b453538488b64660fa11b5ef3eea809376b56e558038e
+Primeros 16 bytes: FF FF FF FF 00 C0 62 00 16 00 45 4D 4D 58 58 58
+ASCII: ......b...EMMXXXX0.....`.......G...u..L.<.w.+.........G..a...g..
+
+Archivo: TOOLS/VEMHSB.SYS
+Tamaño: 406 bytes
+SHA-256: 72c7a2222a994aac5523dfd723544609a07dd6dff9bfb6b43a1b4be6e27a1751
+Primeros 16 bytes: FF FF FF FF 00 80 3C 00 16 00 56 45 4D 5F 48 53
+ASCII: ......<...VEM_HSB_.....`.......G...u.. .<.w.+.........G..a......
+
+Archivo: TOOLS/VEMRSM.SYS
+Tamaño: 772 bytes
+SHA-256: 48ce36a0c8483584239241412707f67d8635648421595cf31f59befaaae1f64b
+Primeros 16 bytes: FF FF FF FF 00 80 37 01 16 00 56 45 4D 69 6E 74
+ASCII: ......7...VEMint1F.....`.......G...u......<.w...+.........G..a..
+
+Archivo: VISUAL.COM
+Tamaño: 20239 bytes
+SHA-256: acedd7a97c5e5aef355985f5a746ba33d7568a8e60c4ec044b9c6be59891f33d
+Primeros 16 bytes: 4C 5A 1A 3E 46 00 00 FF 70 00 7B 00 86 00 91 00
+ASCII: LZ.>F...p.{............P....0...0....0...0X.....0.P...6.0.....0.
+
+Archivo: VISUAL1.M
+Tamaño: 507 bytes
+SHA-256: bdfac1436de4dbcaa11a0e1cd12fa91b541f5867424b15d8dd79c4105e34feef
+Primeros 16 bytes: 4C 5A 1A 7F 02 00 00 FF 00 1A 00 53 00 8A 00 C3
+ASCII: LZ.........S............4..|.1.2.3..7........(.f.........>..${@<
+
+Archivo: VISUAL1.M2
+Tamaño: 662 bytes
+SHA-256: ab82169473954348c3c80e61bf6806cd17f6fa8bd027c36f37e40821599cb132
+Primeros 16 bytes: 4C 5A 1A 50 03 00 00 FF 00 1A 00 5A 00 91 00 CA
+ASCII: LZ.P.......Z........:.|...........................(.f..........E
+
+Archivo: VISUAL2.M
+Tamaño: 442 bytes
+SHA-256: 6b4a5b393505212f70960af375fe2452f40dd916e75b232a8091b5276d208d33
+Primeros 16 bytes: 4C 5A 1A 0A 02 00 00 FF 00 1A 00 7F 00 E9 00 FF
+ASCII: LZ......................]....................-.i................
+
+Archivo: VISUAL2.M2
+Tamaño: 569 bytes
+SHA-256: 4809ff3cf6a046eb4416bba72c72a3bf57aa2f14f42409603f29e6195d40eb34
+Primeros 16 bytes: 4C 5A 1A E4 02 00 00 FF 00 1A 00 86 00 F0 00 06
+ASCII: LZ................I........U.V.W.y.....`..........-.i...........
+
+Archivo: VISUAL3.M
+Tamaño: 709 bytes
+SHA-256: c886c90493e698d264f9cc30c5a8db40f11fbac10f0917fbbca7f6b7936625e9
+Primeros 16 bytes: 4C 5A 1A 2B 04 00 00 FF 00 1A 00 9B 00 DF 00 74
+ASCII: LZ.+...........t..&.'.(.f....................u...........A.o....
+
+Archivo: VISUAL3.M2
+Tamaño: 888 bytes
+SHA-256: 1b293ba8ddb3f5571edf6ccc4b16de5ee945e96a4962326b7c57a15916c4a0c9
+Primeros 16 bytes: 4C 5A 1A 7E 05 00 00 FF 00 1A 00 A4 00 EA 00 81
+ASCII: LZ.~.......................'.b.c.......d..........u.............
+
+Archivo: VISUAL4.M
+Tamaño: 1610 bytes
+SHA-256: 2270cf7824c0838420672388d76faa0b0f4b3ffaa5c76ac8acfb521ef66b29c3
+Primeros 16 bytes: 4C 5A 1A D0 0A 00 00 FF 00 1A 00 C1 02 37 04 07
+ASCII: LZ...........7...................<..:.........i...............+.
+
+Archivo: VISUAL4.M2
+Tamaño: 2031 bytes
+SHA-256: abc27b183b42ce527f4a3bbf3216c4817987f49f2b22489c35165ceecc74ae1a
+Primeros 16 bytes: 4C 5A 1A 77 0D 00 00 FF 00 1A 00 C5 02 3D 04 19
+ASCII: LZ.w.........=......R.P....9.F.G.{..y...........i...............
+
+Archivo: VOICES.PPL
+Tamaño: 686863 bytes
+SHA-256: e80428b52c5c488007d3b19566a57e9365cd267d34f4f9c2eb75f41708d8cb06
+Primeros 16 bytes: 4C 5A 1A A0 ED 0F 00 FD 77 EE F0 88 78 88 88 89
+ASCII: LZ......w...x......C6..eg...Vx..fw...vx.....g.....y...7..uv3y..p
+
+Archivo: VOICES.PPT
+Tamaño: 288 bytes
+SHA-256: c41ccf6113a0ecffda02c28bbb20696655f02b1c5ffa8e28408b9fc0d66a8007
+Primeros 16 bytes: 00 00 E1 35 5F 03 1C 31 71 06 09 24 B2 08 06 12
+ASCII: ...5_..1q..$......XWI..;..@>..E*...)+..*... . ..~".j+)e*.+.GM0I.
+
+Archivo: VS1.ANI
+Tamaño: 13699 bytes
+SHA-256: dcc418684550a25fadf12081ee7b47ab8624f74c371deb82e53bcbdb0c2897f0
+Primeros 16 bytes: 4C 5A 1A 88 7C 00 00 FF 5A 00 A0 02 E6 04 2C 07
+ASCII: LZ..|...Z.....,....8...d............".#.$.%..&.'.(.+.2..0.3.6..9
+
+Archivo: VS1_00.MAG
+Tamaño: 41594 bytes
+SHA-256: 5784fc6e0aa505abb10d5fde44c65d2543d8aae9b84840988146cde001a0c41d
+Primeros 16 bytes: 4C 5A 1A 3E BC 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.>....MAKI02  .Magd rk .....Save v.ersion 1..04.....O..P..p...
+
+Archivo: VS1_01.MAG
+Tamaño: 5774 bytes
+SHA-256: f8643a51b8400e3d6bb2b855a4920e8b33f7fe5411346ad7e4f4f0e089615ff0
+Primeros 16 bytes: 4C 5A 1A C2 19 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04...?....P.. ...
+
+Archivo: VS1_02.MAG
+Tamaño: 4026 bytes
+SHA-256: b6a6ef838cd2ac043a2529ffd826288a9384af335599f429d967a6b091839dce
+Primeros 16 bytes: 4C 5A 1A 58 11 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.X....MAKI02  .Magd rk .....Save v.ersion 1..04........P..H...
+
+Archivo: VS1_03.MAG
+Tamaño: 6548 bytes
+SHA-256: 5bf0b4ef6d4a8a8f8708e05571a8a83f3b9f224fe6b92276294c9de387d10d50
+Primeros 16 bytes: 4C 5A 1A 1E 1D 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04........P......
+
+Archivo: VS1_04.MAG
+Tamaño: 5647 bytes
+SHA-256: 71ee834f0504c465fe61892937c13fdefdda15cd30946562ddbf40a32d8d5561
+Primeros 16 bytes: 4C 5A 1A 90 19 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04........P......
+
+Archivo: VS2.ANI
+Tamaño: 2119 bytes
+SHA-256: 09c2f94e77855959f83f535b3a9ef46bdef66c3fd35e84c0a2fb0ab091b0c565
+Primeros 16 bytes: 4C 5A 1A 30 12 00 00 FF 0C 00 92 04 18 09 9E 0A
+ASCII: LZ.0.............$........ .8......<..8.......8.................
+
+Archivo: VS2_00.MAG
+Tamaño: 52292 bytes
+SHA-256: 5586c290d28925450e457c13718718f02b327a304dc3e5cf7d22210014804a2c
+Primeros 16 bytes: 4C 5A 1A 6C F2 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.l....MAKI02  .Magd rk .....Save v.ersion 1..04.....O..P..p...
+
+Archivo: VS2_01.MAG
+Tamaño: 7340 bytes
+SHA-256: 8ae99e413864322636db24e7804bba2ac11d7985f71e4937bff66cb92d9928f4
+Primeros 16 bytes: 4C 5A 1A 04 1F 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04..........P..x.
+
+Archivo: VS2_02.MAG
+Tamaño: 7255 bytes
+SHA-256: a81cf62f39121c1227ddb2bf2f425220a2b8520f75fd3b57259960a61830074c
+Primeros 16 bytes: 4C 5A 1A 7A 20 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.z ...MAKI02  .Magd rk .....Save v.ersion 1..04........P..\...
+
+Archivo: VS3.ANI
+Tamaño: 4869 bytes
+SHA-256: 8d705cfd50b2937928da2c37235b3bf393f33fb7319d14582e7b887c5a14c8af
+Primeros 16 bytes: 4C 5A 1A A0 2A 00 00 FF 08 00 4E 12 94 24 9A 27
+ASCII: LZ..*.....N..$.'..........0.B.T..f.x......................@.....
+
+Archivo: VS3_10.MAG
+Tamaño: 26834 bytes
+SHA-256: 800a3b88b54d3f58a2c4e67ca89a98ace2b044febac3e6d44d64a82a8a162d29
+Primeros 16 bytes: 4C 5A 1A 82 83 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04...p.@....O.P..
+
+Archivo: VS3_11.MAG
+Tamaño: 1925 bytes
+SHA-256: 3a389583de2fb8b809a2d94ed8ddd430f7b4086fba326909237e634c24935dba
+Primeros 16 bytes: 4C 5A 1A AC 07 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04......__...P...
+
+Archivo: VS3_12.MAG
+Tamaño: 2343 bytes
+SHA-256: ab7bb942c42fd114f5ab0da3eb81f92977c8414bf25ed461cafcc34ea67ca485
+Primeros 16 bytes: 4C 5A 1A 82 09 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04...@.p......P..
+
+Archivo: VS3_13.MAG
+Tamaño: 4188 bytes
+SHA-256: 04ccd629a30005e0349fcd390deeac5794af0bf9dc5ebf05325e24984bb4506c
+Primeros 16 bytes: 4C 5A 1A 08 12 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04.....X..G...P..
+
+Archivo: VS3_14.MAG
+Tamaño: 4616 bytes
+SHA-256: a20c479e400e52ede40630fa8c58ed0a3166a1f121605dae2edcd7e161c78bcb
+Primeros 16 bytes: 4C 5A 1A 58 14 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.X....MAKI02  .Magd rk .....Save v.ersion 1..04..........'.P..
+
+Archivo: VS3_20.MAG
+Tamaño: 6228 bytes
+SHA-256: 9668ef76394db4f60a0b2ed1880306a5d53c91d100aecc004ed938dd4e388e81
+Primeros 16 bytes: 4C 5A 1A E2 1E 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04.......o.O.P...
+
+Archivo: VS3_3.MAG
+Tamaño: 29244 bytes
+SHA-256: e350edd4daf559fc184daa83b2fa7678c1ca0095b7c8d81c2718e6fde4f35c7d
+Primeros 16 bytes: 4C 5A 1A 6A 88 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.j....MAKI02  .Magd rk .....Save v.ersion 1..04...P.0../._.P..
+
+Archivo: VS4.ANI
+Tamaño: 8460 bytes
+SHA-256: 83a198479f4d2f0965b59a740ea85c89cdb9887b6af526e0e819eb7393620406
+Primeros 16 bytes: 4C 5A 1A 68 4B 00 00 FF 22 00 A8 03 2E 07 34 0E
+ASCII: LZ.hK...".....4..:.@.. .#..'.,.1.6..8p:V<\A.bF.... ..q...p......
+
+Archivo: VS4_00.MAG
+Tamaño: 41335 bytes
+SHA-256: d8cf97f5fcdf326f456ec9cb6e0f92736aeeb7ff5888a271c72cf68fa452d2fc
+Primeros 16 bytes: 4C 5A 1A AA BC 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04.....O..P..p...
+
+Archivo: VS4_01.MAG
+Tamaño: 5255 bytes
+SHA-256: 35f46bb233c744b82d61a3b01e67f15e784d34d72af5781770caf52f7d296c25
+Primeros 16 bytes: 4C 5A 1A 3E 17 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.>....MAKI02  .Magd rk .....Save v.ersion 1..04........P......
+
+Archivo: VS4_02.MAG
+Tamaño: 7682 bytes
+SHA-256: e75c8766cfcdaaa959c4a2a2ea3481b1f159efcfe88720f7b579d8d39469eb91
+Primeros 16 bytes: 4C 5A 1A C6 21 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..!...MAKI02  .Magd rk .....Save v.ersion 1..04........P......
+
+Archivo: VS5.ANI
+Tamaño: 6375 bytes
+SHA-256: 1a26020992175f78b02466ff8acb4ce2d574fd965de5ac533f09c58056e390e8
+Primeros 16 bytes: 4C 5A 1A 80 37 00 00 FF 18 00 9E 07 24 0F AA 16
+ASCII: LZ..7.......$..........b%..+.0.2:5.....(..o...Oz.....8......P...
+
+Archivo: VS5_00.MAG
+Tamaño: 42487 bytes
+SHA-256: 33d3e51f8e483d92bab2fff4fe8662b5e370a2a58788788d7c411fc436286bdd
+Primeros 16 bytes: 4C 5A 1A FA C2 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04.....O..P..p...
+
+Archivo: VS5_01.MAG
+Tamaño: 9574 bytes
+SHA-256: 6a96f2c52347a3904fe4f56065fbd603826457c27346bb9016703205e8c9aa93
+Primeros 16 bytes: 4C 5A 1A 92 2C 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..,...MAKI02  .Magd rk .....Save v.ersion 1..04........P......
+
+Archivo: VS5_02.MAG
+Tamaño: 14880 bytes
+SHA-256: 2c6f5abad654e7f938dac6d90fd6c6712d60421c348fddbd90ec029d24b9f24b
+Primeros 16 bytes: 4C 5A 1A 10 41 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..A...MAKI02  .Magd rk .....Save v.ersion 1..04...........P...
+
+Archivo: VS6.ANI
+Tamaño: 1576 bytes
+SHA-256: a721d8f4208e009aba80fa3e06ea4411b04c0e05a9b2a306cdf97912178eed36
+Primeros 16 bytes: 4C 5A 1A 70 0B 00 00 FF 0C 00 B2 02 58 05 FE 07
+ASCII: LZ.p........X....$.J...............W...+..K...EK..-...`.......b.
+
+Archivo: VS6_00.MAG
+Tamaño: 53223 bytes
+SHA-256: 83c848d67b2c3125f185e3564cfb25c3d0f9108e4de5e99b473a50c42bc421d1
+Primeros 16 bytes: 4C 5A 1A D8 F0 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04.....O..P..p...
+
+Archivo: VS6_01.MAG
+Tamaño: 7949 bytes
+SHA-256: 367d5c42b60e27e12636354188872a1a0fe1bcbca9a93cf56b44f69d65cf176c
+Primeros 16 bytes: 4C 5A 1A 32 22 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ.2"...MAKI02  .Magd rk .....Save v.ersion 1..04........P..<...
+
+Archivo: VS6_02.MAG
+Tamaño: 13200 bytes
+SHA-256: c32cd9c1ff0d0c01ea90449278f0fc28df06ed7726d39453295dc02e42e72b13
+Primeros 16 bytes: 4C 5A 1A D0 3B 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ..;...MAKI02  .Magd rk .....Save v.ersion 1..04...........P...
+
+Archivo: VS6_03.MAG
+Tamaño: 3701 bytes
+SHA-256: bec2364e34cdefa51d3fc1cf78b78e7e67cd5e2a88d896a836bf5413c3471d0e
+Primeros 16 bytes: 4C 5A 1A A4 10 00 00 FF 4D 41 4B 49 30 32 20 20
+ASCII: LZ......MAKI02  .Magd rk .....Save v.ersion 1..04....._..P......
+
+Archivo: VSENDING.ANI
+Tamaño: 14622 bytes
+SHA-256: d1cbf15d3bd2016bd1c36eda737e4f9f236ca3ca1c8ef8f59670c42591600fc0
+Primeros 16 bytes: 4C 5A 1A 68 97 00 00 FF 2A 00 F0 03 B6 07 7C 0B
+ASCII: LZ.h....*.....|................%.-..5.D.S.b..q....\....%...(....

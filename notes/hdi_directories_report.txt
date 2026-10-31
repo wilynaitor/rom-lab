@@ -1,0 +1,56 @@
+INSPECCIÓN DE DIRECTORIOS HDI
+Imagen: samples\rusty\rusty.hdi
+Volumen: 0x9400
+Tamaño de cluster: 4096
+Cluster máximo: 2467
+
+CARPETA: DOS
+Cluster inicial: 44
+Atributos: 0x10
+Cadena: [44]
+Clusters: 1
+  ARCHIVO: AVGDRV.EXE | cluster=45 | tamaño=26184 | atributos=0x20
+  ARCHIVO: AVGDRV.SYS | cluster=52 | tamaño=26184 | atributos=0x20
+  ARCHIVO: AVSDRV.EXE | cluster=59 | tamaño=48048 | atributos=0x20
+  ARCHIVO: AVSDRV.SYS | cluster=71 | tamaño=48048 | atributos=0x20
+  ARCHIVO: EMM.SYS | cluster=83 | tamaño=14149 | atributos=0x20
+  ARCHIVO: EMM386.EXE | cluster=87 | tamaño=116830 | atributos=0x20
+  ARCHIVO: EXTDSWAP.SYS | cluster=116 | tamaño=44510 | atributos=0x20
+  ARCHIVO: HIMEM.SYS | cluster=127 | tamaño=27424 | atributos=0x20
+  ARCHIVO: MEM.EXE | cluster=134 | tamaño=32329 | atributos=0x20
+  ARCHIVO: MOUSE.COM | cluster=142 | tamaño=21166 | atributos=0x20
+  ARCHIVO: MOUSE.SYS | cluster=148 | tamaño=9791 | atributos=0x20
+  ARCHIVO: MOVE.EXE | cluster=151 | tamaño=18871 | atributos=0x20
+  ARCHIVO: MSCDEX.EXE | cluster=156 | tamaño=25767 | atributos=0x20
+  ARCHIVO: SEDIT.EXE | cluster=163 | tamaño=31088 | atributos=0x20
+Entradas encontradas: 14
+
+CARPETA: TOOLS
+Cluster inicial: 171
+Atributos: 0x10
+Cadena: [171]
+Clusters: 1
+  ARCHIVO: CDDRV.SYS | cluster=172 | tamaño=3287 | atributos=0x20
+  ARCHIVO: CDSD.SYS | cluster=173 | tamaño=3330 | atributos=0x20
+  ARCHIVO: CDSDMINI.SYS | cluster=174 | tamaño=1683 | atributos=0x20
+  ARCHIVO: CDX.SYS | cluster=175 | tamaño=162 | atributos=0x20
+  ARCHIVO: EMUMB.DOC | cluster=176 | tamaño=21762 | atributos=0x20
+  ARCHIVO: EMUMB.SYS | cluster=182 | tamaño=1817 | atributos=0x20
+  ARCHIVO: EMUMB386.SYS | cluster=183 | tamaño=1798 | atributos=0x20
+  ARCHIVO: EMUMBX.SYS | cluster=184 | tamaño=1848 | atributos=0x20
+  ARCHIVO: NECCD.SYS | cluster=185 | tamaño=17616 | atributos=0x20
+  ARCHIVO: NECCDB.SYS | cluster=190 | tamaño=9000 | atributos=0x20
+  ARCHIVO: NECCDD.SYS | cluster=193 | tamaño=17616 | atributos=0x20
+  ARCHIVO: NECCDJ.SYS | cluster=198 | tamaño=6500 | atributos=0x20
+  ARCHIVO: NECCDK.SYS | cluster=200 | tamaño=24089 | atributos=0x20
+  ARCHIVO: NECCDM.SYS | cluster=206 | tamaño=24369 | atributos=0x20
+  ARCHIVO: QMOUSE.COM | cluster=212 | tamaño=5367 | atributos=0x20
+  ARCHIVO: QMOUSE.MAN | cluster=214 | tamaño=12822 | atributos=0x20
+  ARCHIVO: QMOUSE2.COM | cluster=218 | tamaño=5859 | atributos=0x20
+  ARCHIVO: VEM486.DOC | cluster=220 | tamaño=13344 | atributos=0x20
+  ARCHIVO: VEM486.EXE | cluster=224 | tamaño=61455 | atributos=0x20
+  ARCHIVO: VEM486.HED | cluster=240 | tamaño=1308 | atributos=0x20
+  ARCHIVO: VEMEMM.SYS | cluster=241 | tamaño=2215 | atributos=0x20
+  ARCHIVO: VEMHSB.SYS | cluster=242 | tamaño=406 | atributos=0x20
+  ARCHIVO: VEMRSM.SYS | cluster=243 | tamaño=772 | atributos=0x20
+Entradas encontradas: 23
