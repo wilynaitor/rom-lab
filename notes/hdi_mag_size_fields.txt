@@ -1,0 +1,80 @@
+PRUEBA DE CAMPOS NUMERICOS MAG
+======================================================================
+Archivos: 62
+
+Se comparan los bytes 0x03-0x06 con el tamaño real.
+No se presupone que sean campos de tamaño.
+
+FAMILIA: 'ESEQ'
+----------------------------------------------------------------------
+ED11.MAG         archivo= 30292 LE= 36544 BE= 49294 LE+7= 36551 LE+8= 36552 LE+16= 36560 byte5=00 byte6=00
+
+FAMILIA: 'MPS'
+----------------------------------------------------------------------
+CMASK0.MAG       archivo=   733 LE=  4421 BE= 17681 LE+7=  4428 LE+8=  4429 LE+16=  4437 byte5=00 byte6=00
+CMASK1.MAG       archivo=   808 LE=  4561 BE= 53521 LE+7=  4568 LE+8=  4569 LE+16=  4577 byte5=00 byte6=00
+CMASK2.MAG       archivo=   847 LE=  4583 BE= 59153 LE+7=  4590 LE+8=  4591 LE+16=  4599 byte5=00 byte6=00
+GATOO.MAG        archivo= 33664 LE= 40377 BE= 47517 LE+7= 40384 LE+8= 40385 LE+16= 40393 byte5=00 byte6=00
+GIRL1A.MAG       archivo= 16255 LE= 20775 BE= 10065 LE+7= 20782 LE+8= 20783 LE+16= 20791 byte5=00 byte6=00
+GIRL3A.MAG       archivo= 17567 LE= 21825 BE= 16725 LE+7= 21832 LE+8= 21833 LE+16= 21841 byte5=00 byte6=00
+GIRL6A.MAG       archivo= 14717 LE= 20551 BE= 18256 LE+7= 20558 LE+8= 20559 LE+16= 20567 byte5=00 byte6=00
+GIRL8A.MAG       archivo= 14404 LE= 18781 BE= 23881 LE+7= 18788 LE+8= 18789 LE+16= 18797 byte5=00 byte6=00
+MAP_D.MAG        archivo= 65162 LE= 12879 BE= 20274 LE+7= 12886 LE+8= 12887 LE+16= 12895 byte5=01 byte6=00
+MAP_U.MAG        archivo= 53015 LE= 63787 BE= 11257 LE+7= 63794 LE+8= 63795 LE+16= 63803 byte5=00 byte6=00
+MAPCAS.MAG       archivo= 20758 LE= 24797 BE= 56672 LE+7= 24804 LE+8= 24805 LE+16= 24813 byte5=00 byte6=00
+MARRY.MAG        archivo= 24627 LE= 29483 BE= 11123 LE+7= 29490 LE+8= 29491 LE+16= 29499 byte5=00 byte6=00
+MASK1.MAG        archivo=  2185 LE=  9123 BE= 41763 LE+7=  9130 LE+8=  9131 LE+16=  9139 byte5=00 byte6=00
+MASK2.MAG        archivo=  2699 LE=  9699 BE= 58149 LE+7=  9706 LE+8=  9707 LE+16=  9715 byte5=00 byte6=00
+MASK3.MAG        archivo=  3209 LE= 10341 BE= 25896 LE+7= 10348 LE+8= 10349 LE+16= 10357 byte5=00 byte6=00
+MASK4.MAG        archivo=  3035 LE= 10623 BE= 32553 LE+7= 10630 LE+8= 10631 LE+16= 10639 byte5=00 byte6=00
+MASK5.MAG        archivo=  3163 LE= 10995 BE= 62250 LE+7= 11002 LE+8= 11003 LE+16= 11011 byte5=00 byte6=00
+MASK6.MAG        archivo=  3510 LE= 10373 BE= 34088 LE+7= 10380 LE+8= 10381 LE+16= 10389 byte5=00 byte6=00
+MASK7.MAG        archivo=  2109 LE=  9127 BE= 42787 LE+7=  9134 LE+8=  9135 LE+16=  9143 byte5=00 byte6=00
+MASK8.MAG        archivo=  1093 LE=  4677 BE= 17682 LE+7=  4684 LE+8=  4685 LE+16=  4693 byte5=00 byte6=00
+RYOKO.MAG        archivo= 25722 LE= 30885 BE= 42360 LE+7= 30892 LE+8= 30893 LE+16= 30901 byte5=00 byte6=00
+SONTYO.MAG       archivo= 25722 LE= 31591 BE= 26491 LE+7= 31598 LE+8= 31599 LE+16= 31607 byte5=00 byte6=00
+TITLE.MAG        archivo= 11304 LE= 22333 BE= 15703 LE+7= 22340 LE+8= 22341 LE+16= 22349 byte5=00 byte6=00
+
+FAMILIA: 'Magd'
+----------------------------------------------------------------------
+ED01.MAG         archivo= 22475 LE= 29408 BE= 57458 LE+7= 29415 LE+8= 29416 LE+16= 29424 byte5=00 byte6=00
+ED02.MAG         archivo= 30003 LE= 34420 BE= 29830 LE+7= 34427 LE+8= 34428 LE+16= 34436 byte5=00 byte6=00
+ED03.MAG         archivo= 28399 LE= 32294 BE=  9854 LE+7= 32301 LE+8= 32302 LE+16= 32310 byte5=00 byte6=00
+ED04.MAG         archivo= 29309 LE= 33572 BE=  9347 LE+7= 33579 LE+8= 33580 LE+16= 33588 byte5=00 byte6=00
+ED05.MAG         archivo= 27153 LE= 31082 BE= 27257 LE+7= 31089 LE+8= 31090 LE+16= 31098 byte5=00 byte6=00
+ED06.MAG         archivo= 29198 LE= 34114 BE= 17029 LE+7= 34121 LE+8= 34122 LE+16= 34130 byte5=00 byte6=00
+ED07.MAG         archivo= 37835 LE= 41948 BE= 56483 LE+7= 41955 LE+8= 41956 LE+16= 41964 byte5=00 byte6=00
+ED08.MAG         archivo= 26936 LE= 30266 BE= 14966 LE+7= 30273 LE+8= 30274 LE+16= 30282 byte5=00 byte6=00
+ED09.MAG         archivo= 16337 LE= 20132 BE= 42062 LE+7= 20139 LE+8= 20140 LE+16= 20148 byte5=00 byte6=00
+ED10.MAG         archivo= 22193 LE= 26366 BE= 65126 LE+7= 26373 LE+8= 26374 LE+16= 26382 byte5=00 byte6=00
+VS1_00.MAG       archivo= 41594 LE= 48190 BE= 16060 LE+7= 48197 LE+8= 48198 LE+16= 48206 byte5=00 byte6=00
+VS1_01.MAG       archivo=  5774 LE=  6594 BE= 49689 LE+7=  6601 LE+8=  6602 LE+16=  6610 byte5=00 byte6=00
+VS1_02.MAG       archivo=  4026 LE=  4440 BE= 22545 LE+7=  4447 LE+8=  4448 LE+16=  4456 byte5=00 byte6=00
+VS1_03.MAG       archivo=  6548 LE=  7454 BE=  7709 LE+7=  7461 LE+8=  7462 LE+16=  7470 byte5=00 byte6=00
+VS1_04.MAG       archivo=  5647 LE=  6544 BE= 36889 LE+7=  6551 LE+8=  6552 LE+16=  6560 byte5=00 byte6=00
+VS2_00.MAG       archivo= 52292 LE= 62060 BE= 27890 LE+7= 62067 LE+8= 62068 LE+16= 62076 byte5=00 byte6=00
+VS2_01.MAG       archivo=  7340 LE=  7940 BE=  1055 LE+7=  7947 LE+8=  7948 LE+16=  7956 byte5=00 byte6=00
+VS2_02.MAG       archivo=  7255 LE=  8314 BE= 31264 LE+7=  8321 LE+8=  8322 LE+16=  8330 byte5=00 byte6=00
+VS3_10.MAG       archivo= 26834 LE= 33666 BE= 33411 LE+7= 33673 LE+8= 33674 LE+16= 33682 byte5=00 byte6=00
+VS3_11.MAG       archivo=  1925 LE=  1964 BE= 44039 LE+7=  1971 LE+8=  1972 LE+16=  1980 byte5=00 byte6=00
+VS3_12.MAG       archivo=  2343 LE=  2434 BE= 33289 LE+7=  2441 LE+8=  2442 LE+16=  2450 byte5=00 byte6=00
+VS3_13.MAG       archivo=  4188 LE=  4616 BE=  2066 LE+7=  4623 LE+8=  4624 LE+16=  4632 byte5=00 byte6=00
+VS3_14.MAG       archivo=  4616 LE=  5208 BE= 22548 LE+7=  5215 LE+8=  5216 LE+16=  5224 byte5=00 byte6=00
+VS3_20.MAG       archivo=  6228 LE=  7906 BE= 57886 LE+7=  7913 LE+8=  7914 LE+16=  7922 byte5=00 byte6=00
+VS3_3.MAG        archivo= 29244 LE= 34922 BE= 27272 LE+7= 34929 LE+8= 34930 LE+16= 34938 byte5=00 byte6=00
+VS4_00.MAG       archivo= 41335 LE= 48298 BE= 43708 LE+7= 48305 LE+8= 48306 LE+16= 48314 byte5=00 byte6=00
+VS4_01.MAG       archivo=  5255 LE=  5950 BE= 15895 LE+7=  5957 LE+8=  5958 LE+16=  5966 byte5=00 byte6=00
+VS4_02.MAG       archivo=  7682 LE=  8646 BE= 50721 LE+7=  8653 LE+8=  8654 LE+16=  8662 byte5=00 byte6=00
+VS5_00.MAG       archivo= 42487 LE= 49914 BE= 64194 LE+7= 49921 LE+8= 49922 LE+16= 49930 byte5=00 byte6=00
+VS5_01.MAG       archivo=  9574 LE= 11410 BE= 37420 LE+7= 11417 LE+8= 11418 LE+16= 11426 byte5=00 byte6=00
+VS5_02.MAG       archivo= 14880 LE= 16656 BE=  4161 LE+7= 16663 LE+8= 16664 LE+16= 16672 byte5=00 byte6=00
+VS6_00.MAG       archivo= 53223 LE= 61656 BE= 55536 LE+7= 61663 LE+8= 61664 LE+16= 61672 byte5=00 byte6=00
+VS6_01.MAG       archivo=  7949 LE=  8754 BE= 12834 LE+7=  8761 LE+8=  8762 LE+16=  8770 byte5=00 byte6=00
+VS6_02.MAG       archivo= 13200 LE= 15312 BE= 53307 LE+7= 15319 LE+8= 15320 LE+16= 15328 byte5=00 byte6=00
+VS6_03.MAG       archivo=  3701 LE=  4260 BE= 42000 LE+7=  4267 LE+8=  4268 LE+16=  4276 byte5=00 byte6=00
+
+FAMILIA: 'PC98>'
+----------------------------------------------------------------------
+GIRL2A.MAG       archivo= 23110 LE= 20535 BE= 14160 LE+7= 20542 LE+8= 20543 LE+16= 20551 byte5=00 byte6=00
+GIRL5A.MAG       archivo= 31255 LE= 27769 BE= 31084 LE+7= 27776 LE+8= 27777 LE+16= 27785 byte5=00 byte6=00
+GIRL7A.MAG       archivo= 17503 LE= 15549 BE= 48444 LE+7= 15556 LE+8= 15557 LE+16= 15565 byte5=00 byte6=00
